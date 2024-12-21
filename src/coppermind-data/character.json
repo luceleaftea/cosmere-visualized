@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Kelsier",
+    "born": "c. 984 FE",
+    "died": "1022 FE",
+    "relationships": [
+      {
+        "target": "Mare",
+        "relationship": "Spouse"
+      },
+      {
+        "target": "Kelsier's mother",
+        "relationship": "Mother"
+      },
+      {
+        "target": "Marsh",
+        "relationship": "Sibling"
+      }
+    ],
+    "abilities": [
+      "Mistborn",
+      "Sliver",
+      "Cognitive Shadow",
+      "Shard of Preservation",
+      "Hemalurgist"
+    ],
+    "titles": [
+      "Survivor of Hathsin",
+      "Sovereign",
+      "Lord of Scars",
+      "Thaidakar"
+    ],
+    "groups": [
+      "Kelsier's crew",
+      "Preservers",
+      "Ghostbloods"
+    ],
+    "ethnicity": "Skaa",
+    "residence": "Luthadel",
+    "homeworld": "Scadrial",
+    "introduced_in": "Mistborn: The Final Empire",
+    "coppermind_link": "https://coppermind.net/wiki/Kelsier"
+  },
+  {
+    "name": "Mare"
+  },
+  {
+    "name": "Marsh"
+  }
+]

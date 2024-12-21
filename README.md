@@ -14,22 +14,31 @@
 ### Chapter
 * **Name**: String
 * **Book**: String
+* **Characters**: ChapterCharacter[]
 * **Coppermind Link:**: String
+
+### Chapter Character
+* **Name**: String
+* **Point of View**: Boolean
+* **ActuallyAppears**: Boolean
 
 ### Character
 * **Name**: String
-* **Aliases**: String[]
+* **Born**: String | undefined
+* **Died**: String | undefined
+* **Aliases**: String[] | undefined
 * **Relationships**: Relationship[]
 * **Abilities**: String[]
-* **Bonded With**: String[]
-* **Titles**: String[]
-* **Ethnicity**: String?
-* **Nationality**: String
+* **Bonded With**: String[] | undefined
+* **Titles**: String[] | undefined
+* **Groups**: String[] | undefined
+* **Ethnicity**: String | undefined
+* **Nationality**: String | undefined
+* **Residence**: String | undefined
 * **Homeworld**: String
-* **Introduced In**: String
+* **Introduced In**: String - The book the character was originally introduced in (in publication order)
 * **Coppermind Link:**: String
 
 ### Relationship
-* **Source**: String
 * **Target**: String
-* **Relationship**: String - What the source's relationship to the target is (Ex: Kelsier, Mare, Spouse)
+* **Relationship**: String - What the relationship to the target is (Ex: If a relationship object is attached to Kelsier, it woudl be Mare + Spouse)

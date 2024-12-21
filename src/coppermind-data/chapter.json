@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Prologue",
+    "book": "Mistborn: The Final Empire",
+    "characters": [
+      {
+        "name": "Kelsier",
+        "point_of_view": true,
+        "actually_appears": true
+      }
+    ],
+    "coppermind_link": "https://coppermind.net/wiki/Summary:Mistborn:_The_Final_Empire#Prologue"
+  }
+]
