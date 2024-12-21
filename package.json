@@ -1,15 +1,18 @@
 {
   "name": "cosmere-visualized",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
-  "main": "dist/index.js",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "build": "tsc"
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
   },
   "dependencies": {
     "force-graph": "^1.47.1"
   },
   "devDependencies": {
+    "parcel": "^2.13.3",
     "typescript": "^5.5.3"
   },
   "private": true
