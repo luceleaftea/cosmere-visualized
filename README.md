@@ -1,6 +1,9 @@
 # Cosmere Visualized
 
 ## Setup
+1. Install the version of NPM listed in the .nvmrc (can use NVM)
+2. Run `npm install`
+3. Run `npm run start` to start the development server
 
 ## Data
 ### Book
