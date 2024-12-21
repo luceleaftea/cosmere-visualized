@@ -6,7 +6,9 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "force-graph": "^1.47.1"
+  },
   "devDependencies": {
     "typescript": "^5.5.3"
   },
