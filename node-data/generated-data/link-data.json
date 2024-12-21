@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "source": "character: Kelsier",
+    "target": "character: Mare"
+  },
+  {
+    "source": "character: Kelsier",
+    "target": "character: Marsh"
+  }
+]

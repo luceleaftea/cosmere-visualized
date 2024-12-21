@@ -1,14 +1,14 @@
 import fs from 'fs'
 
-import bookJson from '../src/coppermind-data/book.json' with { type: "json" }
-import chapterJson from '../src/coppermind-data/chapter.json' with { type: "json" }
-import characterJson from '../src/coppermind-data/character.json' with { type: "json" }
+import bookJson from '../coppermind-data/test-data/book.json' with { type: "json" }
+import chapterJson from '../coppermind-data/test-data/chapter.json' with { type: "json" }
+import characterJson from '../coppermind-data/test-data/character.json' with { type: "json" }
 
 export function generateNodeData() {
     let nodeData = []
 
-    nodeData = nodeData.concat(bookJson.map(convertBookToNode))
-    nodeData = nodeData.concat(chapterJson.map(convertChapterToNode))
+    // nodeData = nodeData.concat(bookJson.map(convertBookToNode))
+    // nodeData = nodeData.concat(chapterJson.map(convertChapterToNode))
     nodeData = nodeData.concat(characterJson.map(convertCharacterToNode))
 
     return nodeData
@@ -26,7 +26,7 @@ function convertBookToNode(book) {
 
 function convertChapterToNode(chapter) {
     return {
-        id: `book: ${chapter.name}`,
+        id: `chapter: ${chapter.name}`,
         name: chapter.name,
         type: 'chapter'
     }
@@ -34,7 +34,7 @@ function convertChapterToNode(chapter) {
 
 function convertCharacterToNode(character) {
     return {
-        id: `book: ${character.name}`,
+        id: `character: ${character.name}`,
         name: character.name,
         type: 'character'
     }
