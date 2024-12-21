@@ -1,0 +1,27 @@
+[
+  {
+    "id": "book: Mistborn: The Final Empire",
+    "name": "Mistborn: The Final Empire",
+    "type": "book"
+  },
+  {
+    "id": "book: Prologue",
+    "name": "Prologue",
+    "type": "chapter"
+  },
+  {
+    "id": "book: Kelsier",
+    "name": "Kelsier",
+    "type": "character"
+  },
+  {
+    "id": "book: Mare",
+    "name": "Mare",
+    "type": "character"
+  },
+  {
+    "id": "book: Marsh",
+    "name": "Marsh",
+    "type": "character"
+  }
+]

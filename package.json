@@ -9,7 +9,8 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
-    "force-graph": "^1.47.1"
+    "force-graph": "^1.47.1",
+    "fs": "0.0.1-security"
   },
   "devDependencies": {
     "parcel": "^2.13.3",

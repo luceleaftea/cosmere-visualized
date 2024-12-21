@@ -1,0 +1,11 @@
+{
+  "name": "cosmere-visualized-node-data",
+  "version": "0.1.0",
+  "description": "",
+  "source": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true
+}
