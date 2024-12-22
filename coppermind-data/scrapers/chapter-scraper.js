@@ -4,6 +4,34 @@ const summaryLinks = [
     {
         name: "The Way of Kings",
         link: "https://coppermind.net/wiki/Summary:The_Way_of_Kings"
+    },
+    {
+        name: "Words of Radiance",
+        link: "https://coppermind.net/wiki/Summary:Words_of_Radiance"
+    },
+    {
+        name: "Oathbringer",
+        link: "https://coppermind.net/wiki/Summary:Oathbringer"
+    },
+    {
+        name: "Rhythm of War",
+        link: "https://coppermind.net/wiki/Summary:Rhythm_of_War"
+    },
+    {
+        name: "Wind and Truth",
+        link: "https://coppermind.net/wiki/Summary:Wind_and_Truth"
+    },
+    {
+        name: "Mistborn: The Final Empire",
+        link: "https://coppermind.net/wiki/Summary:Mistborn:_The_Final_Empire"
+    },
+    {
+        name: "The Well of Ascension",
+        link: "https://coppermind.net/wiki/Summary:The_Well_of_Ascension"
+    },
+    {
+        name: "The Hero of Ages",
+        link: "https://coppermind.net/wiki/Summary:The_Hero_of_Ages"
     }
 ]
 
