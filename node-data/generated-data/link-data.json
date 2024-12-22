@@ -1,10 +1,3030 @@
 [
   {
+    "source": "character: Adien",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Adien",
+    "target": "character: Daora"
+  },
+  {
+    "source": "character: Adien",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Adien",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Adien",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Adolin Kholin",
+    "target": "character: Toh"
+  },
+  {
+    "source": "character: Adolin Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Adolin Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Aesudan Kholin",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Aesudan Kholin",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Aesudan Kholin",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Aesudan Kholin",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Ahan",
+    "target": "character: Seaden"
+  },
+  {
+    "source": "character: Ahan",
+    "target": "character: Torena"
+  },
+  {
+    "source": "character: Ais",
+    "target": "character: Mellis"
+  },
+  {
+    "source": "character: Ais",
+    "target": "character: Melloni"
+  },
+  {
+    "source": "character: Aladar",
+    "target": "character: May Aladar"
+  },
+  {
+    "source": "character: Aladar",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Alaxia",
+    "target": "character: Natir"
+  },
+  {
+    "source": "character: Aledin",
+    "target": "character: Troalin"
+  },
+  {
+    "source": "character: Aledin",
+    "target": "character: Slowswift"
+  },
+  {
+    "source": "character: Ali-daughter-Hasweth",
+    "target": "character: Shauka-daughter-Hasweth"
+  },
+  {
+    "source": "character: Allri Innate",
+    "target": "character: Replar Innate"
+  },
+  {
+    "source": "character: Allriandre Durkel",
+    "target": "character: Ruri"
+  },
+  {
+    "source": "character: Allriandre Durkel",
+    "target": "character: Durkel"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Edgard Ladrian"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Ashweather Cett"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Gneorndin Cett"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Allrianne Cett",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Ashweather Cett"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Gneorndin Cett"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Aving Cett"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Westweather Cett"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Allrianne's mother",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Ana",
+    "target": "character: Da"
+  },
+  {
+    "source": "character: Ana",
+    "target": "character: Moash"
+  },
+  {
+    "source": "character: Apara",
+    "target": "character: Cael"
+  },
+  {
+    "source": "character: Aradan Yomen",
+    "target": "character: Joshin Yomen"
+  },
+  {
+    "source": "character: Aratin Khal",
+    "target": "character: General Khal"
+  },
+  {
+    "source": "character: Aratin Khal",
+    "target": "character: Idani"
+  },
+  {
+    "source": "character: Ardous Geffenry",
+    "target": "character: Callins Geffenry"
+  },
+  {
+    "source": "character: Ardous Geffenry",
+    "target": "character: Crews Geffenry"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Steris Harms"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Marasi Colms"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Jackstom Harms"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Armal",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Ashlv",
+    "target": "character: Tozbek"
+  },
+  {
+    "source": "character: Ashravan",
+    "target": "character: Kurshina"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Allrianne Cett"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Gneorndin Cett"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Aving Cett"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Westweather Cett"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Ashweather Cett",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Atara",
+    "target": "character: Telrii"
+  },
+  {
+    "source": "character: Atara",
+    "target": "character: Shaor"
+  },
+  {
+    "source": "character: Audil Lekal",
+    "target": "character: Jastes Lekal"
+  },
+  {
+    "source": "character: Aunt Glorf",
+    "target": "character: Tress"
+  },
+  {
+    "source": "character: Aunt Glorf",
+    "target": "character: Great-grandmother Glorf"
+  },
+  {
+    "source": "character: Aving Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Balat Davar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Balat Davar",
+    "target": "character: Chanarach"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Beautiful Song",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Beldre",
+    "target": "character: Quellion"
+  },
+  {
+    "source": "character: Bethab",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Bila",
+    "target": "character: Thude"
+  },
+  {
+    "source": "character: Brightlord Seveks",
+    "target": "character: Malasha Seveks"
+  },
+  {
+    "source": "character: Cael",
+    "target": "character: Apara"
+  },
+  {
+    "source": "character: Callins Geffenry",
+    "target": "character: Ardous Geffenry"
+  },
+  {
+    "source": "character: Callins Geffenry",
+    "target": "character: Crews Geffenry"
+  },
+  {
+    "source": "character: Carlee",
+    "target": "character: Tyden"
+  },
+  {
+    "source": "character: Chanarach",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Charlie",
+    "target": "character: Charlie's father"
+  },
+  {
+    "source": "character: Charlie",
+    "target": "character: Dirk"
+  },
+  {
+    "source": "character: Charlie's father",
+    "target": "character: Charlie"
+  },
+  {
+    "source": "character: Charlie's father",
+    "target": "character: Dirk"
+  },
+  {
+    "source": "character: Charrs Entrone",
+    "target": "character: Valette Entrone"
+  },
+  {
+    "source": "character: Charrs Entrone",
+    "target": "character: Gave Entrone"
+  },
+  {
+    "source": "character: Charrs Entrone",
+    "target": "character: Hughes Entrone"
+  },
+  {
+    "source": "character: Chilinko",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "character: Chip Erikell",
+    "target": "character: Lord Erikell"
+  },
+  {
+    "source": "character: Cladent",
+    "target": "character: Margel"
+  },
+  {
+    "source": "character: Cladent",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Claude Aradel",
+    "target": "character: Goradel"
+  },
+  {
+    "source": "character: Cob (Stormlight)",
+    "target": "character: Kheni"
+  },
+  {
+    "source": "character: Compassion",
+    "target": "character: Compassion's grandsons"
+  },
+  {
+    "source": "character: Compassion's grandsons",
+    "target": "character: Compassion"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Cord",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Crews Geffenry",
+    "target": "character: Ardous Geffenry"
+  },
+  {
+    "source": "character: Crews Geffenry",
+    "target": "character: Callins Geffenry"
+  },
+  {
+    "source": "character: Da",
+    "target": "character: Ana"
+  },
+  {
+    "source": "character: Da",
+    "target": "character: Moash"
+  },
+  {
+    "source": "character: Dalinar Kholin",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "character: Dalinar Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Dalinar Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Dalinar's father",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Daora",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Daora",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Daora",
+    "target": "character: Adien"
+  },
+  {
+    "source": "character: Daora",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Daora",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Daora"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Adien"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Daorn",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Darlin Cett",
+    "target": "character: Cett (coach owner)"
+  },
+  {
+    "source": "character: Darlin Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Dashe",
+    "target": "character: Matisse"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Dedelin",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Delius's son",
+    "target": "character: Delius"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Sisirinah"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Dilaf",
+    "target": "character: Seala"
+  },
+  {
+    "source": "character: Diolen",
+    "target": "character: Waren"
+  },
+  {
+    "source": "character: Dirk",
+    "target": "character: Princess of Dormancy"
+  },
+  {
+    "source": "character: Dirk",
+    "target": "character: Charlie"
+  },
+  {
+    "source": "character: Divinity Salvage",
+    "target": "character: Rebeke Salvage"
+  },
+  {
+    "source": "character: Divinity Salvage",
+    "target": "character: Elegy Salvage"
+  },
+  {
+    "source": "character: Drlwan",
+    "target": "character: Kstled"
+  },
+  {
+    "source": "character: Durkel",
+    "target": "character: Ruri"
+  },
+  {
+    "source": "character: Dyel",
+    "target": "character: Dyel's mother"
+  },
+  {
+    "source": "character: Dyel",
+    "target": "character: Ym"
+  },
+  {
+    "source": "character: Dyel's mother",
+    "target": "character: Dyel"
+  },
+  {
+    "source": "character: Dyel's mother",
+    "target": "character: Ym"
+  },
+  {
+    "source": "character: Edgard Ladrian",
+    "target": "character: Allrianne Cett"
+  },
+  {
+    "source": "character: Edgard Ladrian",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Edgard Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Waxillium Ladrian"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Telsin Ladrian"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Ashweather Cett"
+  },
+  {
+    "source": "character: Edwarn Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Elend Venture",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Elend Venture",
+    "target": "character: Elend's mother"
+  },
+  {
+    "source": "character: Elhokar Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Elhokar Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Elid-daughter-Zeenid",
+    "target": "character: Neturo-son-Vallano"
+  },
+  {
+    "source": "character: Elid-daughter-Zeenid",
+    "target": "character: Zeenid-daughter-Beth"
+  },
+  {
+    "source": "character: Elid-daughter-Zeenid",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "character: Elit Ruthar",
+    "target": "character: Ruthar"
+  },
+  {
+    "source": "character: Elit Ruthar",
+    "target": "character: Jayla Ruthar"
+  },
+  {
+    "source": "character: Elit Ruthar",
+    "target": "character: Relis Ruthar"
+  },
+  {
+    "source": "character: Eshen",
+    "target": "character: Iadon"
+  },
+  {
+    "source": "character: Eshen",
+    "target": "character: Raoden"
+  },
+  {
+    "source": "character: Eshonai",
+    "target": "character: Jaxlim"
+  },
+  {
+    "source": "character: Eshonai",
+    "target": "character: Venli"
+  },
+  {
+    "source": "character: Eton",
+    "target": "character: Iadon"
+  },
+  {
+    "source": "character: Eton",
+    "target": "character: Eshen"
+  },
+  {
+    "source": "character: Eton",
+    "target": "character: Raoden"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Sarene's mother"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Eventeo",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Evi Kholin",
+    "target": "character: Toh"
+  },
+  {
+    "source": "character: Eylita Tavinar",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "character: Eylita Tavinar",
+    "target": "character: Tavinar"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Fafen",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Fatren",
+    "target": "character: Druffel"
+  },
+  {
+    "source": "character: Fen Rnamdi",
+    "target": "character: Kmakl"
+  },
+  {
+    "source": "character: Fen Rnamdi",
+    "target": "character: Kdralk"
+  },
+  {
+    "source": "character: Fen Rnamdi",
+    "target": "character: Tslamfn"
+  },
+  {
+    "source": "character: Gave Entrone",
+    "target": "character: Valette Entrone"
+  },
+  {
+    "source": "character: Gave Entrone",
+    "target": "character: Charrs Entrone"
+  },
+  {
+    "source": "character: Gavilar Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Gavilar Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Gavinor Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: General Khal",
+    "target": "character: Idani"
+  },
+  {
+    "source": "character: Gevelmar",
+    "target": "character: Malise Gevelmar"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Gift",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Gneorndin Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Goradel",
+    "target": "character: Claude Aradel"
+  },
+  {
+    "source": "character: Gvori",
+    "target": "character: Karavangia"
+  },
+  {
+    "source": "character: Gvori",
+    "target": "character: Ruli"
+  },
+  {
+    "source": "character: Gvori",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "character: Gvori",
+    "target": "character: Savrahalidem"
+  },
+  {
+    "source": "character: Gvori",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "character: Halam Khal",
+    "target": "character: General Khal"
+  },
+  {
+    "source": "character: Halam Khal",
+    "target": "character: Idani"
+  },
+  {
+    "source": "character: Harl",
+    "target": "character: Miasal"
+  },
+  {
+    "source": "character: Hatham",
+    "target": "character: Rine Hatham"
+  },
+  {
+    "source": "character: Hatham",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Heb",
+    "target": "character: Taffa"
+  },
+  {
+    "source": "character: Heb",
+    "target": "character: Seeli"
+  },
+  {
+    "source": "character: Helaran Davar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Hesina",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "character: Hesina",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Hesina",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Hesina",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Edwarn Ladrian"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Waxillium Ladrian"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Telsin Ladrian"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Ashweather Cett"
+  },
+  {
+    "source": "character: Hinston Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Hughes Entrone",
+    "target": "character: Charrs Entrone"
+  },
+  {
+    "source": "character: Huio",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "character: Iadon",
+    "target": "character: Raoden's mother"
+  },
+  {
+    "source": "character: Iadon",
+    "target": "character: Eshen"
+  },
+  {
+    "source": "character: Iadon",
+    "target": "character: Raoden"
+  },
+  {
+    "source": "character: Ico",
+    "target": "character: Ico's father"
+  },
+  {
+    "source": "character: Idkwyl Elariel",
+    "target": "character: Shan Elariel"
+  },
+  {
+    "source": "character: Idren Seeris",
+    "target": "character: Shan Elariel"
+  },
+  {
+    "source": "character: Ivanar Ruthar",
+    "target": "character: Ruthar"
+  },
+  {
+    "source": "character: Ivanar Ruthar",
+    "target": "character: Jayla Ruthar"
+  },
+  {
+    "source": "character: Ivanar Ruthar",
+    "target": "character: Relis Ruthar"
+  },
+  {
+    "source": "character: Ivanar Ruthar",
+    "target": "character: Elit Ruthar"
+  },
+  {
+    "source": "character: Ivanar Ruthar",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Jackstom Harms",
+    "target": "character: Armal"
+  },
+  {
+    "source": "character: Jackstom Harms",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Jackstom Harms",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Jackstom Harms",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Jalla",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Janala Lustow",
+    "target": "character: Lustow"
+  },
+  {
+    "source": "character: Jasnah Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Jasnah Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Jastes Lekal",
+    "target": "character: Audil Lekal"
+  },
+  {
+    "source": "character: Jaxy",
+    "target": "character: Ranette"
+  },
+  {
+    "source": "character: Jayla Ruthar",
+    "target": "character: Ruthar"
+  },
+  {
+    "source": "character: Jayla Ruthar",
+    "target": "character: Ivanar Ruthar"
+  },
+  {
+    "source": "character: Jedal",
+    "target": "character: Margel"
+  },
+  {
+    "source": "character: Jedal",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Jor",
+    "target": "character: Kryst"
+  },
+  {
+    "source": "character: Joshin Yomen",
+    "target": "character: Aradan Yomen"
+  },
+  {
+    "source": "character: Jushu Davar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Jushu Davar",
+    "target": "character: Chanarach"
+  },
+  {
+    "source": "character: Ka",
+    "target": "character: Peet"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Daora"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Adien"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Kaise",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Kaladin",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "character: Kaladin",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Kaladin",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Kaladin",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Kalami",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "character: Kalanor",
+    "target": "character: Loradar Vamah"
+  },
+  {
+    "source": "character: Kalanor",
+    "target": "character: Paladar"
+  },
+  {
+    "source": "character: Kalanor",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Kale Tekiel",
+    "target": "character: Tevidian Tekiel"
+  },
+  {
+    "source": "character: Kale Tekiel",
+    "target": "character: Salmen Tekiel"
+  },
+  {
+    "source": "character: Kale Tekiel",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Kale Tekiel",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Karata",
+    "target": "character: Opais"
+  },
+  {
+    "source": "character: Karavangia",
+    "target": "character: Gvori"
+  },
+  {
+    "source": "character: Karavangia",
+    "target": "character: Ruli"
+  },
+  {
+    "source": "character: Karavangia",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "character: Karavangia",
+    "target": "character: Savrahalidem"
+  },
+  {
+    "source": "character: Karavangia",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "character: Kaves Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Kaves Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Kdralk",
+    "target": "character: Fen Rnamdi"
+  },
+  {
+    "source": "character: Kdralk",
+    "target": "character: Kmakl"
+  },
+  {
+    "source": "character: Kdralk",
+    "target": "character: Tslamfn"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Kef'ha",
+    "target": "character: Tifi"
+  },
+  {
     "source": "character: Kelsier",
     "target": "character: Mare"
   },
   {
     "source": "character: Kelsier",
+    "target": "character: Kelsier's mother"
+  },
+  {
+    "source": "character: Kelsier",
     "target": "character: Marsh"
+  },
+  {
+    "source": "character: Kelsier's mother",
+    "target": "character: Kelsier"
+  },
+  {
+    "source": "character: Kelsier's mother",
+    "target": "character: Marsh"
+  },
+  {
+    "source": "character: Kenton's mother",
+    "target": "character: Praxton"
+  },
+  {
+    "source": "character: Kenton's mother",
+    "target": "character: Kenton"
+  },
+  {
+    "source": "character: Kerzt",
+    "target": "character: Lossa"
+  },
+  {
+    "source": "character: Keshdel",
+    "target": "character: Reendel"
+  },
+  {
+    "source": "character: Kheni",
+    "target": "character: Cob (Stormlight)"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Daora"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Lukel"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Adien"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Kiin",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Kmakl",
+    "target": "character: Fen Rnamdi"
+  },
+  {
+    "source": "character: Kmakl",
+    "target": "character: Kdralk"
+  },
+  {
+    "source": "character: Kmakra",
+    "target": "character: Wzmal"
+  },
+  {
+    "source": "character: Kmakra",
+    "target": "character: Molinar"
+  },
+  {
+    "source": "character: Kryst",
+    "target": "character: Jor"
+  },
+  {
+    "source": "character: Kstled",
+    "target": "character: Drlwan"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Kuma'tiki",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Kwaan",
+    "target": "character: Rashek"
+  },
+  {
+    "source": "character: Lalai",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "character: Laral Roshone",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "character: Lem",
+    "target": "character: Ulba"
+  },
+  {
+    "source": "character: Lem",
+    "target": "character: Tress"
+  },
+  {
+    "source": "character: Lin Davar",
+    "target": "character: Chanarach"
+  },
+  {
+    "source": "character: Lin Davar",
+    "target": "character: Malise Gevelmar"
+  },
+  {
+    "source": "character: Lirin",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Lirin",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Lirin",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Lirin",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Llarimar",
+    "target": "character: Tatara"
+  },
+  {
+    "source": "character: Llarimar",
+    "target": "character: Lightsong"
+  },
+  {
+    "source": "character: Lopen",
+    "target": "character: Lopen's mother"
+  },
+  {
+    "source": "character: Lopen",
+    "target": "character: Chilinko"
+  },
+  {
+    "source": "character: Lopen",
+    "target": "character: Huio"
+  },
+  {
+    "source": "character: Lopen",
+    "target": "character: Punio"
+  },
+  {
+    "source": "character: Lopen",
+    "target": "character: Rod (Roshar)"
+  },
+  {
+    "source": "character: Lopen's mother",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "character: Lopen's mother",
+    "target": "character: Chilinko"
+  },
+  {
+    "source": "character: Lopen's mother",
+    "target": "character: Huio"
+  },
+  {
+    "source": "character: Lopen's mother",
+    "target": "character: Punio"
+  },
+  {
+    "source": "character: Lopen's mother",
+    "target": "character: Rod (Roshar)"
+  },
+  {
+    "source": "character: Loradar Vamah",
+    "target": "character: Kalanor"
+  },
+  {
+    "source": "character: Loradar Vamah",
+    "target": "character: Paladar"
+  },
+  {
+    "source": "character: Loradar Vamah",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Lord Erikell",
+    "target": "character: Chip Erikell"
+  },
+  {
+    "source": "character: Lossa",
+    "target": "character: Kerzt"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Jalla"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Daora"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Adien"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Lukel",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Malise Gevelmar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Malise Gevelmar",
+    "target": "character: Gevelmar"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Jackstom Harms"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Steris Harms"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Armal"
+  },
+  {
+    "source": "character: Marasi Colms",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Margel",
+    "target": "character: Jedal"
+  },
+  {
+    "source": "character: Margel",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Margel",
+    "target": "character: Cladent"
+  },
+  {
+    "source": "character: Mari Hammondess",
+    "target": "character: Hammond"
+  },
+  {
+    "source": "character: Mari Hammondess",
+    "target": "character: Mardra"
+  },
+  {
+    "source": "character: Marsh",
+    "target": "character: Kelsier's mother"
+  },
+  {
+    "source": "character: Marsh",
+    "target": "character: Kelsier"
+  },
+  {
+    "source": "character: Matisse",
+    "target": "character: Dashe"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Marasi Colms"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Armal"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Edgard Ladrian"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Jackstom Harms"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Vwafendal"
+  },
+  {
+    "source": "character: Maxillium Ladrian",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: May Aladar",
+    "target": "character: Aladar"
+  },
+  {
+    "source": "character: May Aladar",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Meirav",
+    "target": "character: Yonatan"
+  },
+  {
+    "source": "character: MeLaan",
+    "target": "character: TenSoon"
+  },
+  {
+    "source": "character: Meleran Khal",
+    "target": "character: General Khal"
+  },
+  {
+    "source": "character: Meleran Khal",
+    "target": "character: Idani"
+  },
+  {
+    "source": "character: Mellis",
+    "target": "character: Ais"
+  },
+  {
+    "source": "character: Mellis",
+    "target": "character: Melloni"
+  },
+  {
+    "source": "character: Meridas Amaram",
+    "target": "character: Sheler"
+  },
+  {
+    "source": "character: Mi'chelle Yomen",
+    "target": "character: Joshin Yomen"
+  },
+  {
+    "source": "character: Misel",
+    "target": "character: Nanrovah"
+  },
+  {
+    "source": "character: Moash",
+    "target": "character: Ana"
+  },
+  {
+    "source": "character: Moash",
+    "target": "character: Da"
+  },
+  {
+    "source": "character: Molinar",
+    "target": "character: Wzmal"
+  },
+  {
+    "source": "character: Molinar",
+    "target": "character: Kmakra"
+  },
+  {
+    "source": "character: NaiMeer",
+    "target": "character: Vey"
+  },
+  {
+    "source": "character: NanHar",
+    "target": "character: NanKhet"
+  },
+  {
+    "source": "character: Nanrovah",
+    "target": "character: Misel"
+  },
+  {
+    "source": "character: Natir",
+    "target": "character: Alaxia"
+  },
+  {
+    "source": "character: Ned",
+    "target": "character: Rem"
+  },
+  {
+    "source": "character: Neturo-son-Vallano",
+    "target": "character: Zeenid-daughter-Beth"
+  },
+  {
+    "source": "character: Neturo-son-Vallano",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "character: Neturo-son-Vallano",
+    "target": "character: Elid-daughter-Zeenid"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Lunamor",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Oroden",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "character: Oroden",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Oroden",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Oroden",
+    "target": "character: Tien"
+  },
+  {
+    "source": "character: Paalm",
+    "target": "character: Waxillium Ladrian"
+  },
+  {
+    "source": "character: Parlin",
+    "target": "character: Yarda"
+  },
+  {
+    "source": "character: Peet",
+    "target": "character: Ka"
+  },
+  {
+    "source": "character: Praxton",
+    "target": "character: Kenton's mother"
+  },
+  {
+    "source": "character: Praxton",
+    "target": "character: Kenton"
+  },
+  {
+    "source": "character: Punio",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "character: Raagent",
+    "target": "character: Aarik"
+  },
+  {
+    "source": "character: Ral-na",
+    "target": "character: Talik"
+  },
+  {
+    "source": "character: Ranette",
+    "target": "character: Jaxy"
+  },
+  {
+    "source": "character: Raoden",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Raoden",
+    "target": "character: Iadon"
+  },
+  {
+    "source": "character: Raoden",
+    "target": "character: Raoden's mother"
+  },
+  {
+    "source": "character: Raoden's mother",
+    "target": "character: Iadon"
+  },
+  {
+    "source": "character: Raoden's mother",
+    "target": "character: Raoden"
+  },
+  {
+    "source": "character: Raoshem",
+    "target": "character: Elashe"
+  },
+  {
+    "source": "character: Redin",
+    "target": "character: Valam"
+  },
+  {
+    "source": "character: Redin",
+    "target": "character: Sudi Valam"
+  },
+  {
+    "source": "character: Reen",
+    "target": "character: Vin's mother"
+  },
+  {
+    "source": "character: Reen",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Reen",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Reendel",
+    "target": "character: Keshdel"
+  },
+  {
+    "source": "character: Relis Ruthar",
+    "target": "character: Ruthar"
+  },
+  {
+    "source": "character: Relis Ruthar",
+    "target": "character: Jayla Ruthar"
+  },
+  {
+    "source": "character: Relis Ruthar",
+    "target": "character: Ivanar Ruthar"
+  },
+  {
+    "source": "character: Relis Ruthar",
+    "target": "character: Elit Ruthar"
+  },
+  {
+    "source": "character: Relis Ruthar",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Renarin Kholin",
+    "target": "character: Toh"
+  },
+  {
+    "source": "character: Renarin Kholin",
+    "target": "character: Dalinar's father"
+  },
+  {
+    "source": "character: Renarin Kholin",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Replar Innate",
+    "target": "character: Allri Innate"
+  },
+  {
+    "source": "character: Replar Innate",
+    "target": "character: Winsting Innate"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Ridger",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Rine Hatham",
+    "target": "character: Hatham"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Rock (junior)",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Rod (Roshar)",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "character: Roion",
+    "target": "character: Roion's son"
+  },
+  {
+    "source": "character: Roion",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Roion's son",
+    "target": "character: Roion"
+  },
+  {
+    "source": "character: Roion's son",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Ruli",
+    "target": "character: Gvori"
+  },
+  {
+    "source": "character: Ruli",
+    "target": "character: Karavangia"
+  },
+  {
+    "source": "character: Ruli",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "character: Ruli",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "character: Ruri",
+    "target": "character: Durkel"
+  },
+  {
+    "source": "character: Ruthar",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Salmen Tekiel",
+    "target": "character: Tevidian Tekiel"
+  },
+  {
+    "source": "character: Salmen Tekiel",
+    "target": "character: Kale Tekiel"
+  },
+  {
+    "source": "character: Salmen Tekiel",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Salmen Tekiel",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Raoden"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Sarene's mother"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Sarene",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Sarene's mother",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Sarene's mother",
+    "target": "character: Teorn"
+  },
+  {
+    "source": "character: Sarene's mother",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Savrahalidem",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "character: Savrahalidem",
+    "target": "character: Karavangia"
+  },
+  {
+    "source": "character: Savrahalidem",
+    "target": "character: Gvori"
+  },
+  {
+    "source": "character: Savrahalidem",
+    "target": "character: Ruli"
+  },
+  {
+    "source": "character: Savrahalidem",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "character: Seaden",
+    "target": "character: Ahan"
+  },
+  {
+    "source": "character: Seaden",
+    "target": "character: Torena"
+  },
+  {
+    "source": "character: Sebruki",
+    "target": "character: Silence Montane"
+  },
+  {
+    "source": "character: Shallan Davar",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "character: Shallan Davar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Shallan Davar",
+    "target": "character: Chanarach"
+  },
+  {
+    "source": "character: Shan Elariel",
+    "target": "character: Idren Seeris"
+  },
+  {
+    "source": "character: Shaor",
+    "target": "character: Atara"
+  },
+  {
+    "source": "character: Shaor",
+    "target": "character: Telrii"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Vasher"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Sisirinah"
+  },
+  {
+    "source": "character: Shashara",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Shauka-daughter-Hasweth",
+    "target": "character: Ali-daughter-Hasweth"
+  },
+  {
+    "source": "character: Silence Montane",
+    "target": "character: William Montane"
+  },
+  {
+    "source": "character: Silence Montane",
+    "target": "character: William Ann Montane"
+  },
+  {
+    "source": "character: Silence Montane",
+    "target": "character: Sebruki"
+  },
+  {
+    "source": "character: Silence Montane",
+    "target": "character: Silence's grandmother"
+  },
+  {
+    "source": "character: Silence Montane",
+    "target": "character: Silence's grandfather"
+  },
+  {
+    "source": "character: Silence's grandfather",
+    "target": "character: Silence's grandmother"
+  },
+  {
+    "source": "character: Silence's grandfather",
+    "target": "character: Silence Montane"
+  },
+  {
+    "source": "character: Silence's grandfather",
+    "target": "character: William Ann Montane"
+  },
+  {
+    "source": "character: Silence's grandmother",
+    "target": "character: Silence's grandfather"
+  },
+  {
+    "source": "character: Silence's grandmother",
+    "target": "character: Silence Montane"
+  },
+  {
+    "source": "character: Silence's grandmother",
+    "target": "character: William Ann Montane"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Susebron"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Sisirinah",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Spook",
+    "target": "character: Jedal"
+  },
+  {
+    "source": "character: Spook",
+    "target": "character: Margel"
+  },
+  {
+    "source": "character: Spook",
+    "target": "character: Cladent"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Tuaka"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Kef'ha"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Sinaku'a"
+  },
+  {
+    "source": "character: Star",
+    "target": "character: Tifi"
+  },
+  {
+    "source": "character: Lightsong",
+    "target": "character: Llarimar"
+  },
+  {
+    "source": "character: Lightsong",
+    "target": "character: Tatara"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Waxillium Ladrian"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Jackstom Harms"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Marasi Colms"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Armal"
+  },
+  {
+    "source": "character: Steris Harms",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Straff Venture",
+    "target": "character: Elend's mother"
+  },
+  {
+    "source": "character: Sudi Valam",
+    "target": "character: Valam"
+  },
+  {
+    "source": "character: Sudi Valam",
+    "target": "character: Redin"
+  },
+  {
+    "source": "character: Susebron",
+    "target": "character: Sisirinah"
+  },
+  {
+    "source": "character: Susebron",
+    "target": "character: Susebron's mother"
+  },
+  {
+    "source": "character: Susebron's mother",
+    "target": "character: Susebron"
+  },
+  {
+    "source": "character: Szeth",
+    "target": "character: Masha-daughter-Shaliv"
+  },
+  {
+    "source": "character: Szeth",
+    "target": "character: Zeenid-daughter-Beth"
+  },
+  {
+    "source": "character: Szeth",
+    "target": "character: Elid-daughter-Zeenid"
+  },
+  {
+    "source": "character: Taffa",
+    "target": "character: Heb"
+  },
+  {
+    "source": "character: Taffa",
+    "target": "character: Seeli"
+  },
+  {
+    "source": "character: Tanalan's father",
+    "target": "character: Tanalan's mother"
+  },
+  {
+    "source": "character: Tanalan's father",
+    "target": "character: Tanalan"
+  },
+  {
+    "source": "character: Tanalan's mother",
+    "target": "character: Tanalan's father"
+  },
+  {
+    "source": "character: Tanalan's mother",
+    "target": "character: Tanalan"
+  },
+  {
+    "source": "character: Taravangian",
+    "target": "character: Savrahalidem"
+  },
+  {
+    "source": "character: Taravangian",
+    "target": "character: Gvori"
+  },
+  {
+    "source": "character: Taravangian",
+    "target": "character: Karavangia"
+  },
+  {
+    "source": "character: Taravangian",
+    "target": "character: Ruli"
+  },
+  {
+    "source": "character: Taravangian",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "character: Taravangian's granddaughter",
+    "target": "character: Gvori"
+  },
+  {
+    "source": "character: Taravangian's granddaughter",
+    "target": "character: Karavangia"
+  },
+  {
+    "source": "character: Taravangian's granddaughter",
+    "target": "character: Ruli"
+  },
+  {
+    "source": "character: Taravangian's granddaughter",
+    "target": "character: Savrahalidem"
+  },
+  {
+    "source": "character: Taravangian's granddaughter",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "character: Tatara",
+    "target": "character: Llarimar"
+  },
+  {
+    "source": "character: Tatara",
+    "target": "character: Lightsong"
+  },
+  {
+    "source": "character: Tavinar",
+    "target": "character: Eylita Tavinar"
+  },
+  {
+    "source": "character: Telrii",
+    "target": "character: Atara"
+  },
+  {
+    "source": "character: Telrii",
+    "target": "character: Shaor"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Waxillium Ladrian"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Edwarn Ladrian"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Edgard Ladrian"
+  },
+  {
+    "source": "character: Telsin Ladrian",
+    "target": "character: Vwafendal"
+  },
+  {
+    "source": "character: TenSoon",
+    "target": "character: MeLaan"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Eventeo"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Sarene's mother"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Sarene"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Kaise"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Daorn"
+  },
+  {
+    "source": "character: Teorn",
+    "target": "character: Kiin"
+  },
+  {
+    "source": "character: Teshav Khal",
+    "target": "character: General Khal"
+  },
+  {
+    "source": "character: Teshav Khal",
+    "target": "character: Idani"
+  },
+  {
+    "source": "character: Tevidian Tekiel",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Tevidian Tekiel",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Tevidian Tekiel",
+    "target": "character: Salmen Tekiel"
+  },
+  {
+    "source": "character: Tevidian Tekiel",
+    "target": "character: Kale Tekiel"
+  },
+  {
+    "source": "character: Tien",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "character: Tien",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "character: Tien",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "character: Tien",
+    "target": "character: Oroden"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Armal"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Edgard Ladrian"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Jackstom Harms"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Vwafendal"
+  },
+  {
+    "source": "character: Tindwyl Ladrian",
+    "target": "character: Spook"
+  },
+  {
+    "source": "character: Toh",
+    "target": "character: Evi Kholin"
+  },
+  {
+    "source": "character: Toralin Roshone",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "character: Toralin Roshone",
+    "target": "character: Rillir Roshone"
+  },
+  {
+    "source": "character: Torol Sadeas",
+    "target": "character: Ialai Sadeas"
+  },
+  {
+    "source": "character: Torol Sadeas",
+    "target": "character: Lalai"
+  },
+  {
+    "source": "character: Torol Sadeas",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "character: Tress",
+    "target": "character: Lem"
+  },
+  {
+    "source": "character: Tress",
+    "target": "character: Ulba"
+  },
+  {
+    "source": "character: Tress",
+    "target": "character: Aunt Glorf"
+  },
+  {
+    "source": "character: Tress",
+    "target": "character: Great-grandmother Glorf"
+  },
+  {
+    "source": "character: Troalin",
+    "target": "character: Aledin"
+  },
+  {
+    "source": "character: Troalin",
+    "target": "character: Slowswift"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Lunamor"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Gift"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Cord"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Rock (junior)"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Star"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Kuma'tiki"
+  },
+  {
+    "source": "character: Tuaka",
+    "target": "character: Beautiful Song"
+  },
+  {
+    "source": "character: Ulba",
+    "target": "character: Lem"
+  },
+  {
+    "source": "character: Ulba",
+    "target": "character: Tress"
+  },
+  {
+    "source": "character: Valette Entrone",
+    "target": "character: Gave Entrone"
+  },
+  {
+    "source": "character: Valette Entrone",
+    "target": "character: Charrs Entrone"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Sisirinah"
+  },
+  {
+    "source": "character: Denth",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Venli",
+    "target": "character: Demid"
+  },
+  {
+    "source": "character: Venli",
+    "target": "character: Jaxlim"
+  },
+  {
+    "source": "character: Venli",
+    "target": "character: Eshonai"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Elend Venture"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Tevidian Tekiel"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Vin's mother"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Reen"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Salmen Tekiel"
+  },
+  {
+    "source": "character: Vin",
+    "target": "character: Kale Tekiel"
+  },
+  {
+    "source": "character: Vin's mother",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Vin's mother",
+    "target": "character: Vin's sister"
+  },
+  {
+    "source": "character: Vin's mother",
+    "target": "character: Reen"
+  },
+  {
+    "source": "character: Vin's sister",
+    "target": "character: Tevidian Tekiel"
+  },
+  {
+    "source": "character: Vin's sister",
+    "target": "character: Vin's mother"
+  },
+  {
+    "source": "character: Vin's sister",
+    "target": "character: Vin"
+  },
+  {
+    "source": "character: Vin's sister",
+    "target": "character: Reen"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Vivenna's mother"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Denth"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Shashara"
+  },
+  {
+    "source": "character: Vivenna",
+    "target": "character: Vo"
+  },
+  {
+    "source": "character: Vivenna's mother",
+    "target": "character: Dedelin"
+  },
+  {
+    "source": "character: Vivenna's mother",
+    "target": "character: Vivenna"
+  },
+  {
+    "source": "character: Vivenna's mother",
+    "target": "character: Ridger"
+  },
+  {
+    "source": "character: Vivenna's mother",
+    "target": "character: Fafen"
+  },
+  {
+    "source": "character: Vivenna's mother",
+    "target": "character: Sisirinah"
+  },
+  {
+    "source": "character: Waren",
+    "target": "character: Diolen"
+  },
+  {
+    "source": "character: Waren",
+    "target": "character: Idan"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Paalm"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Steris Harms"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Maxillium Ladrian"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Tindwyl Ladrian"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Telsin Ladrian"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Edwarn Ladrian"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Edgard Ladrian"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Allrianne Cett"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Ashweather Cett"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Waxillium Ladrian",
+    "target": "character: Vwafendal"
+  },
+  {
+    "source": "character: Wayne",
+    "target": "character: Wayne's mother"
+  },
+  {
+    "source": "character: Wayne",
+    "target": "character: Gregr"
+  },
+  {
+    "source": "character: Westweather Cett",
+    "target": "character: Allrianne's mother"
+  },
+  {
+    "source": "character: Wikim Davar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "character: Wikim Davar",
+    "target": "character: Chanarach"
+  },
+  {
+    "source": "character: William Ann Montane",
+    "target": "character: Silence Montane"
+  },
+  {
+    "source": "character: William Ann Montane",
+    "target": "character: William Montane"
+  },
+  {
+    "source": "character: William Ann Montane",
+    "target": "character: Sebruki"
+  },
+  {
+    "source": "character: William Ann Montane",
+    "target": "character: Silence's grandmother"
+  },
+  {
+    "source": "character: William Ann Montane",
+    "target": "character: Silence's grandfather"
+  },
+  {
+    "source": "character: William Montane",
+    "target": "character: Silence Montane"
+  },
+  {
+    "source": "character: William Montane",
+    "target": "character: William Ann Montane"
+  },
+  {
+    "source": "character: Winsting Innate",
+    "target": "character: Replar Innate"
+  },
+  {
+    "source": "character: Wzmal",
+    "target": "character: Kmakra"
+  },
+  {
+    "source": "character: Wzmal",
+    "target": "character: Molinar"
+  },
+  {
+    "source": "character: Yarda",
+    "target": "character: Parlin"
+  },
+  {
+    "source": "character: Ym",
+    "target": "character: Dyel's mother"
+  },
+  {
+    "source": "character: Ym",
+    "target": "character: Dyel"
+  },
+  {
+    "source": "character: Yonatan",
+    "target": "character: Meirav"
+  },
+  {
+    "source": "character: Zeenid-daughter-Beth",
+    "target": "character: Neturo-son-Vallano"
+  },
+  {
+    "source": "character: Zeenid-daughter-Beth",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "character: Zeenid-daughter-Beth",
+    "target": "character: Elid-daughter-Zeenid"
   }
 ]

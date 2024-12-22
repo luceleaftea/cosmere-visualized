@@ -1,7 +1,5247 @@
 [
   {
+    "id": "character: 121",
+    "name": "121",
+    "type": "character"
+  },
+  {
+    "id": "character: Aarik",
+    "name": "Aarik",
+    "type": "character"
+  },
+  {
+    "id": "character: Abaray",
+    "name": "Abaray",
+    "type": "character"
+  },
+  {
+    "id": "character: Abiajan",
+    "name": "Abiajan",
+    "type": "character"
+  },
+  {
+    "id": "character: Abidi",
+    "name": "Abidi",
+    "type": "character"
+  },
+  {
+    "id": "character: Abrem",
+    "name": "Abrem",
+    "type": "character"
+  },
+  {
+    "id": "character: Abrial",
+    "name": "Abrial",
+    "type": "character"
+  },
+  {
+    "id": "character: Abrobadar",
+    "name": "Abrobadar",
+    "type": "character"
+  },
+  {
+    "id": "character: Abronai",
+    "name": "Abronai",
+    "type": "character"
+  },
+  {
+    "id": "character: Abry",
+    "name": "Abry",
+    "type": "character"
+  },
+  {
+    "id": "character: Acis",
+    "name": "Acis",
+    "type": "character"
+  },
+  {
+    "id": "character: Adawathwyn",
+    "name": "Adawathwyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Adien",
+    "name": "Adien",
+    "type": "character"
+  },
+  {
+    "id": "character: Adin",
+    "name": "Adin",
+    "type": "character"
+  },
+  {
+    "id": "character: Adis",
+    "name": "Adis",
+    "type": "character"
+  },
+  {
+    "id": "character: Admiral",
+    "name": "Admiral",
+    "type": "character"
+  },
+  {
+    "id": "character: Admiral Daal",
+    "name": "Admiral Daal",
+    "type": "character"
+  },
+  {
+    "id": "character: Adolin Kholin",
+    "name": "Adolin Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Adonalsium",
+    "name": "Adonalsium",
+    "type": "character"
+  },
+  {
+    "id": "character: Adonalsium-Will-Remember-Our-Plight-Eventually",
+    "name": "Adonalsium-Will-Remember-Our-Plight-Eventually",
+    "type": "character"
+  },
+  {
+    "id": "character: Adrotagia",
+    "name": "Adrotagia",
+    "type": "character"
+  },
+  {
+    "id": "character: Aeo",
+    "name": "Aeo",
+    "type": "character"
+  },
+  {
+    "id": "character: Aesudan Kholin",
+    "name": "Aesudan Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Agil",
+    "name": "Agil",
+    "type": "character"
+  },
+  {
+    "id": "character: Ahan",
+    "name": "Ahan",
+    "type": "character"
+  },
+  {
+    "id": "character: Aharat",
+    "name": "Aharat",
+    "type": "character"
+  },
+  {
+    "id": "character: Aika",
+    "name": "Aika",
+    "type": "character"
+  },
+  {
+    "id": "character: Ais",
+    "name": "Ais",
+    "type": "character"
+  },
+  {
+    "id": "character: Akane",
+    "name": "Akane",
+    "type": "character"
+  },
+  {
+    "id": "character: Ala",
+    "name": "Ala",
+    "type": "character"
+  },
+  {
+    "id": "character: Alabet",
+    "name": "Alabet",
+    "type": "character"
+  },
+  {
+    "id": "character: Aladar",
+    "name": "Aladar",
+    "type": "character"
+  },
+  {
+    "id": "character: Alai",
+    "name": "Alai",
+    "type": "character"
+  },
+  {
+    "id": "character: Alakavish",
+    "name": "Alakavish",
+    "type": "character"
+  },
+  {
+    "id": "character: Alalan",
+    "name": "Alalan",
+    "type": "character"
+  },
+  {
+    "id": "character: Alalhawithador",
+    "name": "Alalhawithador",
+    "type": "character"
+  },
+  {
+    "id": "character: Alavah",
+    "name": "Alavah",
+    "type": "character"
+  },
+  {
+    "id": "character: Alaward",
+    "name": "Alaward",
+    "type": "character"
+  },
+  {
+    "id": "character: Alaxia",
+    "name": "Alaxia",
+    "type": "character"
+  },
+  {
+    "id": "character: Alazansi",
+    "name": "Alazansi",
+    "type": "character"
+  },
+  {
+    "id": "character: Alds",
+    "name": "Alds",
+    "type": "character"
+  },
+  {
+    "id": "character: Aledin",
+    "name": "Aledin",
+    "type": "character"
+  },
+  {
+    "id": "character: Aleen",
+    "name": "Aleen",
+    "type": "character"
+  },
+  {
+    "id": "character: Alendi",
+    "name": "Alendi",
+    "type": "character"
+  },
+  {
+    "id": "character: Alernath",
+    "name": "Alernath",
+    "type": "character"
+  },
+  {
+    "id": "character: Alezarv",
+    "name": "Alezarv",
+    "type": "character"
+  },
+  {
+    "id": "character: Ali-daughter-Hasweth",
+    "name": "Ali-daughter-Hasweth",
+    "type": "character"
+  },
+  {
+    "id": "character: Alili",
+    "name": "Alili",
+    "type": "character"
+  },
+  {
+    "id": "character: Alim",
+    "name": "Alim",
+    "type": "character"
+  },
+  {
+    "id": "character: Allahn",
+    "name": "Allahn",
+    "type": "character"
+  },
+  {
+    "id": "character: Allik Neverfar",
+    "name": "Allik Neverfar",
+    "type": "character"
+  },
+  {
+    "id": "character: Allmother",
+    "name": "Allmother",
+    "type": "character"
+  },
+  {
+    "id": "character: Alloran Feltri",
+    "name": "Alloran Feltri",
+    "type": "character"
+  },
+  {
+    "id": "character: Allri Innate",
+    "name": "Allri Innate",
+    "type": "character"
+  },
+  {
+    "id": "character: Allriandre Durkel",
+    "name": "Allriandre Durkel",
+    "type": "character"
+  },
+  {
+    "id": "character: Allrianne Cett",
+    "name": "Allrianne Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Allrianne's mother",
+    "name": "Allrianne's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Allstren Cynder",
+    "name": "Allstren Cynder",
+    "type": "character"
+  },
+  {
+    "id": "character: Alonoe",
+    "name": "Alonoe",
+    "type": "character"
+  },
+  {
+    "id": "character: Alstben",
+    "name": "Alstben",
+    "type": "character"
+  },
+  {
+    "id": "character: Altoki",
+    "name": "Altoki",
+    "type": "character"
+  },
+  {
+    "id": "character: Alvettaren",
+    "name": "Alvettaren",
+    "type": "character"
+  },
+  {
+    "id": "character: Amaranta",
+    "name": "Amaranta",
+    "type": "character"
+  },
+  {
+    "id": "character: Amark",
+    "name": "Amark",
+    "type": "character"
+  },
+  {
+    "id": "character: Ambrian",
+    "name": "Ambrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Amuna",
+    "name": "Amuna",
+    "type": "character"
+  },
+  {
+    "id": "character: Ana",
+    "name": "Ana",
+    "type": "character"
+  },
+  {
+    "id": "character: Anesa",
+    "name": "Anesa",
+    "type": "character"
+  },
+  {
+    "id": "character: Ann",
+    "name": "Ann",
+    "type": "character"
+  },
+  {
+    "id": "character: Annarel",
+    "name": "Annarel",
+    "type": "character"
+  },
+  {
+    "id": "character: Antillius Shezler",
+    "name": "Antillius Shezler",
+    "type": "character"
+  },
+  {
+    "id": "character: Aona",
+    "name": "Aona",
+    "type": "character"
+  },
+  {
+    "id": "character: Apara",
+    "name": "Apara",
+    "type": "character"
+  },
+  {
+    "id": "character: Ape Manton",
+    "name": "Ape Manton",
+    "type": "character"
+  },
+  {
+    "id": "character: Aqqil",
+    "name": "Aqqil",
+    "type": "character"
+  },
+  {
+    "id": "character: Aqqu",
+    "name": "Aqqu",
+    "type": "character"
+  },
+  {
+    "id": "character: Aradan Yomen",
+    "name": "Aradan Yomen",
+    "type": "character"
+  },
+  {
+    "id": "character: Arafik",
+    "name": "Arafik",
+    "type": "character"
+  },
+  {
+    "id": "character: Aramine",
+    "name": "Aramine",
+    "type": "character"
+  },
+  {
+    "id": "character: Aratin Khal",
+    "name": "Aratin Khal",
+    "type": "character"
+  },
+  {
+    "id": "character: Arbitan",
+    "name": "Arbitan",
+    "type": "character"
+  },
+  {
+    "id": "character: Archinal",
+    "name": "Archinal",
+    "type": "character"
+  },
+  {
+    "id": "character: Arclomedarian",
+    "name": "Arclomedarian",
+    "type": "character"
+  },
+  {
+    "id": "character: Ardous Geffenry",
+    "name": "Ardous Geffenry",
+    "type": "character"
+  },
+  {
+    "id": "character: Aric",
+    "name": "Aric",
+    "type": "character"
+  },
+  {
+    "id": "character: Arik",
+    "name": "Arik",
+    "type": "character"
+  },
+  {
+    "id": "character: Arintol",
+    "name": "Arintol",
+    "type": "character"
+  },
+  {
+    "id": "character: Armal",
+    "name": "Armal",
+    "type": "character"
+  },
+  {
+    "id": "character: Arriev",
+    "name": "Arriev",
+    "type": "character"
+  },
+  {
+    "id": "character: Arshqqam",
+    "name": "Arshqqam",
+    "type": "character"
+  },
+  {
+    "id": "character: Arsteel",
+    "name": "Arsteel",
+    "type": "character"
+  },
+  {
+    "id": "character: Artmyrn",
+    "name": "Artmyrn",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashe",
+    "name": "Ashe",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashelem",
+    "name": "Ashelem",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashertmarn",
+    "name": "Ashertmarn",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashgress",
+    "name": "Ashgress",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashinata",
+    "name": "Ashinata",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashir",
+    "name": "Ashir",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashlv",
+    "name": "Ashlv",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashno",
+    "name": "Ashno",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashravan",
+    "name": "Ashravan",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashu",
+    "name": "Ashu",
+    "type": "character"
+  },
+  {
+    "id": "character: Ashweather Cett",
+    "name": "Ashweather Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Aslydin",
+    "name": "Aslydin",
+    "type": "character"
+  },
+  {
+    "id": "character: Asthta-daughter-Methista",
+    "name": "Asthta-daughter-Methista",
+    "type": "character"
+  },
+  {
+    "id": "character: Atara",
+    "name": "Atara",
+    "type": "character"
+  },
+  {
+    "id": "character: Ati",
+    "name": "Ati",
+    "type": "character"
+  },
+  {
+    "id": "character: Ati (seon)",
+    "name": "Ati (seon)",
+    "type": "character"
+  },
+  {
+    "id": "character: Atsuko",
+    "name": "Atsuko",
+    "type": "character"
+  },
+  {
+    "id": "character: Au-lam",
+    "name": "Au-lam",
+    "type": "character"
+  },
+  {
+    "id": "character: Au-nak",
+    "name": "Au-nak",
+    "type": "character"
+  },
+  {
+    "id": "character: Audil Lekal",
+    "name": "Audil Lekal",
+    "type": "character"
+  },
+  {
+    "id": "character: Augustin Tekiel",
+    "name": "Augustin Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Aunt Gin",
+    "name": "Aunt Gin",
+    "type": "character"
+  },
+  {
+    "id": "character: Aunt Glorf",
+    "name": "Aunt Glorf",
+    "type": "character"
+  },
+  {
+    "id": "character: Ausdenec",
+    "name": "Ausdenec",
+    "type": "character"
+  },
+  {
+    "id": "character: Austrism",
+    "name": "Austrism",
+    "type": "character"
+  },
+  {
+    "id": "character: Auxiliary",
+    "name": "Auxiliary",
+    "type": "character"
+  },
+  {
+    "id": "character: Av",
+    "name": "Av",
+    "type": "character"
+  },
+  {
+    "id": "character: Avado",
+    "name": "Avado",
+    "type": "character"
+  },
+  {
+    "id": "character: Avarak Matal",
+    "name": "Avarak Matal",
+    "type": "character"
+  },
+  {
+    "id": "character: Avaran",
+    "name": "Avaran",
+    "type": "character"
+  },
+  {
+    "id": "character: Avena",
+    "name": "Avena",
+    "type": "character"
+  },
+  {
+    "id": "character: Aving Cett",
+    "name": "Aving Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Axies",
+    "name": "Axies",
+    "type": "character"
+  },
+  {
+    "id": "character: Axikk",
+    "name": "Axikk",
+    "type": "character"
+  },
+  {
+    "id": "character: Axindweth",
+    "name": "Axindweth",
+    "type": "character"
+  },
+  {
+    "id": "character: Azalec",
+    "name": "Azalec",
+    "type": "character"
+  },
+  {
+    "id": "character: Vivenna",
+    "name": "Vivenna",
+    "type": "character"
+  },
+  {
+    "id": "character: B. Sablerfils",
+    "name": "B. Sablerfils",
+    "type": "character"
+  },
+  {
+    "id": "character: Ba-Ado-Mishram",
+    "name": "Ba-Ado-Mishram",
+    "type": "character"
+  },
+  {
+    "id": "character: Badali",
+    "name": "Badali",
+    "type": "character"
+  },
+  {
+    "id": "character: Bahmen",
+    "name": "Bahmen",
+    "type": "character"
+  },
+  {
+    "id": "character: Balat Davar",
+    "name": "Balat Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Balsas",
+    "name": "Balsas",
+    "type": "character"
+  },
+  {
+    "id": "character: Baon",
+    "name": "Baon",
+    "type": "character"
+  },
+  {
+    "id": "character: Barl",
+    "name": "Barl",
+    "type": "character"
+  },
+  {
+    "id": "character: Barlesha Lhan",
+    "name": "Barlesha Lhan",
+    "type": "character"
+  },
+  {
+    "id": "character: Barm",
+    "name": "Barm",
+    "type": "character"
+  },
+  {
+    "id": "character: Barmest",
+    "name": "Barmest",
+    "type": "character"
+  },
+  {
+    "id": "character: Bashin",
+    "name": "Bashin",
+    "type": "character"
+  },
+  {
+    "id": "character: Basin Bill",
+    "name": "Basin Bill",
+    "type": "character"
+  },
+  {
+    "id": "character: Bastien Severington",
+    "name": "Bastien Severington",
+    "type": "character"
+  },
+  {
+    "id": "character: Bat'Chor",
+    "name": "Bat'Chor",
+    "type": "character"
+  },
+  {
+    "id": "character: Battar",
+    "name": "Battar",
+    "type": "character"
+  },
+  {
+    "id": "character: Bavadin",
+    "name": "Bavadin",
+    "type": "character"
+  },
+  {
+    "id": "character: Bavamar",
+    "name": "Bavamar",
+    "type": "character"
+  },
+  {
+    "id": "character: Baxil",
+    "name": "Baxil",
+    "type": "character"
+  },
+  {
+    "id": "character: Beal",
+    "name": "Beal",
+    "type": "character"
+  },
+  {
+    "id": "character: Beard",
+    "name": "Beard",
+    "type": "character"
+  },
+  {
+    "id": "character: Beautiful Song",
+    "name": "Beautiful Song",
+    "type": "character"
+  },
+  {
+    "id": "character: Bebid",
+    "name": "Bebid",
+    "type": "character"
+  },
+  {
+    "id": "character: Bedes",
+    "name": "Bedes",
+    "type": "character"
+  },
+  {
+    "id": "character: Beggar (Kasitor)",
+    "name": "Beggar (Kasitor)",
+    "type": "character"
+  },
+  {
+    "id": "character: Bek",
+    "name": "Bek",
+    "type": "character"
+  },
+  {
+    "id": "character: Polite Lady's Handbook to Courtship and Family",
+    "name": "Polite Lady's Handbook to Courtship and Family",
+    "type": "character"
+  },
+  {
+    "id": "character: Beld",
+    "name": "Beld",
+    "type": "character"
+  },
+  {
+    "id": "character: Beldre",
+    "name": "Beldre",
+    "type": "character"
+  },
+  {
+    "id": "character: Ben Oldson",
+    "name": "Ben Oldson",
+    "type": "character"
+  },
+  {
+    "id": "character: Bendal",
+    "name": "Bendal",
+    "type": "character"
+  },
+  {
+    "id": "character: Bendthel",
+    "name": "Bendthel",
+    "type": "character"
+  },
+  {
+    "id": "character: Benneh",
+    "name": "Benneh",
+    "type": "character"
+  },
+  {
+    "id": "character: Bennitson",
+    "name": "Bennitson",
+    "type": "character"
+  },
+  {
+    "id": "character: Beryl",
+    "name": "Beryl",
+    "type": "character"
+  },
+  {
+    "id": "character: Betha",
+    "name": "Betha",
+    "type": "character"
+  },
+  {
+    "id": "character: Bethab",
+    "name": "Bethab",
+    "type": "character"
+  },
+  {
+    "id": "character: Betheth-son-Vetor",
+    "name": "Betheth-son-Vetor",
+    "type": "character"
+  },
+  {
+    "id": "character: Bettam",
+    "name": "Bettam",
+    "type": "character"
+  },
+  {
+    "id": "character: Bevidon",
+    "name": "Bevidon",
+    "type": "character"
+  },
+  {
+    "id": "character: Beznk",
+    "name": "Beznk",
+    "type": "character"
+  },
+  {
+    "id": "character: Bidlel",
+    "name": "Bidlel",
+    "type": "character"
+  },
+  {
+    "id": "character: Bila",
+    "name": "Bila",
+    "type": "character"
+  },
+  {
+    "id": "character: Bilg",
+    "name": "Bilg",
+    "type": "character"
+  },
+  {
+    "id": "character: Billid",
+    "name": "Billid",
+    "type": "character"
+  },
+  {
+    "id": "character: Bilmy",
+    "name": "Bilmy",
+    "type": "character"
+  },
+  {
+    "id": "character: Bisig",
+    "name": "Bisig",
+    "type": "character"
+  },
+  {
+    "id": "character: Blantach",
+    "name": "Blantach",
+    "type": "character"
+  },
+  {
+    "id": "character: Bleaker",
+    "name": "Bleaker",
+    "type": "character"
+  },
+  {
+    "id": "character: Blended",
+    "name": "Blended",
+    "type": "character"
+  },
+  {
+    "id": "character: Blinker",
+    "name": "Blinker",
+    "type": "character"
+  },
+  {
+    "id": "character: Blome",
+    "name": "Blome",
+    "type": "character"
+  },
+  {
+    "id": "character: Bloody Kent",
+    "name": "Bloody Kent",
+    "type": "character"
+  },
+  {
+    "id": "character: Bloody Tan",
+    "name": "Bloody Tan",
+    "type": "character"
+  },
+  {
+    "id": "character: Blue",
+    "name": "Blue",
+    "type": "character"
+  },
+  {
+    "id": "character: Blushweaver",
+    "name": "Blushweaver",
+    "type": "character"
+  },
+  {
+    "id": "character: Bluth",
+    "name": "Bluth",
+    "type": "character"
+  },
+  {
+    "id": "character: Bookers",
+    "name": "Bookers",
+    "type": "character"
+  },
+  {
+    "id": "character: Bordin",
+    "name": "Bordin",
+    "type": "character"
+  },
+  {
+    "id": "character: Borea",
+    "name": "Borea",
+    "type": "character"
+  },
+  {
+    "id": "character: Boriar",
+    "name": "Boriar",
+    "type": "character"
+  },
+  {
+    "id": "character: Boris Junior",
+    "name": "Boris Junior",
+    "type": "character"
+  },
+  {
+    "id": "character: Boris the Third",
+    "name": "Boris the Third",
+    "type": "character"
+  },
+  {
+    "id": "character: Braches",
+    "name": "Braches",
+    "type": "character"
+  },
+  {
+    "id": "character: Brekv",
+    "name": "Brekv",
+    "type": "character"
+  },
+  {
+    "id": "character: Breteh",
+    "name": "Breteh",
+    "type": "character"
+  },
+  {
+    "id": "character: Brettin",
+    "name": "Brettin",
+    "type": "character"
+  },
+  {
+    "id": "character: Brianlia",
+    "name": "Brianlia",
+    "type": "character"
+  },
+  {
+    "id": "character: Brick",
+    "name": "Brick",
+    "type": "character"
+  },
+  {
+    "id": "character: Brighthue",
+    "name": "Brighthue",
+    "type": "character"
+  },
+  {
+    "id": "character: Brightlord Morakotha",
+    "name": "Brightlord Morakotha",
+    "type": "character"
+  },
+  {
+    "id": "character: Brightlord Seveks",
+    "name": "Brightlord Seveks",
+    "type": "character"
+  },
+  {
+    "id": "character: Brightvison",
+    "name": "Brightvison",
+    "type": "character"
+  },
+  {
+    "id": "character: Brill",
+    "name": "Brill",
+    "type": "character"
+  },
+  {
+    "id": "character: Bru",
+    "name": "Bru",
+    "type": "character"
+  },
+  {
+    "id": "character: Brunswick",
+    "name": "Brunswick",
+    "type": "character"
+  },
+  {
+    "id": "character: Buissonommes",
+    "name": "Buissonommes",
+    "type": "character"
+  },
+  {
+    "id": "character: Burl (character)",
+    "name": "Burl (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Burlow",
+    "name": "Burlow",
+    "type": "character"
+  },
+  {
+    "id": "character: Bussik",
+    "name": "Bussik",
+    "type": "character"
+  },
+  {
+    "id": "character: Cabe",
+    "name": "Cabe",
+    "type": "character"
+  },
+  {
+    "id": "character: Caberel",
+    "name": "Caberel",
+    "type": "character"
+  },
+  {
+    "id": "character: Cabine",
+    "name": "Cabine",
+    "type": "character"
+  },
+  {
+    "id": "character: Cadilar",
+    "name": "Cadilar",
+    "type": "character"
+  },
+  {
+    "id": "character: Cadon",
+    "name": "Cadon",
+    "type": "character"
+  },
+  {
+    "id": "character: Cads",
+    "name": "Cads",
+    "type": "character"
+  },
+  {
+    "id": "character: Caeb",
+    "name": "Caeb",
+    "type": "character"
+  },
+  {
+    "id": "character: Cael",
+    "name": "Cael",
+    "type": "character"
+  },
+  {
+    "id": "character: Caelinora",
+    "name": "Caelinora",
+    "type": "character"
+  },
+  {
+    "id": "character: Cali",
+    "name": "Cali",
+    "type": "character"
+  },
+  {
+    "id": "character: Cali Hatthew",
+    "name": "Cali Hatthew",
+    "type": "character"
+  },
+  {
+    "id": "character: Calinam",
+    "name": "Calinam",
+    "type": "character"
+  },
+  {
+    "id": "character: Call",
+    "name": "Call",
+    "type": "character"
+  },
+  {
+    "id": "character: Caller of Springs",
+    "name": "Caller of Springs",
+    "type": "character"
+  },
+  {
+    "id": "character: Callins",
+    "name": "Callins",
+    "type": "character"
+  },
+  {
+    "id": "character: Callins Geffenry",
+    "name": "Callins Geffenry",
+    "type": "character"
+  },
+  {
+    "id": "character: Calmseer",
+    "name": "Calmseer",
+    "type": "character"
+  },
+  {
+    "id": "character: Camon",
+    "name": "Camon",
+    "type": "character"
+  },
+  {
+    "id": "character: Captain of the <i>Oot's Dream</i>",
+    "name": "Captain of the <i>Oot's Dream</i>",
+    "type": "character"
+  },
+  {
+    "id": "character: Carlee",
+    "name": "Carlee",
+    "type": "character"
+  },
+  {
+    "id": "character: Carmine Feltry",
+    "name": "Carmine Feltry",
+    "type": "character"
+  },
+  {
+    "id": "character: Cassileux",
+    "name": "Cassileux",
+    "type": "character"
+  },
+  {
+    "id": "character: Caull",
+    "name": "Caull",
+    "type": "character"
+  },
+  {
+    "id": "character: Cenn",
+    "name": "Cenn",
+    "type": "character"
+  },
+  {
+    "id": "character: Cett (coach owner)",
+    "name": "Cett (coach owner)",
+    "type": "character"
+  },
+  {
+    "id": "character: Chaeyung",
+    "name": "Chaeyung",
+    "type": "character"
+  },
+  {
+    "id": "character: Chamrav",
+    "name": "Chamrav",
+    "type": "character"
+  },
+  {
+    "id": "character: Chan Ko Sar",
+    "name": "Chan Ko Sar",
+    "type": "character"
+  },
+  {
+    "id": "character: Chanada",
+    "name": "Chanada",
+    "type": "character"
+  },
+  {
+    "id": "character: Chananar",
+    "name": "Chananar",
+    "type": "character"
+  },
+  {
+    "id": "character: Chanarach",
+    "name": "Chanarach",
+    "type": "character"
+  },
+  {
+    "id": "character: Chanasha Hasareh",
+    "name": "Chanasha Hasareh",
+    "type": "character"
+  },
+  {
+    "id": "character: Chanrm",
+    "name": "Chanrm",
+    "type": "character"
+  },
+  {
+    "id": "character: Chapaou",
+    "name": "Chapaou",
+    "type": "character"
+  },
+  {
+    "id": "character: Chapmot Heviers",
+    "name": "Chapmot Heviers",
+    "type": "character"
+  },
+  {
+    "id": "character: Charlie",
+    "name": "Charlie",
+    "type": "character"
+  },
+  {
+    "id": "character: Charlie's father",
+    "name": "Charlie's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Charrs Entrone",
+    "name": "Charrs Entrone",
+    "type": "character"
+  },
+  {
+    "id": "character: Chemoarish",
+    "name": "Chemoarish",
+    "type": "character"
+  },
+  {
+    "id": "character: Chesterton Divide",
+    "name": "Chesterton Divide",
+    "type": "character"
+  },
+  {
+    "id": "character: Chilinko",
+    "name": "Chilinko",
+    "type": "character"
+  },
+  {
+    "id": "character: Chip (constable)",
+    "name": "Chip (constable)",
+    "type": "character"
+  },
+  {
+    "id": "character: Chip (hunter)",
+    "name": "Chip (hunter)",
+    "type": "character"
+  },
+  {
+    "id": "character: Chip Erikell",
+    "name": "Chip Erikell",
+    "type": "character"
+  },
+  {
+    "id": "character: Chiri-Chiri",
+    "name": "Chiri-Chiri",
+    "type": "character"
+  },
+  {
+    "id": "character: Chivi",
+    "name": "Chivi",
+    "type": "character"
+  },
+  {
+    "id": "character: Cimines",
+    "name": "Cimines",
+    "type": "character"
+  },
+  {
+    "id": "character: Cinder King",
+    "name": "Cinder King",
+    "type": "character"
+  },
+  {
+    "id": "character: Cladent",
+    "name": "Cladent",
+    "type": "character"
+  },
+  {
+    "id": "character: Clamps",
+    "name": "Clamps",
+    "type": "character"
+  },
+  {
+    "id": "character: Claude Aradel",
+    "name": "Claude Aradel",
+    "type": "character"
+  },
+  {
+    "id": "character: Cled",
+    "name": "Cled",
+    "type": "character"
+  },
+  {
+    "id": "character: Cleft-chin",
+    "name": "Cleft-chin",
+    "type": "character"
+  },
+  {
+    "id": "character: Arsteel",
+    "name": "Arsteel",
+    "type": "character"
+  },
+  {
+    "id": "character: Clotide",
+    "name": "Clotide",
+    "type": "character"
+  },
+  {
+    "id": "character: Cob (Mistborn)",
+    "name": "Cob (Mistborn)",
+    "type": "character"
+  },
+  {
+    "id": "character: Cob (Stormlight)",
+    "name": "Cob (Stormlight)",
+    "type": "character"
+  },
+  {
+    "id": "character: Cobble",
+    "name": "Cobble",
+    "type": "character"
+  },
+  {
+    "id": "character: Coldwin",
+    "name": "Coldwin",
+    "type": "character"
+  },
+  {
+    "id": "character: Colot",
+    "name": "Colot",
+    "type": "character"
+  },
+  {
+    "id": "character: Compassion",
+    "name": "Compassion",
+    "type": "character"
+  },
+  {
+    "id": "character: Compassion's grandsons",
+    "name": "Compassion's grandsons",
+    "type": "character"
+  },
+  {
+    "id": "character: Condwish",
+    "name": "Condwish",
+    "type": "character"
+  },
+  {
+    "id": "character: Confidence",
+    "name": "Confidence",
+    "type": "character"
+  },
+  {
+    "id": "character: Conrad",
+    "name": "Conrad",
+    "type": "character"
+  },
+  {
+    "id": "character: Contemplation",
+    "name": "Contemplation",
+    "type": "character"
+  },
+  {
+    "id": "character: Copper Strangler",
+    "name": "Copper Strangler",
+    "type": "character"
+  },
+  {
+    "id": "character: Corberon",
+    "name": "Corberon",
+    "type": "character"
+  },
+  {
+    "id": "character: Cord",
+    "name": "Cord",
+    "type": "character"
+  },
+  {
+    "id": "character: Coreb",
+    "name": "Coreb",
+    "type": "character"
+  },
+  {
+    "id": "character: Corl",
+    "name": "Corl",
+    "type": "character"
+  },
+  {
+    "id": "character: Cormshen",
+    "name": "Cormshen",
+    "type": "character"
+  },
+  {
+    "id": "character: Corvana",
+    "name": "Corvana",
+    "type": "character"
+  },
+  {
+    "id": "character: Cosahn",
+    "name": "Cosahn",
+    "type": "character"
+  },
+  {
+    "id": "character: Coussaint",
+    "name": "Coussaint",
+    "type": "character"
+  },
+  {
+    "id": "character: Creer",
+    "name": "Creer",
+    "type": "character"
+  },
+  {
+    "id": "character: Crenda",
+    "name": "Crenda",
+    "type": "character"
+  },
+  {
+    "id": "character: Cressa",
+    "name": "Cressa",
+    "type": "character"
+  },
+  {
+    "id": "character: Crews Geffenry",
+    "name": "Crews Geffenry",
+    "type": "character"
+  },
+  {
+    "id": "character: Crow",
+    "name": "Crow",
+    "type": "character"
+  },
+  {
+    "id": "character: Culee",
+    "name": "Culee",
+    "type": "character"
+  },
+  {
+    "id": "character: Cusicesh",
+    "name": "Cusicesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Cyn",
+    "name": "Cyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Da",
+    "name": "Da",
+    "type": "character"
+  },
+  {
+    "id": "character: Daazk",
+    "name": "Daazk",
+    "type": "character"
+  },
+  {
+    "id": "character: Dabbid",
+    "name": "Dabbid",
+    "type": "character"
+  },
+  {
+    "id": "character: Daggon",
+    "name": "Daggon",
+    "type": "character"
+  },
+  {
+    "id": "character: Dahad",
+    "name": "Dahad",
+    "type": "character"
+  },
+  {
+    "id": "character: Dai-Gonarthis",
+    "name": "Dai-Gonarthis",
+    "type": "character"
+  },
+  {
+    "id": "character: Daius",
+    "name": "Daius",
+    "type": "character"
+  },
+  {
+    "id": "character: Dakhnah",
+    "name": "Dakhnah",
+    "type": "character"
+  },
+  {
+    "id": "character: Dalar",
+    "name": "Dalar",
+    "type": "character"
+  },
+  {
+    "id": "character: Dali",
+    "name": "Dali",
+    "type": "character"
+  },
+  {
+    "id": "character: Dalinar Kholin",
+    "name": "Dalinar Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Dalinar's father",
+    "name": "Dalinar's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Dalksi",
+    "name": "Dalksi",
+    "type": "character"
+  },
+  {
+    "id": "character: Dallet",
+    "name": "Dallet",
+    "type": "character"
+  },
+  {
+    "id": "character: Dami",
+    "name": "Dami",
+    "type": "character"
+  },
+  {
+    "id": "character: Dandos Heraldin",
+    "name": "Dandos Heraldin",
+    "type": "character"
+  },
+  {
+    "id": "character: Danlan Morakotha",
+    "name": "Danlan Morakotha",
+    "type": "character"
+  },
+  {
+    "id": "character: Dao",
+    "name": "Dao",
+    "type": "character"
+  },
+  {
+    "id": "character: Daora",
+    "name": "Daora",
+    "type": "character"
+  },
+  {
+    "id": "character: Daorn",
+    "name": "Daorn",
+    "type": "character"
+  },
+  {
+    "id": "character: Darcira",
+    "name": "Darcira",
+    "type": "character"
+  },
+  {
+    "id": "character: Darkwater",
+    "name": "Darkwater",
+    "type": "character"
+  },
+  {
+    "id": "character: Darlin Cett",
+    "name": "Darlin Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Darm (Mistborn)",
+    "name": "Darm (Mistborn)",
+    "type": "character"
+  },
+  {
+    "id": "character: Darriance",
+    "name": "Darriance",
+    "type": "character"
+  },
+  {
+    "id": "character: Dashe",
+    "name": "Dashe",
+    "type": "character"
+  },
+  {
+    "id": "character: Dashir boys",
+    "name": "Dashir boys",
+    "type": "character"
+  },
+  {
+    "id": "character: Daughnin",
+    "name": "Daughnin",
+    "type": "character"
+  },
+  {
+    "id": "character: Davim",
+    "name": "Davim",
+    "type": "character"
+  },
+  {
+    "id": "character: Dean",
+    "name": "Dean",
+    "type": "character"
+  },
+  {
+    "id": "character: Deborah-James",
+    "name": "Deborah-James",
+    "type": "character"
+  },
+  {
+    "id": "character: Dechamp",
+    "name": "Dechamp",
+    "type": "character"
+  },
+  {
+    "id": "character: Dechane",
+    "name": "Dechane",
+    "type": "character"
+  },
+  {
+    "id": "character: Dedelin",
+    "name": "Dedelin",
+    "type": "character"
+  },
+  {
+    "id": "character: Dedri Vasting",
+    "name": "Dedri Vasting",
+    "type": "character"
+  },
+  {
+    "id": "character: Deedanor",
+    "name": "Deedanor",
+    "type": "character"
+  },
+  {
+    "id": "character: Deeli",
+    "name": "Deeli",
+    "type": "character"
+  },
+  {
+    "id": "character: Delgo",
+    "name": "Delgo",
+    "type": "character"
+  },
+  {
+    "id": "character: Delius",
+    "name": "Delius",
+    "type": "character"
+  },
+  {
+    "id": "character: Delius's son",
+    "name": "Delius's son",
+    "type": "character"
+  },
+  {
+    "id": "character: Delp",
+    "name": "Delp",
+    "type": "character"
+  },
+  {
+    "id": "character: Delph",
+    "name": "Delph",
+    "type": "character"
+  },
+  {
+    "id": "character: Deluse Couvre",
+    "name": "Deluse Couvre",
+    "type": "character"
+  },
+  {
+    "id": "character: Dem",
+    "name": "Dem",
+    "type": "character"
+  },
+  {
+    "id": "character: Demid",
+    "name": "Demid",
+    "type": "character"
+  },
+  {
+    "id": "character: Demmy",
+    "name": "Demmy",
+    "type": "character"
+  },
+  {
+    "id": "character: Demoux",
+    "name": "Demoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Den",
+    "name": "Den",
+    "type": "character"
+  },
+  {
+    "id": "character: Denshil",
+    "name": "Denshil",
+    "type": "character"
+  },
+  {
+    "id": "character: Dent",
+    "name": "Dent",
+    "type": "character"
+  },
+  {
+    "id": "character: Denth",
+    "name": "Denth",
+    "type": "character"
+  },
+  {
+    "id": "character: Deral",
+    "name": "Deral",
+    "type": "character"
+  },
+  {
+    "id": "character: Dereth",
+    "name": "Dereth",
+    "type": "character"
+  },
+  {
+    "id": "character: Derethil",
+    "name": "Derethil",
+    "type": "character"
+  },
+  {
+    "id": "character: Design",
+    "name": "Design",
+    "type": "character"
+  },
+  {
+    "id": "character: Destra",
+    "name": "Destra",
+    "type": "character"
+  },
+  {
+    "id": "character: Detor",
+    "name": "Detor",
+    "type": "character"
+  },
+  {
+    "id": "character: Devi",
+    "name": "Devi",
+    "type": "character"
+  },
+  {
+    "id": "character: Devinshae",
+    "name": "Devinshae",
+    "type": "character"
+  },
+  {
+    "id": "character: Devlin Airs",
+    "name": "Devlin Airs",
+    "type": "character"
+  },
+  {
+    "id": "character: Devmrh",
+    "name": "Devmrh",
+    "type": "character"
+  },
+  {
+    "id": "character: Dialectur",
+    "name": "Dialectur",
+    "type": "character"
+  },
+  {
+    "id": "character: Dianil",
+    "name": "Dianil",
+    "type": "character"
+  },
+  {
+    "id": "character: Dieno",
+    "name": "Dieno",
+    "type": "character"
+  },
+  {
+    "id": "character: Diggen",
+    "name": "Diggen",
+    "type": "character"
+  },
+  {
+    "id": "character: Dilaf",
+    "name": "Dilaf",
+    "type": "character"
+  },
+  {
+    "id": "character: Dilid",
+    "name": "Dilid",
+    "type": "character"
+  },
+  {
+    "id": "character: Dilisteni",
+    "name": "Dilisteni",
+    "type": "character"
+  },
+  {
+    "id": "character: Dims",
+    "name": "Dims",
+    "type": "character"
+  },
+  {
+    "id": "character: Dio",
+    "name": "Dio",
+    "type": "character"
+  },
+  {
+    "id": "character: Diolen",
+    "name": "Diolen",
+    "type": "character"
+  },
+  {
+    "id": "character: Dion",
+    "name": "Dion",
+    "type": "character"
+  },
+  {
+    "id": "character: Dip",
+    "name": "Dip",
+    "type": "character"
+  },
+  {
+    "id": "character: Diren",
+    "name": "Diren",
+    "type": "character"
+  },
+  {
+    "id": "character: Dirge",
+    "name": "Dirge",
+    "type": "character"
+  },
+  {
+    "id": "character: Dirin",
+    "name": "Dirin",
+    "type": "character"
+  },
+  {
+    "id": "character: Dirk",
+    "name": "Dirk",
+    "type": "character"
+  },
+  {
+    "id": "character: Disten",
+    "name": "Disten",
+    "type": "character"
+  },
+  {
+    "id": "character: Divinity Salvage",
+    "name": "Divinity Salvage",
+    "type": "character"
+  },
+  {
+    "id": "character: Dlavil",
+    "name": "Dlavil",
+    "type": "character"
+  },
+  {
+    "id": "character: Dob",
+    "name": "Dob",
+    "type": "character"
+  },
+  {
+    "id": "character: Dockson",
+    "name": "Dockson",
+    "type": "character"
+  },
+  {
+    "id": "character: Dod",
+    "name": "Dod",
+    "type": "character"
+  },
+  {
+    "id": "character: Dok",
+    "name": "Dok",
+    "type": "character"
+  },
+  {
+    "id": "character: Dolimid",
+    "name": "Dolimid",
+    "type": "character"
+  },
+  {
+    "id": "character: Donal",
+    "name": "Donal",
+    "type": "character"
+  },
+  {
+    "id": "character: Donny",
+    "name": "Donny",
+    "type": "character"
+  },
+  {
+    "id": "character: Donton",
+    "name": "Donton",
+    "type": "character"
+  },
+  {
+    "id": "character: Dor (character)",
+    "name": "Dor (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Doril",
+    "name": "Doril",
+    "type": "character"
+  },
+  {
+    "id": "character: Dorise Chevalle",
+    "name": "Dorise Chevalle",
+    "type": "character"
+  },
+  {
+    "id": "character: Dorolin",
+    "name": "Dorolin",
+    "type": "character"
+  },
+  {
+    "id": "character: Dorp",
+    "name": "Dorp",
+    "type": "character"
+  },
+  {
+    "id": "character: Dothgen",
+    "name": "Dothgen",
+    "type": "character"
+  },
+  {
+    "id": "character: Doug",
+    "name": "Doug",
+    "type": "character"
+  },
+  {
+    "id": "character: Douglas Venture",
+    "name": "Douglas Venture",
+    "type": "character"
+  },
+  {
+    "id": "character: Dovcanti",
+    "name": "Dovcanti",
+    "type": "character"
+  },
+  {
+    "id": "character: Dowser Maline",
+    "name": "Dowser Maline",
+    "type": "character"
+  },
+  {
+    "id": "character: Drapen",
+    "name": "Drapen",
+    "type": "character"
+  },
+  {
+    "id": "character: Drawers",
+    "name": "Drawers",
+    "type": "character"
+  },
+  {
+    "id": "character: Dreaming-though-Awake",
+    "name": "Dreaming-though-Awake",
+    "type": "character"
+  },
+  {
+    "id": "character: Dreder",
+    "name": "Dreder",
+    "type": "character"
+  },
+  {
+    "id": "character: Drehy",
+    "name": "Drehy",
+    "type": "character"
+  },
+  {
+    "id": "character: Drenya",
+    "name": "Drenya",
+    "type": "character"
+  },
+  {
+    "id": "character: Drewton",
+    "name": "Drewton",
+    "type": "character"
+  },
+  {
+    "id": "character: Dridel",
+    "name": "Dridel",
+    "type": "character"
+  },
+  {
+    "id": "character: Drile",
+    "name": "Drile",
+    "type": "character"
+  },
+  {
+    "id": "character: Drim",
+    "name": "Drim",
+    "type": "character"
+  },
+  {
+    "id": "character: Drlwan",
+    "name": "Drlwan",
+    "type": "character"
+  },
+  {
+    "id": "character: Droz",
+    "name": "Droz",
+    "type": "character"
+  },
+  {
+    "id": "character: Dru",
+    "name": "Dru",
+    "type": "character"
+  },
+  {
+    "id": "character: Druffel",
+    "name": "Druffel",
+    "type": "character"
+  },
+  {
+    "id": "character: Drummer brothers",
+    "name": "Drummer brothers",
+    "type": "character"
+  },
+  {
+    "id": "character: Dug",
+    "name": "Dug",
+    "type": "character"
+  },
+  {
+    "id": "character: Dukaler",
+    "name": "Dukaler",
+    "type": "character"
+  },
+  {
+    "id": "character: Dukar",
+    "name": "Dukar",
+    "type": "character"
+  },
+  {
+    "id": "character: Dul",
+    "name": "Dul",
+    "type": "character"
+  },
+  {
+    "id": "character: Dumad",
+    "name": "Dumad",
+    "type": "character"
+  },
+  {
+    "id": "character: Dunny",
+    "name": "Dunny",
+    "type": "character"
+  },
+  {
+    "id": "character: Dupon Melstrom",
+    "name": "Dupon Melstrom",
+    "type": "character"
+  },
+  {
+    "id": "character: Durk",
+    "name": "Durk",
+    "type": "character"
+  },
+  {
+    "id": "character: Durkel",
+    "name": "Durkel",
+    "type": "character"
+  },
+  {
+    "id": "character: Durn",
+    "name": "Durn",
+    "type": "character"
+  },
+  {
+    "id": "character: Durnash",
+    "name": "Durnash",
+    "type": "character"
+  },
+  {
+    "id": "character: Durton",
+    "name": "Durton",
+    "type": "character"
+  },
+  {
+    "id": "character: Dwookim",
+    "name": "Dwookim",
+    "type": "character"
+  },
+  {
+    "id": "character: Dyel",
+    "name": "Dyel",
+    "type": "character"
+  },
+  {
+    "id": "character: Dyel's mother",
+    "name": "Dyel's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Dym",
+    "name": "Dym",
+    "type": "character"
+  },
+  {
+    "id": "character: Edan",
+    "name": "Edan",
+    "type": "character"
+  },
+  {
+    "id": "character: Edgard Ladrian",
+    "name": "Edgard Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Edgli",
+    "name": "Edgli",
+    "type": "character"
+  },
+  {
+    "id": "character: Edip",
+    "name": "Edip",
+    "type": "character"
+  },
+  {
+    "id": "character: Edwarn Ladrian",
+    "name": "Edwarn Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Ehelan",
+    "name": "Ehelan",
+    "type": "character"
+  },
+  {
+    "id": "character: Ehen",
+    "name": "Ehen",
+    "type": "character"
+  },
+  {
+    "id": "character: Ekel",
+    "name": "Ekel",
+    "type": "character"
+  },
+  {
+    "id": "character: El",
+    "name": "El",
+    "type": "character"
+  },
+  {
+    "id": "character: Elao",
+    "name": "Elao",
+    "type": "character"
+  },
+  {
+    "id": "character: Elashe",
+    "name": "Elashe",
+    "type": "character"
+  },
+  {
+    "id": "character: Elegy Salvage",
+    "name": "Elegy Salvage",
+    "type": "character"
+  },
+  {
+    "id": "character: Elend Venture",
+    "name": "Elend Venture",
+    "type": "character"
+  },
+  {
+    "id": "character: Elend's mother",
+    "name": "Elend's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Eleseth",
+    "name": "Eleseth",
+    "type": "character"
+  },
+  {
+    "id": "character: Elhokar Kholin",
+    "name": "Elhokar Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Elid-daughter-Zeenid",
+    "name": "Elid-daughter-Zeenid",
+    "type": "character"
+  },
+  {
+    "id": "character: Elit Ruthar",
+    "name": "Elit Ruthar",
+    "type": "character"
+  },
+  {
+    "id": "character: Eliza Marin",
+    "name": "Eliza Marin",
+    "type": "character"
+  },
+  {
+    "id": "character: Elizandra Dramali",
+    "name": "Elizandra Dramali",
+    "type": "character"
+  },
+  {
+    "id": "character: Ellista",
+    "name": "Ellista",
+    "type": "character"
+  },
+  {
+    "id": "character: Elorin",
+    "name": "Elorin",
+    "type": "character"
+  },
+  {
+    "id": "character: Elors Durnsed",
+    "name": "Elors Durnsed",
+    "type": "character"
+  },
+  {
+    "id": "character: Elrao",
+    "name": "Elrao",
+    "type": "character"
+  },
+  {
+    "id": "character: Elthebar",
+    "name": "Elthebar",
+    "type": "character"
+  },
+  {
+    "id": "character: Embrier",
+    "name": "Embrier",
+    "type": "character"
+  },
+  {
+    "id": "character: En",
+    "name": "En",
+    "type": "character"
+  },
+  {
+    "id": "character: Enelan",
+    "name": "Enelan",
+    "type": "character"
+  },
+  {
+    "id": "character: Eoden",
+    "name": "Eoden",
+    "type": "character"
+  },
+  {
+    "id": "character: Eoldess",
+    "name": "Eoldess",
+    "type": "character"
+  },
+  {
+    "id": "character: Eondel",
+    "name": "Eondel",
+    "type": "character"
+  },
+  {
+    "id": "character: Eonic",
+    "name": "Eonic",
+    "type": "character"
+  },
+  {
+    "id": "character: Epinar",
+    "name": "Epinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Eranniv",
+    "name": "Eranniv",
+    "type": "character"
+  },
+  {
+    "id": "character: Eriola",
+    "name": "Eriola",
+    "type": "character"
+  },
+  {
+    "id": "character: Eshava",
+    "name": "Eshava",
+    "type": "character"
+  },
+  {
+    "id": "character: Eshen",
+    "name": "Eshen",
+    "type": "character"
+  },
+  {
+    "id": "character: Eshonai",
+    "name": "Eshonai",
+    "type": "character"
+  },
+  {
+    "id": "character: Eshu",
+    "name": "Eshu",
+    "type": "character"
+  },
+  {
+    "id": "character: Essu",
+    "name": "Essu",
+    "type": "character"
+  },
+  {
+    "id": "character: Estnatil",
+    "name": "Estnatil",
+    "type": "character"
+  },
+  {
+    "id": "character: Eth",
+    "name": "Eth",
+    "type": "character"
+  },
+  {
+    "id": "character: Ethenia",
+    "name": "Ethenia",
+    "type": "character"
+  },
+  {
+    "id": "character: Ethid",
+    "name": "Ethid",
+    "type": "character"
+  },
+  {
+    "id": "character: Eton",
+    "name": "Eton",
+    "type": "character"
+  },
+  {
+    "id": "character: Euridrius",
+    "name": "Euridrius",
+    "type": "character"
+  },
+  {
+    "id": "character: Eusto",
+    "name": "Eusto",
+    "type": "character"
+  },
+  {
+    "id": "character: Evenstrom Tekiel",
+    "name": "Evenstrom Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Eventeo",
+    "name": "Eventeo",
+    "type": "character"
+  },
+  {
+    "id": "character: Evi Kholin",
+    "name": "Evi Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Evinor",
+    "name": "Evinor",
+    "type": "character"
+  },
+  {
+    "id": "character: Evod Markmaker",
+    "name": "Evod Markmaker",
+    "type": "character"
+  },
+  {
+    "id": "character: Extes",
+    "name": "Extes",
+    "type": "character"
+  },
+  {
+    "id": "character: Eylita Tavinar",
+    "name": "Eylita Tavinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Fabrisan",
+    "name": "Fabrisan",
+    "type": "character"
+  },
+  {
+    "id": "character: Fafen",
+    "name": "Fafen",
+    "type": "character"
+  },
+  {
+    "id": "character: Faith",
+    "name": "Faith",
+    "type": "character"
+  },
+  {
+    "id": "character: Falilar",
+    "name": "Falilar",
+    "type": "character"
+  },
+  {
+    "id": "character: Falksi",
+    "name": "Falksi",
+    "type": "character"
+  },
+  {
+    "id": "character: Fari",
+    "name": "Fari",
+    "type": "character"
+  },
+  {
+    "id": "character: Faridai",
+    "name": "Faridai",
+    "type": "character"
+  },
+  {
+    "id": "character: Father Bin",
+    "name": "Father Bin",
+    "type": "character"
+  },
+  {
+    "id": "character: Fatren",
+    "name": "Fatren",
+    "type": "character"
+  },
+  {
+    "id": "character: Febin",
+    "name": "Febin",
+    "type": "character"
+  },
+  {
+    "id": "character: Febrth",
+    "name": "Febrth",
+    "type": "character"
+  },
+  {
+    "id": "character: Fed",
+    "name": "Fed",
+    "type": "character"
+  },
+  {
+    "id": "character: Fedik",
+    "name": "Fedik",
+    "type": "character"
+  },
+  {
+    "id": "character: Fedre",
+    "name": "Fedre",
+    "type": "character"
+  },
+  {
+    "id": "character: Fedren Aime",
+    "name": "Fedren Aime",
+    "type": "character"
+  },
+  {
+    "id": "character: Feldeu",
+    "name": "Feldeu",
+    "type": "character"
+  },
+  {
+    "id": "character: Felise Demoux",
+    "name": "Felise Demoux",
+    "type": "character"
+  },
+  {
+    "id": "character: House Renoux",
+    "name": "House Renoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Felt",
+    "name": "Felt",
+    "type": "character"
+  },
+  {
+    "id": "character: Fen Rnamdi",
+    "name": "Fen Rnamdi",
+    "type": "character"
+  },
+  {
+    "id": "character: Ferson Penrod",
+    "name": "Ferson Penrod",
+    "type": "character"
+  },
+  {
+    "id": "character: FhorKood",
+    "name": "FhorKood",
+    "type": "character"
+  },
+  {
+    "id": "character: Fia",
+    "name": "Fia",
+    "type": "character"
+  },
+  {
+    "id": "character: Fialia",
+    "name": "Fialia",
+    "type": "character"
+  },
+  {
+    "id": "character: Fiksin",
+    "name": "Fiksin",
+    "type": "character"
+  },
+  {
+    "id": "character: Fimkn",
+    "name": "Fimkn",
+    "type": "character"
+  },
+  {
+    "id": "character: Fin",
+    "name": "Fin",
+    "type": "character"
+  },
+  {
+    "id": "character: Fion",
+    "name": "Fion",
+    "type": "character"
+  },
+  {
+    "id": "character: First of the Sky",
+    "name": "First of the Sky",
+    "type": "character"
+  },
+  {
+    "id": "character: Fisk",
+    "name": "Fisk",
+    "type": "character"
+  },
+  {
+    "id": "character: Fjon",
+    "name": "Fjon",
+    "type": "character"
+  },
+  {
+    "id": "character: Fladm",
+    "name": "Fladm",
+    "type": "character"
+  },
+  {
+    "id": "character: Flavine",
+    "name": "Flavine",
+    "type": "character"
+  },
+  {
+    "id": "character: Fleet",
+    "name": "Fleet",
+    "type": "character"
+  },
+  {
+    "id": "character: Fleeta",
+    "name": "Fleeta",
+    "type": "character"
+  },
+  {
+    "id": "character: Flen",
+    "name": "Flen",
+    "type": "character"
+  },
+  {
+    "id": "character: Flend",
+    "name": "Flend",
+    "type": "character"
+  },
+  {
+    "id": "character: Flennid",
+    "name": "Flennid",
+    "type": "character"
+  },
+  {
+    "id": "character: Flik",
+    "name": "Flik",
+    "type": "character"
+  },
+  {
+    "id": "character: Flog",
+    "name": "Flog",
+    "type": "character"
+  },
+  {
+    "id": "character: Florin Malin",
+    "name": "Florin Malin",
+    "type": "character"
+  },
+  {
+    "id": "character: Fob",
+    "name": "Fob",
+    "type": "character"
+  },
+  {
+    "id": "character: Forch",
+    "name": "Forch",
+    "type": "character"
+  },
+  {
+    "id": "character: Forgeron",
+    "name": "Forgeron",
+    "type": "character"
+  },
+  {
+    "id": "character: Fort",
+    "name": "Fort",
+    "type": "character"
+  },
+  {
+    "id": "character: Forton",
+    "name": "Forton",
+    "type": "character"
+  },
+  {
+    "id": "character: Fourth Torish scholar",
+    "name": "Fourth Torish scholar",
+    "type": "character"
+  },
+  {
+    "id": "character: Fran",
+    "name": "Fran",
+    "type": "character"
+  },
+  {
+    "id": "character: Franis",
+    "name": "Franis",
+    "type": "character"
+  },
+  {
+    "id": "character: Franson",
+    "name": "Franson",
+    "type": "character"
+  },
+  {
+    "id": "character: Frava",
+    "name": "Frava",
+    "type": "character"
+  },
+  {
+    "id": "character: Fronks Vif",
+    "name": "Fronks Vif",
+    "type": "character"
+  },
+  {
+    "id": "character: Frost",
+    "name": "Frost",
+    "type": "character"
+  },
+  {
+    "id": "character: Gabrathin",
+    "name": "Gabrathin",
+    "type": "character"
+  },
+  {
+    "id": "character: Gabria",
+    "name": "Gabria",
+    "type": "character"
+  },
+  {
+    "id": "character: Gadol",
+    "name": "Gadol",
+    "type": "character"
+  },
+  {
+    "id": "character: Gagaril",
+    "name": "Gagaril",
+    "type": "character"
+  },
+  {
+    "id": "character: Gaino",
+    "name": "Gaino",
+    "type": "character"
+  },
+  {
+    "id": "character: Galabris Menthon",
+    "name": "Galabris Menthon",
+    "type": "character"
+  },
+  {
+    "id": "character: Galan",
+    "name": "Galan",
+    "type": "character"
+  },
+  {
+    "id": "character: Galid",
+    "name": "Galid",
+    "type": "character"
+  },
+  {
+    "id": "character: Galivan",
+    "name": "Galivan",
+    "type": "character"
+  },
+  {
+    "id": "character: Galladon",
+    "name": "Galladon",
+    "type": "character"
+  },
+  {
+    "id": "character: Galladon's father",
+    "name": "Galladon's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Gallam",
+    "name": "Gallam",
+    "type": "character"
+  },
+  {
+    "id": "character: Gallant",
+    "name": "Gallant",
+    "type": "character"
+  },
+  {
+    "id": "character: Gallingskaw",
+    "name": "Gallingskaw",
+    "type": "character"
+  },
+  {
+    "id": "character: Gangnah",
+    "name": "Gangnah",
+    "type": "character"
+  },
+  {
+    "id": "character: Ganlos Riera",
+    "name": "Ganlos Riera",
+    "type": "character"
+  },
+  {
+    "id": "character: Gaotona",
+    "name": "Gaotona",
+    "type": "character"
+  },
+  {
+    "id": "character: Gare",
+    "name": "Gare",
+    "type": "character"
+  },
+  {
+    "id": "character: Garisel Daring",
+    "name": "Garisel Daring",
+    "type": "character"
+  },
+  {
+    "id": "character: Garith",
+    "name": "Garith",
+    "type": "character"
+  },
+  {
+    "id": "character: Garv",
+    "name": "Garv",
+    "type": "character"
+  },
+  {
+    "id": "character: Garven Munz",
+    "name": "Garven Munz",
+    "type": "character"
+  },
+  {
+    "id": "character: Gashash-son-Navammis",
+    "name": "Gashash-son-Navammis",
+    "type": "character"
+  },
+  {
+    "id": "character: Gatrii",
+    "name": "Gatrii",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavam",
+    "name": "Gavam",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavarah",
+    "name": "Gavarah",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavashaw",
+    "name": "Gavashaw",
+    "type": "character"
+  },
+  {
+    "id": "character: Gave Entrone",
+    "name": "Gave Entrone",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavilar Kholin",
+    "name": "Gavilar Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavinor Kholin",
+    "name": "Gavinor Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Gavri",
+    "name": "Gavri",
+    "type": "character"
+  },
+  {
+    "id": "character: Gaz",
+    "name": "Gaz",
+    "type": "character"
+  },
+  {
+    "id": "character: Gemdwyn",
+    "name": "Gemdwyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Gemmel",
+    "name": "Gemmel",
+    "type": "character"
+  },
+  {
+    "id": "character: Gen",
+    "name": "Gen",
+    "type": "character"
+  },
+  {
+    "id": "character: Gendren",
+    "name": "Gendren",
+    "type": "character"
+  },
+  {
+    "id": "character: Genedere",
+    "name": "Genedere",
+    "type": "character"
+  },
+  {
+    "id": "character: General Khal",
+    "name": "General Khal",
+    "type": "character"
+  },
+  {
+    "id": "character: Gennel",
+    "name": "Gennel",
+    "type": "character"
+  },
+  {
+    "id": "character: Geormin",
+    "name": "Geormin",
+    "type": "character"
+  },
+  {
+    "id": "character: Geranid",
+    "name": "Geranid",
+    "type": "character"
+  },
+  {
+    "id": "character: Gereh",
+    "name": "Gereh",
+    "type": "character"
+  },
+  {
+    "id": "character: Gereh's Aviar",
+    "name": "Gereh's Aviar",
+    "type": "character"
+  },
+  {
+    "id": "character: Getruda",
+    "name": "Getruda",
+    "type": "character"
+  },
+  {
+    "id": "character: Getrue",
+    "name": "Getrue",
+    "type": "character"
+  },
+  {
+    "id": "character: Gevalden",
+    "name": "Gevalden",
+    "type": "character"
+  },
+  {
+    "id": "character: Geved",
+    "name": "Geved",
+    "type": "character"
+  },
+  {
+    "id": "character: Gevelmar",
+    "name": "Gevelmar",
+    "type": "character"
+  },
+  {
+    "id": "character: Gezamal Kushkam",
+    "name": "Gezamal Kushkam",
+    "type": "character"
+  },
+  {
+    "id": "character: Ghenna",
+    "name": "Ghenna",
+    "type": "character"
+  },
+  {
+    "id": "character: Gift",
+    "name": "Gift",
+    "type": "character"
+  },
+  {
+    "id": "character: Giftbeacon",
+    "name": "Giftbeacon",
+    "type": "character"
+  },
+  {
+    "id": "character: Gitgeth",
+    "name": "Gitgeth",
+    "type": "character"
+  },
+  {
+    "id": "character: Glurv",
+    "name": "Glurv",
+    "type": "character"
+  },
+  {
+    "id": "character: Glys",
+    "name": "Glys",
+    "type": "character"
+  },
+  {
+    "id": "character: Gneorndin Cett",
+    "name": "Gneorndin Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Godeke",
+    "name": "Godeke",
+    "type": "character"
+  },
+  {
+    "id": "character: Gol",
+    "name": "Gol",
+    "type": "character"
+  },
+  {
+    "id": "character: Golombi",
+    "name": "Golombi",
+    "type": "character"
+  },
+  {
+    "id": "character: Gom",
+    "name": "Gom",
+    "type": "character"
+  },
+  {
+    "id": "character: Gongsha bailiff",
+    "name": "Gongsha bailiff",
+    "type": "character"
+  },
+  {
+    "id": "character: Gongsha mayor",
+    "name": "Gongsha mayor",
+    "type": "character"
+  },
+  {
+    "id": "character: Gor",
+    "name": "Gor",
+    "type": "character"
+  },
+  {
+    "id": "character: Goradel",
+    "name": "Goradel",
+    "type": "character"
+  },
+  {
+    "id": "character: Gord",
+    "name": "Gord",
+    "type": "character"
+  },
+  {
+    "id": "character: Gorglen",
+    "name": "Gorglen",
+    "type": "character"
+  },
+  {
+    "id": "character: Goshel",
+    "name": "Goshel",
+    "type": "character"
+  },
+  {
+    "id": "character: Grable",
+    "name": "Grable",
+    "type": "character"
+  },
+  {
+    "id": "character: Graeo",
+    "name": "Graeo",
+    "type": "character"
+  },
+  {
+    "id": "character: Granite Joe",
+    "name": "Granite Joe",
+    "type": "character"
+  },
+  {
+    "id": "character: Granks",
+    "name": "Granks",
+    "type": "character"
+  },
+  {
+    "id": "character: Graves",
+    "name": "Graves",
+    "type": "character"
+  },
+  {
+    "id": "character: Great-grandmother Glorf",
+    "name": "Great-grandmother Glorf",
+    "type": "character"
+  },
+  {
+    "id": "character: Gregorh",
+    "name": "Gregorh",
+    "type": "character"
+  },
+  {
+    "id": "character: Gregr",
+    "name": "Gregr",
+    "type": "character"
+  },
+  {
+    "id": "character: Grelin",
+    "name": "Grelin",
+    "type": "character"
+  },
+  {
+    "id": "character: Gremmy",
+    "name": "Gremmy",
+    "type": "character"
+  },
+  {
+    "id": "character: Gremt",
+    "name": "Gremt",
+    "type": "character"
+  },
+  {
+    "id": "character: Grent",
+    "name": "Grent",
+    "type": "character"
+  },
+  {
+    "id": "character: Gret",
+    "name": "Gret",
+    "type": "character"
+  },
+  {
+    "id": "character: Grondkest",
+    "name": "Grondkest",
+    "type": "character"
+  },
+  {
+    "id": "character: Grund",
+    "name": "Grund",
+    "type": "character"
+  },
+  {
+    "id": "character: Gu",
+    "name": "Gu",
+    "type": "character"
+  },
+  {
+    "id": "character: Gub",
+    "name": "Gub",
+    "type": "character"
+  },
+  {
+    "id": "character: Guff",
+    "name": "Guff",
+    "type": "character"
+  },
+  {
+    "id": "character: Guillian",
+    "name": "Guillian",
+    "type": "character"
+  },
+  {
+    "id": "character: Gulastis",
+    "name": "Gulastis",
+    "type": "character"
+  },
+  {
+    "id": "character: Guri",
+    "name": "Guri",
+    "type": "character"
+  },
+  {
+    "id": "character: Gustal",
+    "name": "Gustal",
+    "type": "character"
+  },
+  {
+    "id": "character: Guvlow",
+    "name": "Guvlow",
+    "type": "character"
+  },
+  {
+    "id": "character: Guyn",
+    "name": "Guyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Gvori",
+    "name": "Gvori",
+    "type": "character"
+  },
+  {
+    "id": "character: Gyundok",
+    "name": "Gyundok",
+    "type": "character"
+  },
+  {
+    "id": "character: Hab",
+    "name": "Hab",
+    "type": "character"
+  },
+  {
+    "id": "character: Habatab",
+    "name": "Habatab",
+    "type": "character"
+  },
+  {
+    "id": "character: Habrin",
+    "name": "Habrin",
+    "type": "character"
+  },
+  {
+    "id": "character: Habsant",
+    "name": "Habsant",
+    "type": "character"
+  },
+  {
+    "id": "character: Haddek",
+    "name": "Haddek",
+    "type": "character"
+  },
+  {
+    "id": "character: Hadinar",
+    "name": "Hadinar",
+    "type": "character"
+  },
+  {
+    "id": "character: House Renoux",
+    "name": "House Renoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Hakindar",
+    "name": "Hakindar",
+    "type": "character"
+  },
+  {
+    "id": "character: Halad",
+    "name": "Halad",
+    "type": "character"
+  },
+  {
+    "id": "character: Halam Khal",
+    "name": "Halam Khal",
+    "type": "character"
+  },
+  {
+    "id": "character: Halan",
+    "name": "Halan",
+    "type": "character"
+  },
+  {
+    "id": "character: Halex",
+    "name": "Halex",
+    "type": "character"
+  },
+  {
+    "id": "character: Hallaw",
+    "name": "Hallaw",
+    "type": "character"
+  },
+  {
+    "id": "character: Hamadin",
+    "name": "Hamadin",
+    "type": "character"
+  },
+  {
+    "id": "character: Hamaradin",
+    "name": "Hamaradin",
+    "type": "character"
+  },
+  {
+    "id": "character: Hamel",
+    "name": "Hamel",
+    "type": "character"
+  },
+  {
+    "id": "character: Hammie",
+    "name": "Hammie",
+    "type": "character"
+  },
+  {
+    "id": "character: Hammond",
+    "name": "Hammond",
+    "type": "character"
+  },
+  {
+    "id": "character: Han ShuXen",
+    "name": "Han ShuXen",
+    "type": "character"
+  },
+  {
+    "id": "character: Hanavanar",
+    "name": "Hanavanar",
+    "type": "character"
+  },
+  {
+    "id": "character: Handerwym",
+    "name": "Handerwym",
+    "type": "character"
+  },
+  {
+    "id": "character: Hanlanaze",
+    "name": "Hanlanaze",
+    "type": "character"
+  },
+  {
+    "id": "character: Haona",
+    "name": "Haona",
+    "type": "character"
+  },
+  {
+    "id": "character: Harathdal",
+    "name": "Harathdal",
+    "type": "character"
+  },
+  {
+    "id": "character: Hardren",
+    "name": "Hardren",
+    "type": "character"
+  },
+  {
+    "id": "character: Hardy",
+    "name": "Hardy",
+    "type": "character"
+  },
+  {
+    "id": "character: Harel",
+    "name": "Harel",
+    "type": "character"
+  },
+  {
+    "id": "character: Haridan",
+    "name": "Haridan",
+    "type": "character"
+  },
+  {
+    "id": "character: Hariel",
+    "name": "Hariel",
+    "type": "character"
+  },
+  {
+    "id": "character: Harkaylain",
+    "name": "Harkaylain",
+    "type": "character"
+  },
+  {
+    "id": "character: Harl",
+    "name": "Harl",
+    "type": "character"
+  },
+  {
+    "id": "character: Harmon",
+    "name": "Harmon",
+    "type": "character"
+  },
+  {
+    "id": "character: Harold",
+    "name": "Harold",
+    "type": "character"
+  },
+  {
+    "id": "character: Harrisel Hard",
+    "name": "Harrisel Hard",
+    "type": "character"
+  },
+  {
+    "id": "character: Harth",
+    "name": "Harth",
+    "type": "character"
+  },
+  {
+    "id": "character: Harvo",
+    "name": "Harvo",
+    "type": "character"
+  },
+  {
+    "id": "character: Hasavah",
+    "name": "Hasavah",
+    "type": "character"
+  },
+  {
+    "id": "character: Hashal",
+    "name": "Hashal",
+    "type": "character"
+  },
+  {
+    "id": "character: Hasheh",
+    "name": "Hasheh",
+    "type": "character"
+  },
+  {
+    "id": "character: Hatham",
+    "name": "Hatham",
+    "type": "character"
+  },
+  {
+    "id": "character: Hathan",
+    "name": "Hathan",
+    "type": "character"
+  },
+  {
+    "id": "character: Hauka",
+    "name": "Hauka",
+    "type": "character"
+  },
+  {
+    "id": "character: Hav",
+    "name": "Hav",
+    "type": "character"
+  },
+  {
+    "id": "character: Havar",
+    "name": "Havar",
+    "type": "character"
+  },
+  {
+    "id": "character: Havarah",
+    "name": "Havarah",
+    "type": "character"
+  },
+  {
+    "id": "character: Havarseth",
+    "name": "Havarseth",
+    "type": "character"
+  },
+  {
+    "id": "character: Havrom",
+    "name": "Havrom",
+    "type": "character"
+  },
+  {
+    "id": "character: Hawin",
+    "name": "Hawin",
+    "type": "character"
+  },
+  {
+    "id": "character: Haws",
+    "name": "Haws",
+    "type": "character"
+  },
+  {
+    "id": "character: Heb",
+    "name": "Heb",
+    "type": "character"
+  },
+  {
+    "id": "character: Heberen",
+    "name": "Heberen",
+    "type": "character"
+  },
+  {
+    "id": "character: Heelis",
+    "name": "Heelis",
+    "type": "character"
+  },
+  {
+    "id": "character: Helaran Davar",
+    "name": "Helaran Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Helenntion",
+    "name": "Helenntion",
+    "type": "character"
+  },
+  {
+    "id": "character: Helt",
+    "name": "Helt",
+    "type": "character"
+  },
+  {
+    "id": "character: Hem",
+    "name": "Hem",
+    "type": "character"
+  },
+  {
+    "id": "character: Hema-Dak",
+    "name": "Hema-Dak",
+    "type": "character"
+  },
+  {
+    "id": "character: Hennin",
+    "name": "Hennin",
+    "type": "character"
+  },
+  {
+    "id": "character: Herve",
+    "name": "Herve",
+    "type": "character"
+  },
+  {
+    "id": "character: Hesh",
+    "name": "Hesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Hesina",
+    "name": "Hesina",
+    "type": "character"
+  },
+  {
+    "id": "character: Hessi",
+    "name": "Hessi",
+    "type": "character"
+  },
+  {
+    "id": "character: Hettel",
+    "name": "Hettel",
+    "type": "character"
+  },
+  {
+    "id": "character: Hid",
+    "name": "Hid",
+    "type": "character"
+  },
+  {
+    "id": "character: Hikiri",
+    "name": "Hikiri",
+    "type": "character"
+  },
+  {
+    "id": "character: Hilde",
+    "name": "Hilde",
+    "type": "character"
+  },
+  {
+    "id": "character: Hinobi",
+    "name": "Hinobi",
+    "type": "character"
+  },
+  {
+    "id": "character: Hinston Ladrian",
+    "name": "Hinston Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Hmalka",
+    "name": "Hmalka",
+    "type": "character"
+  },
+  {
+    "id": "character: Hmask",
+    "name": "Hmask",
+    "type": "character"
+  },
+  {
+    "id": "character: Hnanan",
+    "name": "Hnanan",
+    "type": "character"
+  },
+  {
+    "id": "character: Hobart",
+    "name": "Hobart",
+    "type": "character"
+  },
+  {
+    "id": "character: Hobber",
+    "name": "Hobber",
+    "type": "character"
+  },
+  {
+    "id": "character: Hoid",
+    "name": "Hoid",
+    "type": "character"
+  },
+  {
+    "id": "character: Holmes",
+    "name": "Holmes",
+    "type": "character"
+  },
+  {
+    "id": "character: Honam",
+    "name": "Honam",
+    "type": "character"
+  },
+  {
+    "id": "character: Hopefinder",
+    "name": "Hopefinder",
+    "type": "character"
+  },
+  {
+    "id": "character: Horen",
+    "name": "Horen",
+    "type": "character"
+  },
+  {
+    "id": "character: Horinar",
+    "name": "Horinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Hoselle",
+    "name": "Hoselle",
+    "type": "character"
+  },
+  {
+    "id": "character: Hrathen",
+    "name": "Hrathen",
+    "type": "character"
+  },
+  {
+    "id": "character: Hrathen's seon",
+    "name": "Hrathen's seon",
+    "type": "character"
+  },
+  {
+    "id": "character: Hrdalm",
+    "name": "Hrdalm",
+    "type": "character"
+  },
+  {
+    "id": "character: Hrud",
+    "name": "Hrud",
+    "type": "character"
+  },
+  {
+    "id": "character: Hughes Entrone",
+    "name": "Hughes Entrone",
+    "type": "character"
+  },
+  {
+    "id": "character: Huio",
+    "name": "Huio",
+    "type": "character"
+  },
+  {
+    "id": "character: Huisi",
+    "name": "Huisi",
+    "type": "character"
+  },
+  {
+    "id": "character: HunFoor",
+    "name": "HunFoor",
+    "type": "character"
+  },
+  {
+    "id": "character: Huqin",
+    "name": "Huqin",
+    "type": "character"
+  },
+  {
+    "id": "character: Hurli",
+    "name": "Hurli",
+    "type": "character"
+  },
+  {
+    "id": "character: Husal",
+    "name": "Husal",
+    "type": "character"
+  },
+  {
+    "id": "character: Hwanji",
+    "name": "Hwanji",
+    "type": "character"
+  },
+  {
+    "id": "character: Iadon",
+    "name": "Iadon",
+    "type": "character"
+  },
+  {
+    "id": "character: Ialai Sadeas",
+    "name": "Ialai Sadeas",
+    "type": "character"
+  },
+  {
+    "id": "character: Ico",
+    "name": "Ico",
+    "type": "character"
+  },
+  {
+    "id": "character: Ico's father",
+    "name": "Ico's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Icy Ben Oldson",
+    "name": "Icy Ben Oldson",
+    "type": "character"
+  },
+  {
+    "id": "character: Icy Tongue",
+    "name": "Icy Tongue",
+    "type": "character"
+  },
+  {
+    "id": "character: Idan",
+    "name": "Idan",
+    "type": "character"
+  },
+  {
+    "id": "character: Idani",
+    "name": "Idani",
+    "type": "character"
+  },
+  {
+    "id": "character: Idashwy",
+    "name": "Idashwy",
+    "type": "character"
+  },
+  {
+    "id": "character: Idkwyl Elariel",
+    "name": "Idkwyl Elariel",
+    "type": "character"
+  },
+  {
+    "id": "character: Idolir",
+    "name": "Idolir",
+    "type": "character"
+  },
+  {
+    "id": "character: Idotris",
+    "name": "Idotris",
+    "type": "character"
+  },
+  {
+    "id": "character: Idren Seeris",
+    "name": "Idren Seeris",
+    "type": "character"
+  },
+  {
+    "id": "character: Idrin",
+    "name": "Idrin",
+    "type": "character"
+  },
+  {
+    "id": "character: Ien",
+    "name": "Ien",
+    "type": "character"
+  },
+  {
+    "id": "character: Ikonora",
+    "name": "Ikonora",
+    "type": "character"
+  },
+  {
+    "id": "character: Ilamar",
+    "name": "Ilamar",
+    "type": "character"
+  },
+  {
+    "id": "character: Inabar",
+    "name": "Inabar",
+    "type": "character"
+  },
+  {
+    "id": "character: Inadara",
+    "name": "Inadara",
+    "type": "character"
+  },
+  {
+    "id": "character: Inhanna",
+    "name": "Inhanna",
+    "type": "character"
+  },
+  {
+    "id": "character: Inis Julien",
+    "name": "Inis Julien",
+    "type": "character"
+  },
+  {
+    "id": "character: Inkima",
+    "name": "Inkima",
+    "type": "character"
+  },
+  {
+    "id": "character: Inkspren shopkeeper",
+    "name": "Inkspren shopkeeper",
+    "type": "character"
+  },
+  {
+    "id": "character: Innia",
+    "name": "Innia",
+    "type": "character"
+  },
+  {
+    "id": "character: Inspector",
+    "name": "Inspector",
+    "type": "character"
+  },
+  {
+    "id": "character: Invia",
+    "name": "Invia",
+    "type": "character"
+  },
+  {
+    "id": "character: Irich",
+    "name": "Irich",
+    "type": "character"
+  },
+  {
+    "id": "character: Isabaline Frellia",
+    "name": "Isabaline Frellia",
+    "type": "character"
+  },
+  {
+    "id": "character: Isabi",
+    "name": "Isabi",
+    "type": "character"
+  },
+  {
+    "id": "character: Isadan Sao",
+    "name": "Isadan Sao",
+    "type": "character"
+  },
+  {
+    "id": "character: Isan",
+    "name": "Isan",
+    "type": "character"
+  },
+  {
+    "id": "character: Isasik (Windrunner)",
+    "name": "Isasik (Windrunner)",
+    "type": "character"
+  },
+  {
+    "id": "character: Isasik Shulin",
+    "name": "Isasik Shulin",
+    "type": "character"
+  },
+  {
+    "id": "character: Ishal",
+    "name": "Ishal",
+    "type": "character"
+  },
+  {
+    "id": "character: Ishar",
+    "name": "Ishar",
+    "type": "character"
+  },
+  {
+    "id": "character: Ishikk",
+    "name": "Ishikk",
+    "type": "character"
+  },
+  {
+    "id": "character: Ishnah",
+    "name": "Ishnah",
+    "type": "character"
+  },
+  {
+    "id": "character: Isom",
+    "name": "Isom",
+    "type": "character"
+  },
+  {
+    "id": "character: Istow",
+    "name": "Istow",
+    "type": "character"
+  },
+  {
+    "id": "character: Ithi",
+    "name": "Ithi",
+    "type": "character"
+  },
+  {
+    "id": "character: Ito",
+    "name": "Ito",
+    "type": "character"
+  },
+  {
+    "id": "character: Ivanar Ruthar",
+    "name": "Ivanar Ruthar",
+    "type": "character"
+  },
+  {
+    "id": "character: Ivis",
+    "name": "Ivis",
+    "type": "character"
+  },
+  {
+    "id": "character: Ivory",
+    "name": "Ivory",
+    "type": "character"
+  },
+  {
+    "id": "character: Ixil",
+    "name": "Ixil",
+    "type": "character"
+  },
+  {
+    "id": "character: Ixsix",
+    "name": "Ixsix",
+    "type": "character"
+  },
+  {
+    "id": "character: Iyalid",
+    "name": "Iyalid",
+    "type": "character"
+  },
+  {
+    "id": "character: Iyatil",
+    "name": "Iyatil",
+    "type": "character"
+  },
+  {
+    "id": "character: Izumakamo",
+    "name": "Izumakamo",
+    "type": "character"
+  },
+  {
+    "id": "character: Jackstom Harms",
+    "name": "Jackstom Harms",
+    "type": "character"
+  },
+  {
+    "id": "character: Jadendwyl",
+    "name": "Jadendwyl",
+    "type": "character"
+  },
+  {
+    "id": "character: Jak",
+    "name": "Jak",
+    "type": "character"
+  },
+  {
+    "id": "character: Jakamav",
+    "name": "Jakamav",
+    "type": "character"
+  },
+  {
+    "id": "character: Jaks",
+    "name": "Jaks",
+    "type": "character"
+  },
+  {
+    "id": "character: Jal Mala",
+    "name": "Jal Mala",
+    "type": "character"
+  },
+  {
+    "id": "character: Jali",
+    "name": "Jali",
+    "type": "character"
+  },
+  {
+    "id": "character: Jalla",
+    "name": "Jalla",
+    "type": "character"
+  },
+  {
+    "id": "character: Jam (Hearthstone)",
+    "name": "Jam (Hearthstone)",
+    "type": "character"
+  },
+  {
+    "id": "character: Jam (caravaneer)",
+    "name": "Jam (caravaneer)",
+    "type": "character"
+  },
+  {
+    "id": "character: Jammi Walls",
+    "name": "Jammi Walls",
+    "type": "character"
+  },
+  {
+    "id": "character: Jamms",
+    "name": "Jamms",
+    "type": "character"
+  },
+  {
+    "id": "character: Jan Ven",
+    "name": "Jan Ven",
+    "type": "character"
+  },
+  {
+    "id": "character: Janala Lustow",
+    "name": "Janala Lustow",
+    "type": "character"
+  },
+  {
+    "id": "character: Janarle",
+    "name": "Janarle",
+    "type": "character"
+  },
+  {
+    "id": "character: Jarel",
+    "name": "Jarel",
+    "type": "character"
+  },
+  {
+    "id": "character: Jarloux",
+    "name": "Jarloux",
+    "type": "character"
+  },
+  {
+    "id": "character: Jarrington",
+    "name": "Jarrington",
+    "type": "character"
+  },
+  {
+    "id": "character: Jasalai",
+    "name": "Jasalai",
+    "type": "character"
+  },
+  {
+    "id": "character: Jasnah Kholin",
+    "name": "Jasnah Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Jasten",
+    "name": "Jasten",
+    "type": "character"
+  },
+  {
+    "id": "character: Jastes Lekal",
+    "name": "Jastes Lekal",
+    "type": "character"
+  },
+  {
+    "id": "character: Jaston",
+    "name": "Jaston",
+    "type": "character"
+  },
+  {
+    "id": "character: Javie",
+    "name": "Javie",
+    "type": "character"
+  },
+  {
+    "id": "character: Javier DaLeuc",
+    "name": "Javier DaLeuc",
+    "type": "character"
+  },
+  {
+    "id": "character: Javies",
+    "name": "Javies",
+    "type": "character"
+  },
+  {
+    "id": "character: Javih",
+    "name": "Javih",
+    "type": "character"
+  },
+  {
+    "id": "character: Jaxlim",
+    "name": "Jaxlim",
+    "type": "character"
+  },
+  {
+    "id": "character: Jaxy",
+    "name": "Jaxy",
+    "type": "character"
+  },
+  {
+    "id": "character: Jayla Ruthar",
+    "name": "Jayla Ruthar",
+    "type": "character"
+  },
+  {
+    "id": "character: Jeber",
+    "name": "Jeber",
+    "type": "character"
+  },
+  {
+    "id": "character: Jed",
+    "name": "Jed",
+    "type": "character"
+  },
+  {
+    "id": "character: Jedal",
+    "name": "Jedal",
+    "type": "character"
+  },
+  {
+    "id": "character: Jedan",
+    "name": "Jedan",
+    "type": "character"
+  },
+  {
+    "id": "character: Jeffrey Jeffrey",
+    "name": "Jeffrey Jeffrey",
+    "type": "character"
+  },
+  {
+    "id": "character: Jeffy",
+    "name": "Jeffy",
+    "type": "character"
+  },
+  {
+    "id": "character: Jeksonofnone",
+    "name": "Jeksonofnone",
+    "type": "character"
+  },
+  {
+    "id": "character: Jell",
+    "name": "Jell",
+    "type": "character"
+  },
+  {
+    "id": "character: Jendel",
+    "name": "Jendel",
+    "type": "character"
+  },
+  {
+    "id": "character: Jendellah",
+    "name": "Jendellah",
+    "type": "character"
+  },
+  {
+    "id": "character: Jenet",
+    "name": "Jenet",
+    "type": "character"
+  },
+  {
+    "id": "character: Jenin",
+    "name": "Jenin",
+    "type": "character"
+  },
+  {
+    "id": "character: Jennid",
+    "name": "Jennid",
+    "type": "character"
+  },
+  {
+    "id": "character: Jerono",
+    "name": "Jerono",
+    "type": "character"
+  },
+  {
+    "id": "character: Jeshishin",
+    "name": "Jeshishin",
+    "type": "character"
+  },
+  {
+    "id": "character: Jess",
+    "name": "Jess",
+    "type": "character"
+  },
+  {
+    "id": "character: Jest",
+    "name": "Jest",
+    "type": "character"
+  },
+  {
+    "id": "character: Jevena",
+    "name": "Jevena",
+    "type": "character"
+  },
+  {
+    "id": "character: Jewels",
+    "name": "Jewels",
+    "type": "character"
+  },
+  {
+    "id": "character: Jezinor",
+    "name": "Jezinor",
+    "type": "character"
+  },
+  {
+    "id": "character: Jezrien",
+    "name": "Jezrien",
+    "type": "character"
+  },
+  {
+    "id": "character: Jial",
+    "name": "Jial",
+    "type": "character"
+  },
+  {
+    "id": "character: Jin",
+    "name": "Jin",
+    "type": "character"
+  },
+  {
+    "id": "character: Jix",
+    "name": "Jix",
+    "type": "character"
+  },
+  {
+    "id": "character: Jlan",
+    "name": "Jlan",
+    "type": "character"
+  },
+  {
+    "id": "character: Jochi",
+    "name": "Jochi",
+    "type": "character"
+  },
+  {
+    "id": "character: Johnst",
+    "name": "Johnst",
+    "type": "character"
+  },
+  {
+    "id": "character: Jom",
+    "name": "Jom",
+    "type": "character"
+  },
+  {
+    "id": "character: Jon Acron",
+    "name": "Jon Acron",
+    "type": "character"
+  },
+  {
+    "id": "character: Jon Deadfinger",
+    "name": "Jon Deadfinger",
+    "type": "character"
+  },
+  {
+    "id": "character: Jone",
+    "name": "Jone",
+    "type": "character"
+  },
+  {
+    "id": "character: Jonnes",
+    "name": "Jonnes",
+    "type": "character"
+  },
+  {
+    "id": "character: Jor",
+    "name": "Jor",
+    "type": "character"
+  },
+  {
+    "id": "character: Jordis",
+    "name": "Jordis",
+    "type": "character"
+  },
+  {
+    "id": "character: Joret",
+    "name": "Joret",
+    "type": "character"
+  },
+  {
+    "id": "character: Jormo-son-Falk",
+    "name": "Jormo-son-Falk",
+    "type": "character"
+  },
+  {
+    "id": "character: Jorna",
+    "name": "Jorna",
+    "type": "character"
+  },
+  {
+    "id": "character: Joshin Yomen",
+    "name": "Joshin Yomen",
+    "type": "character"
+  },
+  {
+    "id": "character: Joshor",
+    "name": "Joshor",
+    "type": "character"
+  },
+  {
+    "id": "character: Jost",
+    "name": "Jost",
+    "type": "character"
+  },
+  {
+    "id": "character: Jub Hending",
+    "name": "Jub Hending",
+    "type": "character"
+  },
+  {
+    "id": "character: Jule",
+    "name": "Jule",
+    "type": "character"
+  },
+  {
+    "id": "character: Jushu Davar",
+    "name": "Jushu Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Ka",
+    "name": "Ka",
+    "type": "character"
+  },
+  {
+    "id": "character: Kabsal",
+    "name": "Kabsal",
+    "type": "character"
+  },
+  {
+    "id": "character: Kadash",
+    "name": "Kadash",
+    "type": "character"
+  },
+  {
+    "id": "character: Kahar",
+    "name": "Kahar",
+    "type": "character"
+  },
+  {
+    "id": "character: Kai-garnis",
+    "name": "Kai-garnis",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaise",
+    "name": "Kaise",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaladin",
+    "name": "Kaladin",
+    "type": "character"
+  },
+  {
+    "id": "character: Kalak",
+    "name": "Kalak",
+    "type": "character"
+  },
+  {
+    "id": "character: Kalami",
+    "name": "Kalami",
+    "type": "character"
+  },
+  {
+    "id": "character: Kalana",
+    "name": "Kalana",
+    "type": "character"
+  },
+  {
+    "id": "character: Kalanor",
+    "name": "Kalanor",
+    "type": "character"
+  },
+  {
+    "id": "character: Kale Tekiel",
+    "name": "Kale Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Kali'kalin",
+    "name": "Kali'kalin",
+    "type": "character"
+  },
+  {
+    "id": "character: Kalishor",
+    "name": "Kalishor",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaminah",
+    "name": "Kaminah",
+    "type": "character"
+  },
+  {
+    "id": "character: KanPaar",
+    "name": "KanPaar",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaplan",
+    "name": "Kaplan",
+    "type": "character"
+  },
+  {
+    "id": "character: Kar",
+    "name": "Kar",
+    "type": "character"
+  },
+  {
+    "id": "character: Kara",
+    "name": "Kara",
+    "type": "character"
+  },
+  {
+    "id": "character: Karata",
+    "name": "Karata",
+    "type": "character"
+  },
+  {
+    "id": "character: Karavangia",
+    "name": "Karavangia",
+    "type": "character"
+  },
+  {
+    "id": "character: Kareien",
+    "name": "Kareien",
+    "type": "character"
+  },
+  {
+    "id": "character: Karm",
+    "name": "Karm",
+    "type": "character"
+  },
+  {
+    "id": "character: Karmat",
+    "name": "Karmat",
+    "type": "character"
+  },
+  {
+    "id": "character: Kasimarlix",
+    "name": "Kasimarlix",
+    "type": "character"
+  },
+  {
+    "id": "character: Katarotam",
+    "name": "Katarotam",
+    "type": "character"
+  },
+  {
+    "id": "character: Kath",
+    "name": "Kath",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaves Kholin",
+    "name": "Kaves Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Kaza",
+    "name": "Kaza",
+    "type": "character"
+  },
+  {
+    "id": "character: Kazilah",
+    "name": "Kazilah",
+    "type": "character"
+  },
+  {
+    "id": "character: Kdralk",
+    "name": "Kdralk",
+    "type": "character"
+  },
+  {
+    "id": "character: Ked",
+    "name": "Ked",
+    "type": "character"
+  },
+  {
+    "id": "character: Kef'ha",
+    "name": "Kef'ha",
+    "type": "character"
+  },
+  {
+    "id": "character: Kelerand",
+    "name": "Kelerand",
+    "type": "character"
+  },
+  {
+    "id": "character: Kelesina Shores",
+    "name": "Kelesina Shores",
+    "type": "character"
+  },
+  {
+    "id": "character: Kelesina Shores's steward",
+    "name": "Kelesina Shores's steward",
+    "type": "character"
+  },
+  {
+    "id": "character: Kellen",
+    "name": "Kellen",
+    "type": "character"
+  },
+  {
     "id": "character: Kelsier",
     "name": "Kelsier",
+    "type": "character"
+  },
+  {
+    "id": "character: Kelsier's mother",
+    "name": "Kelsier's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Kenton",
+    "name": "Kenton",
+    "type": "character"
+  },
+  {
+    "id": "character: Kenton's mother",
+    "name": "Kenton's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Kerzt",
+    "name": "Kerzt",
+    "type": "character"
+  },
+  {
+    "id": "character: Keseg",
+    "name": "Keseg",
+    "type": "character"
+  },
+  {
+    "id": "character: Keshdel",
+    "name": "Keshdel",
+    "type": "character"
+  },
+  {
+    "id": "character: Kessi",
+    "name": "Kessi",
+    "type": "character"
+  },
+  {
+    "id": "character: KeSun",
+    "name": "KeSun",
+    "type": "character"
+  },
+  {
+    "id": "character: Ketol",
+    "name": "Ketol",
+    "type": "character"
+  },
+  {
+    "id": "character: Kevoux",
+    "name": "Kevoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Khav",
+    "name": "Khav",
+    "type": "character"
+  },
+  {
+    "id": "character: Khem",
+    "name": "Khem",
+    "type": "character"
+  },
+  {
+    "id": "character: Khen",
+    "name": "Khen",
+    "type": "character"
+  },
+  {
+    "id": "character: Kheni",
+    "name": "Kheni",
+    "type": "character"
+  },
+  {
+    "id": "character: Khrissalla",
+    "name": "Khrissalla",
+    "type": "character"
+  },
+  {
+    "id": "character: Khyan",
+    "name": "Khyan",
+    "type": "character"
+  },
+  {
+    "id": "character: Ki",
+    "name": "Ki",
+    "type": "character"
+  },
+  {
+    "id": "character: Kiin",
+    "name": "Kiin",
+    "type": "character"
+  },
+  {
+    "id": "character: Kinaler",
+    "name": "Kinaler",
+    "type": "character"
+  },
+  {
+    "id": "character: Kindwinds",
+    "name": "Kindwinds",
+    "type": "character"
+  },
+  {
+    "id": "character: Kip",
+    "name": "Kip",
+    "type": "character"
+  },
+  {
+    "id": "character: Klade",
+    "name": "Klade",
+    "type": "character"
+  },
+  {
+    "id": "character: Klisn",
+    "name": "Klisn",
+    "type": "character"
+  },
+  {
+    "id": "character: Kliss",
+    "name": "Kliss",
+    "type": "character"
+  },
+  {
+    "id": "character: Kmakl",
+    "name": "Kmakl",
+    "type": "character"
+  },
+  {
+    "id": "character: Kmakra",
+    "name": "Kmakra",
+    "type": "character"
+  },
+  {
+    "id": "character: Koen",
+    "name": "Koen",
+    "type": "character"
+  },
+  {
+    "id": "character: Kokerlii",
+    "name": "Kokerlii",
+    "type": "character"
+  },
+  {
+    "id": "character: Koolf",
+    "name": "Koolf",
+    "type": "character"
+  },
+  {
+    "id": "character: Koorm",
+    "name": "Koorm",
+    "type": "character"
+  },
+  {
+    "id": "character: Korabet",
+    "name": "Korabet",
+    "type": "character"
+  },
+  {
+    "id": "character: Korater",
+    "name": "Korater",
+    "type": "character"
+  },
+  {
+    "id": "character: Korath",
+    "name": "Korath",
+    "type": "character"
+  },
+  {
+    "id": "character: Koravellium Avast",
+    "name": "Koravellium Avast",
+    "type": "character"
+  },
+  {
+    "id": "character: Krent",
+    "name": "Krent",
+    "type": "character"
+  },
+  {
+    "id": "character: Kristir",
+    "name": "Kristir",
+    "type": "character"
+  },
+  {
+    "id": "character: Kryst",
+    "name": "Kryst",
+    "type": "character"
+  },
+  {
+    "id": "character: Kstled",
+    "name": "Kstled",
+    "type": "character"
+  },
+  {
+    "id": "character: Kuma'tiki",
+    "name": "Kuma'tiki",
+    "type": "character"
+  },
+  {
+    "id": "character: Kuno",
+    "name": "Kuno",
+    "type": "character"
+  },
+  {
+    "id": "character: Kurdon",
+    "name": "Kurdon",
+    "type": "character"
+  },
+  {
+    "id": "character: Kurshina",
+    "name": "Kurshina",
+    "type": "character"
+  },
+  {
+    "id": "character: Kusiri",
+    "name": "Kusiri",
+    "type": "character"
+  },
+  {
+    "id": "character: Kwaan",
+    "name": "Kwaan",
+    "type": "character"
+  },
+  {
+    "id": "character: Kwashim",
+    "name": "Kwashim",
+    "type": "character"
+  },
+  {
+    "id": "character: Kwati",
+    "name": "Kwati",
+    "type": "character"
+  },
+  {
+    "id": "character: Kylrm",
+    "name": "Kylrm",
+    "type": "character"
+  },
+  {
+    "id": "character: Kyndlip Ternavyl",
+    "name": "Kyndlip Ternavyl",
+    "type": "character"
+  },
+  {
+    "id": "character: Kyril",
+    "name": "Kyril",
+    "type": "character"
+  },
+  {
+    "id": "character: Ladent",
+    "name": "Ladent",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Alami",
+    "name": "Lady Alami",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Farthing",
+    "name": "Lady Farthing",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Faula",
+    "name": "Lady Faula",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Gardre",
+    "name": "Lady Gardre",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Lavont",
+    "name": "Lady Lavont",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Lentin",
+    "name": "Lady Lentin",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Mulgrave",
+    "name": "Lady Mulgrave",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady Patresen",
+    "name": "Lady Patresen",
+    "type": "character"
+  },
+  {
+    "id": "character: Lady ZoBell",
+    "name": "Lady ZoBell",
+    "type": "character"
+  },
+  {
+    "id": "character: Laggart",
+    "name": "Laggart",
+    "type": "character"
+  },
+  {
+    "id": "character: Lahar",
+    "name": "Lahar",
+    "type": "character"
+  },
+  {
+    "id": "character: Laird",
+    "name": "Laird",
+    "type": "character"
+  },
+  {
+    "id": "character: Lakin",
+    "name": "Lakin",
+    "type": "character"
+  },
+  {
+    "id": "character: Lalai",
+    "name": "Lalai",
+    "type": "character"
+  },
+  {
+    "id": "character: Lamaril",
+    "name": "Lamaril",
+    "type": "character"
+  },
+  {
+    "id": "character: Lamentation Winebare",
+    "name": "Lamentation Winebare",
+    "type": "character"
+  },
+  {
+    "id": "character: Lanacin",
+    "name": "Lanacin",
+    "type": "character"
+  },
+  {
+    "id": "character: Landre",
+    "name": "Landre",
+    "type": "character"
+  },
+  {
+    "id": "character: Lani",
+    "name": "Lani",
+    "type": "character"
+  },
+  {
+    "id": "character: Laral Roshone",
+    "name": "Laral Roshone",
+    "type": "character"
+  },
+  {
+    "id": "character: Laran",
+    "name": "Laran",
+    "type": "character"
+  },
+  {
+    "id": "character: Laresh",
+    "name": "Laresh",
+    "type": "character"
+  },
+  {
+    "id": "character: Larn (Roshar)",
+    "name": "Larn (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Larn (Scadrial)",
+    "name": "Larn (Scadrial)",
+    "type": "character"
+  },
+  {
+    "id": "character: Larskpur",
+    "name": "Larskpur",
+    "type": "character"
+  },
+  {
+    "id": "character: Lead",
+    "name": "Lead",
+    "type": "character"
+  },
+  {
+    "id": "character: Ledder",
+    "name": "Ledder",
+    "type": "character"
+  },
+  {
+    "id": "character: Leef",
+    "name": "Leef",
+    "type": "character"
+  },
+  {
+    "id": "character: LeeMar",
+    "name": "LeeMar",
+    "type": "character"
+  },
+  {
+    "id": "character: Lellin",
+    "name": "Lellin",
+    "type": "character"
+  },
+  {
+    "id": "character: Lem",
+    "name": "Lem",
+    "type": "character"
+  },
+  {
+    "id": "character: Lemex",
+    "name": "Lemex",
+    "type": "character"
+  },
+  {
+    "id": "character: Lemex's nurse",
+    "name": "Lemex's nurse",
+    "type": "character"
+  },
+  {
+    "id": "character: Lenehe",
+    "name": "Lenehe",
+    "type": "character"
+  },
+  {
+    "id": "character: Leras",
+    "name": "Leras",
+    "type": "character"
+  },
+  {
+    "id": "character: Lesan Calour",
+    "name": "Lesan Calour",
+    "type": "character"
+  },
+  {
+    "id": "character: Leshwi",
+    "name": "Leshwi",
+    "type": "character"
+  },
+  {
+    "id": "character: Leven",
+    "name": "Leven",
+    "type": "character"
+  },
+  {
+    "id": "character: Levrin",
+    "name": "Levrin",
+    "type": "character"
+  },
+  {
+    "id": "character: Leyten",
+    "name": "Leyten",
+    "type": "character"
+  },
+  {
+    "id": "character: Lezian",
+    "name": "Lezian",
+    "type": "character"
+  },
+  {
+    "id": "character: Lhan",
+    "name": "Lhan",
+    "type": "character"
+  },
+  {
+    "id": "character: Lhanin",
+    "name": "Lhanin",
+    "type": "character"
+  },
+  {
+    "id": "character: Lieke",
+    "name": "Lieke",
+    "type": "character"
+  },
+  {
+    "id": "character: Lieutenant Ahlstrom",
+    "name": "Lieutenant Ahlstrom",
+    "type": "character"
+  },
+  {
+    "id": "character: Lifeblesser",
+    "name": "Lifeblesser",
+    "type": "character"
+  },
+  {
+    "id": "character: Lift",
+    "name": "Lift",
+    "type": "character"
+  },
+  {
+    "id": "character: Liganor",
+    "name": "Liganor",
+    "type": "character"
+  },
+  {
+    "id": "character: Lili",
+    "name": "Lili",
+    "type": "character"
+  },
+  {
+    "id": "character: Lily",
+    "name": "Lily",
+    "type": "character"
+  },
+  {
+    "id": "character: Limmi",
+    "name": "Limmi",
+    "type": "character"
+  },
+  {
+    "id": "character: Lin Davar",
+    "name": "Lin Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Linji",
+    "name": "Linji",
+    "type": "character"
+  },
+  {
+    "id": "character: Lirin",
+    "name": "Lirin",
+    "type": "character"
+  },
+  {
+    "id": "character: Liss",
+    "name": "Liss",
+    "type": "character"
+  },
+  {
+    "id": "character: Litima",
+    "name": "Litima",
+    "type": "character"
+  },
+  {
+    "id": "character: Liyun",
+    "name": "Liyun",
+    "type": "character"
+  },
+  {
+    "id": "character: Llarimar",
+    "name": "Llarimar",
+    "type": "character"
+  },
+  {
+    "id": "character: Loaten",
+    "name": "Loaten",
+    "type": "character"
+  },
+  {
+    "id": "character: Loats",
+    "name": "Loats",
+    "type": "character"
+  },
+  {
+    "id": "character: Lokkall",
+    "name": "Lokkall",
+    "type": "character"
+  },
+  {
+    "id": "character: Lokmlen",
+    "name": "Lokmlen",
+    "type": "character"
+  },
+  {
+    "id": "character: Lolan",
+    "name": "Lolan",
+    "type": "character"
+  },
+  {
+    "id": "character: Lomard",
+    "name": "Lomard",
+    "type": "character"
+  },
+  {
+    "id": "character: Lond",
+    "name": "Lond",
+    "type": "character"
+  },
+  {
+    "id": "character: Longbrow",
+    "name": "Longbrow",
+    "type": "character"
+  },
+  {
+    "id": "character: Longshadow",
+    "name": "Longshadow",
+    "type": "character"
+  },
+  {
+    "id": "character: Lopen",
+    "name": "Lopen",
+    "type": "character"
+  },
+  {
+    "id": "character: Lopen's mother",
+    "name": "Lopen's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Loradar Vamah",
+    "name": "Loradar Vamah",
+    "type": "character"
+  },
+  {
+    "id": "character: Lorain",
+    "name": "Lorain",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Barrington",
+    "name": "Lord Barrington",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Erikell",
+    "name": "Lord Erikell",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Habren",
+    "name": "Lord Habren",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Hue",
+    "name": "Lord Hue",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Steming",
+    "name": "Lord Steming",
+    "type": "character"
+  },
+  {
+    "id": "character: Lord Stenet",
+    "name": "Lord Stenet",
+    "type": "character"
+  },
+  {
+    "id": "character: Loren",
+    "name": "Loren",
+    "type": "character"
+  },
+  {
+    "id": "character: Lossa",
+    "name": "Lossa",
+    "type": "character"
+  },
+  {
+    "id": "character: Lotari",
+    "name": "Lotari",
+    "type": "character"
+  },
+  {
+    "id": "character: Luesh",
+    "name": "Luesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Lukel",
+    "name": "Lukel",
+    "type": "character"
+  },
+  {
+    "id": "character: Lusintia",
+    "name": "Lusintia",
+    "type": "character"
+  },
+  {
+    "id": "character: Lustow",
+    "name": "Lustow",
+    "type": "character"
+  },
+  {
+    "id": "character: Luten",
+    "name": "Luten",
+    "type": "character"
+  },
+  {
+    "id": "character: Lyn",
+    "name": "Lyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Lyndel",
+    "name": "Lyndel",
+    "type": "character"
+  },
+  {
+    "id": "character: Lyndip",
+    "name": "Lyndip",
+    "type": "character"
+  },
+  {
+    "id": "character: Lyon",
+    "name": "Lyon",
+    "type": "character"
+  },
+  {
+    "id": "character: Ma",
+    "name": "Ma",
+    "type": "character"
+  },
+  {
+    "id": "character: Maare",
+    "name": "Maare",
+    "type": "character"
+  },
+  {
+    "id": "character: Mab",
+    "name": "Mab",
+    "type": "character"
+  },
+  {
+    "id": "character: Maben",
+    "name": "Maben",
+    "type": "character"
+  },
+  {
+    "id": "character: Mabrow Pigherder",
+    "name": "Mabrow Pigherder",
+    "type": "character"
+  },
+  {
+    "id": "character: Macil",
+    "name": "Macil",
+    "type": "character"
+  },
+  {
+    "id": "character: Macob",
+    "name": "Macob",
+    "type": "character"
+  },
+  {
+    "id": "character: Madam Penfor",
+    "name": "Madam Penfor",
+    "type": "character"
+  },
+  {
+    "id": "character: Madasa",
+    "name": "Madasa",
+    "type": "character"
+  },
+  {
+    "id": "character: Mai",
+    "name": "Mai",
+    "type": "character"
+  },
+  {
+    "id": "character: Maib",
+    "name": "Maib",
+    "type": "character"
+  },
+  {
+    "id": "character: Mailey",
+    "name": "Mailey",
+    "type": "character"
+  },
+  {
+    "id": "character: Maindew",
+    "name": "Maindew",
+    "type": "character"
+  },
+  {
+    "id": "character: Makal",
+    "name": "Makal",
+    "type": "character"
+  },
+  {
+    "id": "character: Makepeace Hapshire",
+    "name": "Makepeace Hapshire",
+    "type": "character"
+  },
+  {
+    "id": "character: Makh",
+    "name": "Makh",
+    "type": "character"
+  },
+  {
+    "id": "character: Makkek",
+    "name": "Makkek",
+    "type": "character"
+  },
+  {
+    "id": "character: Malad-son-Zent",
+    "name": "Malad-son-Zent",
+    "type": "character"
+  },
+  {
+    "id": "character: Malal",
+    "name": "Malal",
+    "type": "character"
+  },
+  {
+    "id": "character: Malan",
+    "name": "Malan",
+    "type": "character"
+  },
+  {
+    "id": "character: Malasha Seveks",
+    "name": "Malasha Seveks",
+    "type": "character"
+  },
+  {
+    "id": "character: Malata",
+    "name": "Malata",
+    "type": "character"
+  },
+  {
+    "id": "character: Malchin",
+    "name": "Malchin",
+    "type": "character"
+  },
+  {
+    "id": "character: Malise Gevelmar",
+    "name": "Malise Gevelmar",
+    "type": "character"
+  },
+  {
+    "id": "character: Malli",
+    "name": "Malli",
+    "type": "character"
+  },
+  {
+    "id": "character: Mallory",
+    "name": "Mallory",
+    "type": "character"
+  },
+  {
+    "id": "character: Malop",
+    "name": "Malop",
+    "type": "character"
+  },
+  {
+    "id": "character: Manaline",
+    "name": "Manaline",
+    "type": "character"
+  },
+  {
+    "id": "character: Maod",
+    "name": "Maod",
+    "type": "character"
+  },
+  {
+    "id": "character: Maps",
+    "name": "Maps",
+    "type": "character"
+  },
+  {
+    "id": "character: Mara (Roshar)",
+    "name": "Mara (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Maraga Dulcet",
+    "name": "Maraga Dulcet",
+    "type": "character"
+  },
+  {
+    "id": "character: Marakal",
+    "name": "Marakal",
+    "type": "character"
+  },
+  {
+    "id": "character: Marasi Colms",
+    "name": "Marasi Colms",
+    "type": "character"
+  },
+  {
+    "id": "character: Maratham",
+    "name": "Maratham",
+    "type": "character"
+  },
+  {
+    "id": "character: Maraya",
+    "name": "Maraya",
+    "type": "character"
+  },
+  {
+    "id": "character: Mardra",
+    "name": "Mardra",
     "type": "character"
   },
   {
@@ -10,8 +5250,3983 @@
     "type": "character"
   },
   {
+    "id": "character: Mareshe",
+    "name": "Mareshe",
+    "type": "character"
+  },
+  {
+    "id": "character: Marf",
+    "name": "Marf",
+    "type": "character"
+  },
+  {
+    "id": "character: Margel",
+    "name": "Margel",
+    "type": "character"
+  },
+  {
+    "id": "character: Mari Hammondess",
+    "name": "Mari Hammondess",
+    "type": "character"
+  },
+  {
+    "id": "character: Marks (Roshar)",
+    "name": "Marks (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Marksman",
+    "name": "Marksman",
+    "type": "character"
+  },
+  {
+    "id": "character: Marni",
+    "name": "Marni",
+    "type": "character"
+  },
+  {
+    "id": "character: Marple",
+    "name": "Marple",
+    "type": "character"
+  },
+  {
+    "id": "character: Marri",
+    "name": "Marri",
+    "type": "character"
+  },
+  {
     "id": "character: Marsh",
     "name": "Marsh",
+    "type": "character"
+  },
+  {
+    "id": "character: Mart",
+    "name": "Mart",
+    "type": "character"
+  },
+  {
+    "id": "character: Marthin",
+    "name": "Marthin",
+    "type": "character"
+  },
+  {
+    "id": "character: Martra",
+    "name": "Martra",
+    "type": "character"
+  },
+  {
+    "id": "character: Masaka",
+    "name": "Masaka",
+    "type": "character"
+  },
+  {
+    "id": "character: Masha-daughter-Shaliv",
+    "name": "Masha-daughter-Shaliv",
+    "type": "character"
+  },
+  {
+    "id": "character: Masly",
+    "name": "Masly",
+    "type": "character"
+  },
+  {
+    "id": "character: Mastrell Rile",
+    "name": "Mastrell Rile",
+    "type": "character"
+  },
+  {
+    "id": "character: Matain",
+    "name": "Matain",
+    "type": "character"
+  },
+  {
+    "id": "character: Mathingdaw",
+    "name": "Mathingdaw",
+    "type": "character"
+  },
+  {
+    "id": "character: Matieu",
+    "name": "Matieu",
+    "type": "character"
+  },
+  {
+    "id": "character: Matisse",
+    "name": "Matisse",
+    "type": "character"
+  },
+  {
+    "id": "character: Maurin",
+    "name": "Maurin",
+    "type": "character"
+  },
+  {
+    "id": "character: Maxillium Ladrian",
+    "name": "Maxillium Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Maxin",
+    "name": "Maxin",
+    "type": "character"
+  },
+  {
+    "id": "character: May Aladar",
+    "name": "May Aladar",
+    "type": "character"
+  },
+  {
+    "id": "character: Mayalaran",
+    "name": "Mayalaran",
+    "type": "character"
+  },
+  {
+    "id": "character: Mazish",
+    "name": "Mazish",
+    "type": "character"
+  },
+  {
+    "id": "character: Meala",
+    "name": "Meala",
+    "type": "character"
+  },
+  {
+    "id": "character: Mederia",
+    "name": "Mederia",
+    "type": "character"
+  },
+  {
+    "id": "character: Mehen",
+    "name": "Mehen",
+    "type": "character"
+  },
+  {
+    "id": "character: Meirav",
+    "name": "Meirav",
+    "type": "character"
+  },
+  {
+    "id": "character: Mel",
+    "name": "Mel",
+    "type": "character"
+  },
+  {
+    "id": "character: Mela",
+    "name": "Mela",
+    "type": "character"
+  },
+  {
+    "id": "character: MeLaan",
+    "name": "MeLaan",
+    "type": "character"
+  },
+  {
+    "id": "character: Melali",
+    "name": "Melali",
+    "type": "character"
+  },
+  {
+    "id": "character: Melend Liese",
+    "name": "Melend Liese",
+    "type": "character"
+  },
+  {
+    "id": "character: Meleran Khal",
+    "name": "Meleran Khal",
+    "type": "character"
+  },
+  {
+    "id": "character: Melishi",
+    "name": "Melishi",
+    "type": "character"
+  },
+  {
+    "id": "character: Mellis",
+    "name": "Mellis",
+    "type": "character"
+  },
+  {
+    "id": "character: Melloni",
+    "name": "Melloni",
+    "type": "character"
+  },
+  {
+    "id": "character: Melu",
+    "name": "Melu",
+    "type": "character"
+  },
+  {
+    "id": "character: Mem",
+    "name": "Mem",
+    "type": "character"
+  },
+  {
+    "id": "character: Mennis",
+    "name": "Mennis",
+    "type": "character"
+  },
+  {
+    "id": "character: Mercystar",
+    "name": "Mercystar",
+    "type": "character"
+  },
+  {
+    "id": "character: Mereline",
+    "name": "Mereline",
+    "type": "character"
+  },
+  {
+    "id": "character: Meridas Amaram",
+    "name": "Meridas Amaram",
+    "type": "character"
+  },
+  {
+    "id": "character: Merit",
+    "name": "Merit",
+    "type": "character"
+  },
+  {
+    "id": "character: Mesh",
+    "name": "Mesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Mi'chelle Yomen",
+    "name": "Mi'chelle Yomen",
+    "type": "character"
+  },
+  {
+    "id": "character: Miasal",
+    "name": "Miasal",
+    "type": "character"
+  },
+  {
+    "id": "character: Midge",
+    "name": "Midge",
+    "type": "character"
+  },
+  {
+    "id": "character: Migs",
+    "name": "Migs",
+    "type": "character"
+  },
+  {
+    "id": "character: Mik",
+    "name": "Mik",
+    "type": "character"
+  },
+  {
+    "id": "character: Mikaff",
+    "name": "Mikaff",
+    "type": "character"
+  },
+  {
+    "id": "character: Mikaim",
+    "name": "Mikaim",
+    "type": "character"
+  },
+  {
+    "id": "character: Miklin",
+    "name": "Miklin",
+    "type": "character"
+  },
+  {
+    "id": "character: Mil",
+    "name": "Mil",
+    "type": "character"
+  },
+  {
+    "id": "character: Milen Davenpleu",
+    "name": "Milen Davenpleu",
+    "type": "character"
+  },
+  {
+    "id": "character: Miles Dagouter",
+    "name": "Miles Dagouter",
+    "type": "character"
+  },
+  {
+    "id": "character: Milev",
+    "name": "Milev",
+    "type": "character"
+  },
+  {
+    "id": "character: Miliv",
+    "name": "Miliv",
+    "type": "character"
+  },
+  {
+    "id": "character: Mill",
+    "name": "Mill",
+    "type": "character"
+  },
+  {
+    "id": "character: Milp",
+    "name": "Milp",
+    "type": "character"
+  },
+  {
+    "id": "character: Minara",
+    "name": "Minara",
+    "type": "character"
+  },
+  {
+    "id": "character: Ministara",
+    "name": "Ministara",
+    "type": "character"
+  },
+  {
+    "id": "character: Mintez",
+    "name": "Mintez",
+    "type": "character"
+  },
+  {
+    "id": "character: Mirabell",
+    "name": "Mirabell",
+    "type": "character"
+  },
+  {
+    "id": "character: Mirris",
+    "name": "Mirris",
+    "type": "character"
+  },
+  {
+    "id": "character: Mirthgiver",
+    "name": "Mirthgiver",
+    "type": "character"
+  },
+  {
+    "id": "character: Misel",
+    "name": "Misel",
+    "type": "character"
+  },
+  {
+    "id": "character: Mishinah Bethab",
+    "name": "Mishinah Bethab",
+    "type": "character"
+  },
+  {
+    "id": "character: Misra",
+    "name": "Misra",
+    "type": "character"
+  },
+  {
+    "id": "character: Miss Grimes",
+    "name": "Miss Grimes",
+    "type": "character"
+  },
+  {
+    "id": "character: Mizthla",
+    "name": "Mizthla",
+    "type": "character"
+  },
+  {
+    "id": "character: Moash",
+    "name": "Moash",
+    "type": "character"
+  },
+  {
+    "id": "character: Moash (singer)",
+    "name": "Moash (singer)",
+    "type": "character"
+  },
+  {
+    "id": "character: Modicarm",
+    "name": "Modicarm",
+    "type": "character"
+  },
+  {
+    "id": "character: Moelach",
+    "name": "Moelach",
+    "type": "character"
+  },
+  {
+    "id": "character: Molinar",
+    "name": "Molinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Moore",
+    "name": "Moore",
+    "type": "character"
+  },
+  {
+    "id": "character: Moratel",
+    "name": "Moratel",
+    "type": "character"
+  },
+  {
+    "id": "character: Mord",
+    "name": "Mord",
+    "type": "character"
+  },
+  {
+    "id": "character: Moril",
+    "name": "Moril",
+    "type": "character"
+  },
+  {
+    "id": "character: Mosaic",
+    "name": "Mosaic",
+    "type": "character"
+  },
+  {
+    "id": "character: Motif",
+    "name": "Motif",
+    "type": "character"
+  },
+  {
+    "id": "character: Mraize",
+    "name": "Mraize",
+    "type": "character"
+  },
+  {
+    "id": "character: Mraize's Aviar",
+    "name": "Mraize's Aviar",
+    "type": "character"
+  },
+  {
+    "id": "character: Mrall",
+    "name": "Mrall",
+    "type": "character"
+  },
+  {
+    "id": "character: Mrs. Hutchen",
+    "name": "Mrs. Hutchen",
+    "type": "character"
+  },
+  {
+    "id": "character: Mrs. Nock",
+    "name": "Mrs. Nock",
+    "type": "character"
+  },
+  {
+    "id": "character: Mrs. Shinja",
+    "name": "Mrs. Shinja",
+    "type": "character"
+  },
+  {
+    "id": "character: Mrun",
+    "name": "Mrun",
+    "type": "character"
+  },
+  {
+    "id": "character: Mungam",
+    "name": "Mungam",
+    "type": "character"
+  },
+  {
+    "id": "character: Mura",
+    "name": "Mura",
+    "type": "character"
+  },
+  {
+    "id": "character: Muri",
+    "name": "Muri",
+    "type": "character"
+  },
+  {
+    "id": "character: Murk",
+    "name": "Murk",
+    "type": "character"
+  },
+  {
+    "id": "character: Murnbru",
+    "name": "Murnbru",
+    "type": "character"
+  },
+  {
+    "id": "character: Mustaches",
+    "name": "Mustaches",
+    "type": "character"
+  },
+  {
+    "id": "character: Myalmr",
+    "name": "Myalmr",
+    "type": "character"
+  },
+  {
+    "id": "character: N'Teese",
+    "name": "N'Teese",
+    "type": "character"
+  },
+  {
+    "id": "character: Nacomb Gaval",
+    "name": "Nacomb Gaval",
+    "type": "character"
+  },
+  {
+    "id": "character: Nafti",
+    "name": "Nafti",
+    "type": "character"
+  },
+  {
+    "id": "character: Naget",
+    "name": "Naget",
+    "type": "character"
+  },
+  {
+    "id": "character: NaiMeer",
+    "name": "NaiMeer",
+    "type": "character"
+  },
+  {
+    "id": "character: Nakal",
+    "name": "Nakal",
+    "type": "character"
+  },
+  {
+    "id": "character: Naladan",
+    "name": "Naladan",
+    "type": "character"
+  },
+  {
+    "id": "character: Nalanar",
+    "name": "Nalanar",
+    "type": "character"
+  },
+  {
+    "id": "character: Nale",
+    "name": "Nale",
+    "type": "character"
+  },
+  {
+    "id": "character: Nalem",
+    "name": "Nalem",
+    "type": "character"
+  },
+  {
+    "id": "character: Nall",
+    "name": "Nall",
+    "type": "character"
+  },
+  {
+    "id": "character: Nalma",
+    "name": "Nalma",
+    "type": "character"
+  },
+  {
+    "id": "character: Nam",
+    "name": "Nam",
+    "type": "character"
+  },
+  {
+    "id": "character: Namakudo",
+    "name": "Namakudo",
+    "type": "character"
+  },
+  {
+    "id": "character: Namar",
+    "name": "Namar",
+    "type": "character"
+  },
+  {
+    "id": "character: Nanakai",
+    "name": "Nanakai",
+    "type": "character"
+  },
+  {
+    "id": "character: Nananav",
+    "name": "Nananav",
+    "type": "character"
+  },
+  {
+    "id": "character: NanHar",
+    "name": "NanHar",
+    "type": "character"
+  },
+  {
+    "id": "character: Nanhel Eltorv",
+    "name": "Nanhel Eltorv",
+    "type": "character"
+  },
+  {
+    "id": "character: NanKhet",
+    "name": "NanKhet",
+    "type": "character"
+  },
+  {
+    "id": "character: Nanrovah",
+    "name": "Nanrovah",
+    "type": "character"
+  },
+  {
+    "id": "character: Naolen",
+    "name": "Naolen",
+    "type": "character"
+  },
+  {
+    "id": "character: Narm",
+    "name": "Narm",
+    "type": "character"
+  },
+  {
+    "id": "character: Nashan",
+    "name": "Nashan",
+    "type": "character"
+  },
+  {
+    "id": "character: Natam",
+    "name": "Natam",
+    "type": "character"
+  },
+  {
+    "id": "character: Natata Ved",
+    "name": "Natata Ved",
+    "type": "character"
+  },
+  {
+    "id": "character: Natem",
+    "name": "Natem",
+    "type": "character"
+  },
+  {
+    "id": "character: Natir",
+    "name": "Natir",
+    "type": "character"
+  },
+  {
+    "id": "character: Navani Kholin",
+    "name": "Navani Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Navar",
+    "name": "Navar",
+    "type": "character"
+  },
+  {
+    "id": "character: Naze-daughter-Kuzodo",
+    "name": "Naze-daughter-Kuzodo",
+    "type": "character"
+  },
+  {
+    "id": "character: Nazrilof",
+    "name": "Nazrilof",
+    "type": "character"
+  },
+  {
+    "id": "character: Ned",
+    "name": "Ned",
+    "type": "character"
+  },
+  {
+    "id": "character: Nem",
+    "name": "Nem",
+    "type": "character"
+  },
+  {
+    "id": "character: Nenefra",
+    "name": "Nenefra",
+    "type": "character"
+  },
+  {
+    "id": "character: Neoden",
+    "name": "Neoden",
+    "type": "character"
+  },
+  {
+    "id": "character: Nergaoul",
+    "name": "Nergaoul",
+    "type": "character"
+  },
+  {
+    "id": "character: Neshan",
+    "name": "Neshan",
+    "type": "character"
+  },
+  {
+    "id": "character: Neteb",
+    "name": "Neteb",
+    "type": "character"
+  },
+  {
+    "id": "character: Neturo-son-Vallano",
+    "name": "Neturo-son-Vallano",
+    "type": "character"
+  },
+  {
+    "id": "character: New kid",
+    "name": "New kid",
+    "type": "character"
+  },
+  {
+    "id": "character: Niali",
+    "name": "Niali",
+    "type": "character"
+  },
+  {
+    "id": "character: Nicelle Sauvage",
+    "name": "Nicelle Sauvage",
+    "type": "character"
+  },
+  {
+    "id": "character: Night",
+    "name": "Night",
+    "type": "character"
+  },
+  {
+    "id": "character: Night Known",
+    "name": "Night Known",
+    "type": "character"
+  },
+  {
+    "id": "character: Nightblood",
+    "name": "Nightblood",
+    "type": "character"
+  },
+  {
+    "id": "character: Nightwatcher",
+    "name": "Nightwatcher",
+    "type": "character"
+  },
+  {
+    "id": "character: Nikaro",
+    "name": "Nikaro",
+    "type": "character"
+  },
+  {
+    "id": "character: Nikliasorm",
+    "name": "Nikliasorm",
+    "type": "character"
+  },
+  {
+    "id": "character: Nikolin",
+    "name": "Nikolin",
+    "type": "character"
+  },
+  {
+    "id": "character: Nissiqqan",
+    "name": "Nissiqqan",
+    "type": "character"
+  },
+  {
+    "id": "character: Nistar",
+    "name": "Nistar",
+    "type": "character"
+  },
+  {
+    "id": "character: Niter",
+    "name": "Niter",
+    "type": "character"
+  },
+  {
+    "id": "character: Nlan",
+    "name": "Nlan",
+    "type": "character"
+  },
+  {
+    "id": "character: Nlent",
+    "name": "Nlent",
+    "type": "character"
+  },
+  {
+    "id": "character: Nohadon",
+    "name": "Nohadon",
+    "type": "character"
+  },
+  {
+    "id": "character: Noorden",
+    "name": "Noorden",
+    "type": "character"
+  },
+  {
+    "id": "character: Norby",
+    "name": "Norby",
+    "type": "character"
+  },
+  {
+    "id": "character: Noril",
+    "name": "Noril",
+    "type": "character"
+  },
+  {
+    "id": "character: Noromin",
+    "name": "Noromin",
+    "type": "character"
+  },
+  {
+    "id": "character: Notum",
+    "name": "Notum",
+    "type": "character"
+  },
+  {
+    "id": "character: Noura",
+    "name": "Noura",
+    "type": "character"
+  },
+  {
+    "id": "character: Nouxil",
+    "name": "Nouxil",
+    "type": "character"
+  },
+  {
+    "id": "character: Lunamor",
+    "name": "Lunamor",
+    "type": "character"
+  },
+  {
+    "id": "character: Nyen",
+    "name": "Nyen",
+    "type": "character"
+  },
+  {
+    "id": "character: Old Chapps",
+    "name": "Old Chapps",
+    "type": "character"
+  },
+  {
+    "id": "character: Olid",
+    "name": "Olid",
+    "type": "character"
+  },
+  {
+    "id": "character: Olin Tober",
+    "name": "Olin Tober",
+    "type": "character"
+  },
+  {
+    "id": "character: Olo",
+    "name": "Olo",
+    "type": "character"
+  },
+  {
+    "id": "character: Omal",
+    "name": "Omal",
+    "type": "character"
+  },
+  {
+    "id": "character: Omin",
+    "name": "Omin",
+    "type": "character"
+  },
+  {
+    "id": "character: Oolelen",
+    "name": "Oolelen",
+    "type": "character"
+  },
+  {
+    "id": "character: Opa",
+    "name": "Opa",
+    "type": "character"
+  },
+  {
+    "id": "character: Opais",
+    "name": "Opais",
+    "type": "character"
+  },
+  {
+    "id": "character: OreSeur",
+    "name": "OreSeur",
+    "type": "character"
+  },
+  {
+    "id": "character: Ornament",
+    "name": "Ornament",
+    "type": "character"
+  },
+  {
+    "id": "character: Oroden",
+    "name": "Oroden",
+    "type": "character"
+  },
+  {
+    "id": "character: Paalm",
+    "name": "Paalm",
+    "type": "character"
+  },
+  {
+    "id": "character: Paclo",
+    "name": "Paclo",
+    "type": "character"
+  },
+  {
+    "id": "character: Pai",
+    "name": "Pai",
+    "type": "character"
+  },
+  {
+    "id": "character: Pakson",
+    "name": "Pakson",
+    "type": "character"
+  },
+  {
+    "id": "character: Pal",
+    "name": "Pal",
+    "type": "character"
+  },
+  {
+    "id": "character: Paladar",
+    "name": "Paladar",
+    "type": "character"
+  },
+  {
+    "id": "character: Palona",
+    "name": "Palona",
+    "type": "character"
+  },
+  {
+    "id": "character: Pama",
+    "name": "Pama",
+    "type": "character"
+  },
+  {
+    "id": "character: Pandri",
+    "name": "Pandri",
+    "type": "character"
+  },
+  {
+    "id": "character: Parlin",
+    "name": "Parlin",
+    "type": "character"
+  },
+  {
+    "id": "character: Pars",
+    "name": "Pars",
+    "type": "character"
+  },
+  {
+    "id": "character: Patji (being)",
+    "name": "Patji (being)",
+    "type": "character"
+  },
+  {
+    "id": "character: Pattern",
+    "name": "Pattern",
+    "type": "character"
+  },
+  {
+    "id": "character: Paxen",
+    "name": "Paxen",
+    "type": "character"
+  },
+  {
+    "id": "character: Peaceyearning",
+    "name": "Peaceyearning",
+    "type": "character"
+  },
+  {
+    "id": "character: Pedin",
+    "name": "Pedin",
+    "type": "character"
+  },
+  {
+    "id": "character: Peet",
+    "name": "Peet",
+    "type": "character"
+  },
+  {
+    "id": "character: Penelope Portreau",
+    "name": "Penelope Portreau",
+    "type": "character"
+  },
+  {
+    "id": "character: Perel",
+    "name": "Perel",
+    "type": "character"
+  },
+  {
+    "id": "character: Peret",
+    "name": "Peret",
+    "type": "character"
+  },
+  {
+    "id": "character: Perethom",
+    "name": "Perethom",
+    "type": "character"
+  },
+  {
+    "id": "character: Peterus",
+    "name": "Peterus",
+    "type": "character"
+  },
+  {
+    "id": "character: Petrine",
+    "name": "Petrine",
+    "type": "character"
+  },
+  {
+    "id": "character: Phendorana",
+    "name": "Phendorana",
+    "type": "character"
+  },
+  {
+    "id": "character: Philen Frandeu",
+    "name": "Philen Frandeu",
+    "type": "character"
+  },
+  {
+    "id": "character: Pielle Fromed",
+    "name": "Pielle Fromed",
+    "type": "character"
+  },
+  {
+    "id": "character: Pitt",
+    "name": "Pitt",
+    "type": "character"
+  },
+  {
+    "id": "character: Placini",
+    "name": "Placini",
+    "type": "character"
+  },
+  {
+    "id": "character: Plamry",
+    "name": "Plamry",
+    "type": "character"
+  },
+  {
+    "id": "character: Pleadix",
+    "name": "Pleadix",
+    "type": "character"
+  },
+  {
+    "id": "character: Pluv",
+    "name": "Pluv",
+    "type": "character"
+  },
+  {
+    "id": "character: Poloni",
+    "name": "Poloni",
+    "type": "character"
+  },
+  {
+    "id": "character: Pozen-son-Nash",
+    "name": "Pozen-son-Nash",
+    "type": "character"
+  },
+  {
+    "id": "character: Pralla",
+    "name": "Pralla",
+    "type": "character"
+  },
+  {
+    "id": "character: Prasanva",
+    "name": "Prasanva",
+    "type": "character"
+  },
+  {
+    "id": "character: Praxton",
+    "name": "Praxton",
+    "type": "character"
+  },
+  {
+    "id": "character: Precilia",
+    "name": "Precilia",
+    "type": "character"
+  },
+  {
+    "id": "character: Princess of Dormancy",
+    "name": "Princess of Dormancy",
+    "type": "character"
+  },
+  {
+    "id": "character: Pull",
+    "name": "Pull",
+    "type": "character"
+  },
+  {
+    "id": "character: Punio",
+    "name": "Punio",
+    "type": "character"
+  },
+  {
+    "id": "character: Push",
+    "name": "Push",
+    "type": "character"
+  },
+  {
+    "id": "character: Puuli",
+    "name": "Puuli",
+    "type": "character"
+  },
+  {
+    "id": "character: Quellion",
+    "name": "Quellion",
+    "type": "character"
+  },
+  {
+    "id": "character: Raagent",
+    "name": "Raagent",
+    "type": "character"
+  },
+  {
+    "id": "character: Raboniel",
+    "name": "Raboniel",
+    "type": "character"
+  },
+  {
+    "id": "character: Radathavian",
+    "name": "Radathavian",
+    "type": "character"
+  },
+  {
+    "id": "character: Rahel",
+    "name": "Rahel",
+    "type": "character"
+  },
+  {
+    "id": "character: Raksha",
+    "name": "Raksha",
+    "type": "character"
+  },
+  {
+    "id": "character: Ral",
+    "name": "Ral",
+    "type": "character"
+  },
+  {
+    "id": "character: Ral-na",
+    "name": "Ral-na",
+    "type": "character"
+  },
+  {
+    "id": "character: Ralinor",
+    "name": "Ralinor",
+    "type": "character"
+  },
+  {
+    "id": "character: Rame Maldor",
+    "name": "Rame Maldor",
+    "type": "character"
+  },
+  {
+    "id": "character: Ramear",
+    "name": "Ramear",
+    "type": "character"
+  },
+  {
+    "id": "character: Ranette",
+    "name": "Ranette",
+    "type": "character"
+  },
+  {
+    "id": "character: Raninor",
+    "name": "Raninor",
+    "type": "character"
+  },
+  {
+    "id": "character: Raoden",
+    "name": "Raoden",
+    "type": "character"
+  },
+  {
+    "id": "character: Raoden's mother",
+    "name": "Raoden's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Raoshem",
+    "name": "Raoshem",
+    "type": "character"
+  },
+  {
+    "id": "character: Rariv",
+    "name": "Rariv",
+    "type": "character"
+  },
+  {
+    "id": "character: Rashek",
+    "name": "Rashek",
+    "type": "character"
+  },
+  {
+    "id": "character: Rayse",
+    "name": "Rayse",
+    "type": "character"
+  },
+  {
+    "id": "character: Razal",
+    "name": "Razal",
+    "type": "character"
+  },
+  {
+    "id": "character: Re-Shephir",
+    "name": "Re-Shephir",
+    "type": "character"
+  },
+  {
+    "id": "character: Rebeke Salvage",
+    "name": "Rebeke Salvage",
+    "type": "character"
+  },
+  {
+    "id": "character: Red (Roshar)",
+    "name": "Red (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Red (Scadrial)",
+    "name": "Red (Scadrial)",
+    "type": "character"
+  },
+  {
+    "id": "character: Red Young",
+    "name": "Red Young",
+    "type": "character"
+  },
+  {
+    "id": "character: Redalevin",
+    "name": "Redalevin",
+    "type": "character"
+  },
+  {
+    "id": "character: Redd",
+    "name": "Redd",
+    "type": "character"
+  },
+  {
+    "id": "character: Reddi",
+    "name": "Reddi",
+    "type": "character"
+  },
+  {
+    "id": "character: Redeen",
+    "name": "Redeen",
+    "type": "character"
+  },
+  {
+    "id": "character: Redin",
+    "name": "Redin",
+    "type": "character"
+  },
+  {
+    "id": "character: Reen",
+    "name": "Reen",
+    "type": "character"
+  },
+  {
+    "id": "character: Reendel",
+    "name": "Reendel",
+    "type": "character"
+  },
+  {
+    "id": "character: Reep",
+    "name": "Reep",
+    "type": "character"
+  },
+  {
+    "id": "character: Reesh",
+    "name": "Reesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Relador",
+    "name": "Relador",
+    "type": "character"
+  },
+  {
+    "id": "character: Relina",
+    "name": "Relina",
+    "type": "character"
+  },
+  {
+    "id": "character: Relis Ruthar",
+    "name": "Relis Ruthar",
+    "type": "character"
+  },
+  {
+    "id": "character: Relu-na",
+    "name": "Relu-na",
+    "type": "character"
+  },
+  {
+    "id": "character: ReLuur",
+    "name": "ReLuur",
+    "type": "character"
+  },
+  {
+    "id": "character: Rem",
+    "name": "Rem",
+    "type": "character"
+  },
+  {
+    "id": "character: Remala",
+    "name": "Remala",
+    "type": "character"
+  },
+  {
+    "id": "character: Rembrinor",
+    "name": "Rembrinor",
+    "type": "character"
+  },
+  {
+    "id": "character: Remin",
+    "name": "Remin",
+    "type": "character"
+  },
+  {
+    "id": "character: Remmingtel Tarcsel",
+    "name": "Remmingtel Tarcsel",
+    "type": "character"
+  },
+  {
+    "id": "character: Ren",
+    "name": "Ren",
+    "type": "character"
+  },
+  {
+    "id": "character: Renarin Kholin",
+    "name": "Renarin Kholin",
+    "type": "character"
+  },
+  {
+    "id": "character: Rencalt",
+    "name": "Rencalt",
+    "type": "character"
+  },
+  {
+    "id": "character: Rene",
+    "name": "Rene",
+    "type": "character"
+  },
+  {
+    "id": "character: Replar Innate",
+    "name": "Replar Innate",
+    "type": "character"
+  },
+  {
+    "id": "character: Reral Makoram",
+    "name": "Reral Makoram",
+    "type": "character"
+  },
+  {
+    "id": "character: Reshelle Tekiel",
+    "name": "Reshelle Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Resi",
+    "name": "Resi",
+    "type": "character"
+  },
+  {
+    "id": "character: Reven",
+    "name": "Reven",
+    "type": "character"
+  },
+  {
+    "id": "character: Revilar",
+    "name": "Revilar",
+    "type": "character"
+  },
+  {
+    "id": "character: Reya",
+    "name": "Reya",
+    "type": "character"
+  },
+  {
+    "id": "character: Rez",
+    "name": "Rez",
+    "type": "character"
+  },
+  {
+    "id": "character: Riah",
+    "name": "Riah",
+    "type": "character"
+  },
+  {
+    "id": "character: Rial",
+    "name": "Rial",
+    "type": "character"
+  },
+  {
+    "id": "character: Rian",
+    "name": "Rian",
+    "type": "character"
+  },
+  {
+    "id": "character: Rian Strobe",
+    "name": "Rian Strobe",
+    "type": "character"
+  },
+  {
+    "id": "character: Rick Stranger",
+    "name": "Rick Stranger",
+    "type": "character"
+  },
+  {
+    "id": "character: Ridger",
+    "name": "Ridger",
+    "type": "character"
+  },
+  {
+    "id": "character: Rien",
+    "name": "Rien",
+    "type": "character"
+  },
+  {
+    "id": "character: Riika",
+    "name": "Riika",
+    "type": "character"
+  },
+  {
+    "id": "character: Riil",
+    "name": "Riil",
+    "type": "character"
+  },
+  {
+    "id": "character: Riina",
+    "name": "Riina",
+    "type": "character"
+  },
+  {
+    "id": "character: Riino",
+    "name": "Riino",
+    "type": "character"
+  },
+  {
+    "id": "character: Rill",
+    "name": "Rill",
+    "type": "character"
+  },
+  {
+    "id": "character: Rilla",
+    "name": "Rilla",
+    "type": "character"
+  },
+  {
+    "id": "character: Rillir Roshone",
+    "name": "Rillir Roshone",
+    "type": "character"
+  },
+  {
+    "id": "character: Rin",
+    "name": "Rin",
+    "type": "character"
+  },
+  {
+    "id": "character: Rind",
+    "name": "Rind",
+    "type": "character"
+  },
+  {
+    "id": "character: Rindel",
+    "name": "Rindel",
+    "type": "character"
+  },
+  {
+    "id": "character: Rine",
+    "name": "Rine",
+    "type": "character"
+  },
+  {
+    "id": "character: Rine Hatham",
+    "name": "Rine Hatham",
+    "type": "character"
+  },
+  {
+    "id": "character: Rira (character)",
+    "name": "Rira (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Ristina",
+    "name": "Ristina",
+    "type": "character"
+  },
+  {
+    "id": "character: Rite",
+    "name": "Rite",
+    "type": "character"
+  },
+  {
+    "id": "character: Rittle",
+    "name": "Rittle",
+    "type": "character"
+  },
+  {
+    "id": "character: Rlain",
+    "name": "Rlain",
+    "type": "character"
+  },
+  {
+    "id": "character: Rock (junior)",
+    "name": "Rock (junior)",
+    "type": "character"
+  },
+  {
+    "id": "character: Rod (Lumar)",
+    "name": "Rod (Lumar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Rod (Roshar)",
+    "name": "Rod (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Roial",
+    "name": "Roial",
+    "type": "character"
+  },
+  {
+    "id": "character: Roion",
+    "name": "Roion",
+    "type": "character"
+  },
+  {
+    "id": "character: Roion's son",
+    "name": "Roion's son",
+    "type": "character"
+  },
+  {
+    "id": "character: Ron",
+    "name": "Ron",
+    "type": "character"
+  },
+  {
+    "id": "character: Rothan",
+    "name": "Rothan",
+    "type": "character"
+  },
+  {
+    "id": "character: Rua",
+    "name": "Rua",
+    "type": "character"
+  },
+  {
+    "id": "character: Rudd",
+    "name": "Rudd",
+    "type": "character"
+  },
+  {
+    "id": "character: Ruddy",
+    "name": "Ruddy",
+    "type": "character"
+  },
+  {
+    "id": "character: Ruli",
+    "name": "Ruli",
+    "type": "character"
+  },
+  {
+    "id": "character: Ruri",
+    "name": "Ruri",
+    "type": "character"
+  },
+  {
+    "id": "character: Rushu",
+    "name": "Rushu",
+    "type": "character"
+  },
+  {
+    "id": "character: Rushur Kris",
+    "name": "Rushur Kris",
+    "type": "character"
+  },
+  {
+    "id": "character: Rusko",
+    "name": "Rusko",
+    "type": "character"
+  },
+  {
+    "id": "character: Rust Elthal",
+    "name": "Rust Elthal",
+    "type": "character"
+  },
+  {
+    "id": "character: Ruthar",
+    "name": "Ruthar",
+    "type": "character"
+  },
+  {
+    "id": "character: Rysn Ftori",
+    "name": "Rysn Ftori",
+    "type": "character"
+  },
+  {
+    "id": "character: Sadees",
+    "name": "Sadees",
+    "type": "character"
+  },
+  {
+    "id": "character: Sah",
+    "name": "Sah",
+    "type": "character"
+  },
+  {
+    "id": "character: Sak",
+    "name": "Sak",
+    "type": "character"
+  },
+  {
+    "id": "character: Sakin",
+    "name": "Sakin",
+    "type": "character"
+  },
+  {
+    "id": "character: Sakisa",
+    "name": "Sakisa",
+    "type": "character"
+  },
+  {
+    "id": "character: Salay",
+    "name": "Salay",
+    "type": "character"
+  },
+  {
+    "id": "character: Salay's father",
+    "name": "Salay's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Salinor Eved",
+    "name": "Salinor Eved",
+    "type": "character"
+  },
+  {
+    "id": "character: Salmen Tekiel",
+    "name": "Salmen Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Samjae",
+    "name": "Samjae",
+    "type": "character"
+  },
+  {
+    "id": "character: Sand Lord",
+    "name": "Sand Lord",
+    "type": "character"
+  },
+  {
+    "id": "character: Sani",
+    "name": "Sani",
+    "type": "character"
+  },
+  {
+    "id": "character: Saolin",
+    "name": "Saolin",
+    "type": "character"
+  },
+  {
+    "id": "character: Sarene",
+    "name": "Sarene",
+    "type": "character"
+  },
+  {
+    "id": "character: Sarene's mother",
+    "name": "Sarene's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Sarqqin",
+    "name": "Sarqqin",
+    "type": "character"
+  },
+  {
+    "id": "character: Savrahalidem",
+    "name": "Savrahalidem",
+    "type": "character"
+  },
+  {
+    "id": "character: Sazed",
+    "name": "Sazed",
+    "type": "character"
+  },
+  {
+    "id": "character: Schrib Welfor",
+    "name": "Schrib Welfor",
+    "type": "character"
+  },
+  {
+    "id": "character: Scooch",
+    "name": "Scooch",
+    "type": "character"
+  },
+  {
+    "id": "character: Scrak",
+    "name": "Scrak",
+    "type": "character"
+  },
+  {
+    "id": "character: Screech",
+    "name": "Screech",
+    "type": "character"
+  },
+  {
+    "id": "character: Seaden",
+    "name": "Seaden",
+    "type": "character"
+  },
+  {
+    "id": "character: Seala",
+    "name": "Seala",
+    "type": "character"
+  },
+  {
+    "id": "character: Sebasinar",
+    "name": "Sebasinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Sebruki",
+    "name": "Sebruki",
+    "type": "character"
+  },
+  {
+    "id": "character: Seeli",
+    "name": "Seeli",
+    "type": "character"
+  },
+  {
+    "id": "character: Seinalan",
+    "name": "Seinalan",
+    "type": "character"
+  },
+  {
+    "id": "character: Sekeir",
+    "name": "Sekeir",
+    "type": "character"
+  },
+  {
+    "id": "character: Seland",
+    "name": "Seland",
+    "type": "character"
+  },
+  {
+    "id": "character: Selvest Vif",
+    "name": "Selvest Vif",
+    "type": "character"
+  },
+  {
+    "id": "character: Senator Vindel",
+    "name": "Senator Vindel",
+    "type": "character"
+  },
+  {
+    "id": "character: Senna",
+    "name": "Senna",
+    "type": "character"
+  },
+  {
+    "id": "character: Senne Khald",
+    "name": "Senne Khald",
+    "type": "character"
+  },
+  {
+    "id": "character: Seor",
+    "name": "Seor",
+    "type": "character"
+  },
+  {
+    "id": "character: Serin",
+    "name": "Serin",
+    "type": "character"
+  },
+  {
+    "id": "character: Sertes",
+    "name": "Sertes",
+    "type": "character"
+  },
+  {
+    "id": "character: Serugiadis",
+    "name": "Serugiadis",
+    "type": "character"
+  },
+  {
+    "id": "character: Sev",
+    "name": "Sev",
+    "type": "character"
+  },
+  {
+    "id": "character: Shaday",
+    "name": "Shaday",
+    "type": "character"
+  },
+  {
+    "id": "character: Shade (Ghostbloods)",
+    "name": "Shade (Ghostbloods)",
+    "type": "character"
+  },
+  {
+    "id": "character: Shalash",
+    "name": "Shalash",
+    "type": "character"
+  },
+  {
+    "id": "character: Shallan Davar",
+    "name": "Shallan Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Shan Elariel",
+    "name": "Shan Elariel",
+    "type": "character"
+  },
+  {
+    "id": "character: Shan Elariel's steward",
+    "name": "Shan Elariel's steward",
+    "type": "character"
+  },
+  {
+    "id": "character: ShanVen",
+    "name": "ShanVen",
+    "type": "character"
+  },
+  {
+    "id": "character: Shaor",
+    "name": "Shaor",
+    "type": "character"
+  },
+  {
+    "id": "character: Shar",
+    "name": "Shar",
+    "type": "character"
+  },
+  {
+    "id": "character: Sharefel",
+    "name": "Sharefel",
+    "type": "character"
+  },
+  {
+    "id": "character: Shashara",
+    "name": "Shashara",
+    "type": "character"
+  },
+  {
+    "id": "character: Shauka-daughter-Hasweth",
+    "name": "Shauka-daughter-Hasweth",
+    "type": "character"
+  },
+  {
+    "id": "character: Shayna",
+    "name": "Shayna",
+    "type": "character"
+  },
+  {
+    "id": "character: She Who Dreams",
+    "name": "She Who Dreams",
+    "type": "character"
+  },
+  {
+    "id": "character: Sheler",
+    "name": "Sheler",
+    "type": "character"
+  },
+  {
+    "id": "character: Shewrman",
+    "name": "Shewrman",
+    "type": "character"
+  },
+  {
+    "id": "character: Shim",
+    "name": "Shim",
+    "type": "character"
+  },
+  {
+    "id": "character: Shiosak",
+    "name": "Shiosak",
+    "type": "character"
+  },
+  {
+    "id": "character: Shishi (Komashi)",
+    "name": "Shishi (Komashi)",
+    "type": "character"
+  },
+  {
+    "id": "character: Shmone",
+    "name": "Shmone",
+    "type": "character"
+  },
+  {
+    "id": "character: Shob",
+    "name": "Shob",
+    "type": "character"
+  },
+  {
+    "id": "character: Shoren",
+    "name": "Shoren",
+    "type": "character"
+  },
+  {
+    "id": "character: Shuanor",
+    "name": "Shuanor",
+    "type": "character"
+  },
+  {
+    "id": "character: Shubalai",
+    "name": "Shubalai",
+    "type": "character"
+  },
+  {
+    "id": "character: Shubreth-son-Mashalan",
+    "name": "Shubreth-son-Mashalan",
+    "type": "character"
+  },
+  {
+    "id": "character: Shuden",
+    "name": "Shuden",
+    "type": "character"
+  },
+  {
+    "id": "character: Shum",
+    "name": "Shum",
+    "type": "character"
+  },
+  {
+    "id": "character: Shumin",
+    "name": "Shumin",
+    "type": "character"
+  },
+  {
+    "id": "character: Si",
+    "name": "Si",
+    "type": "character"
+  },
+  {
+    "id": "character: Sibling",
+    "name": "Sibling",
+    "type": "character"
+  },
+  {
+    "id": "character: Sidin",
+    "name": "Sidin",
+    "type": "character"
+  },
+  {
+    "id": "character: Sigzil",
+    "name": "Sigzil",
+    "type": "character"
+  },
+  {
+    "id": "character: Silajana",
+    "name": "Silajana",
+    "type": "character"
+  },
+  {
+    "id": "character: Silence Montane",
+    "name": "Silence Montane",
+    "type": "character"
+  },
+  {
+    "id": "character: Silence's grandfather",
+    "name": "Silence's grandfather",
+    "type": "character"
+  },
+  {
+    "id": "character: Silence's grandmother",
+    "name": "Silence's grandmother",
+    "type": "character"
+  },
+  {
+    "id": "character: Simol",
+    "name": "Simol",
+    "type": "character"
+  },
+  {
+    "id": "character: Sinaku'a",
+    "name": "Sinaku'a",
+    "type": "character"
+  },
+  {
+    "id": "character: Sinbian",
+    "name": "Sinbian",
+    "type": "character"
+  },
+  {
+    "id": "character: Sindren",
+    "name": "Sindren",
+    "type": "character"
+  },
+  {
+    "id": "character: Sir Squeekins",
+    "name": "Sir Squeekins",
+    "type": "character"
+  },
+  {
+    "id": "character: Sisirinah",
+    "name": "Sisirinah",
+    "type": "character"
+  },
+  {
+    "id": "character: Sisisru",
+    "name": "Sisisru",
+    "type": "character"
+  },
+  {
+    "id": "character: Sivi",
+    "name": "Sivi",
+    "type": "character"
+  },
+  {
+    "id": "character: Sixteen",
+    "name": "Sixteen",
+    "type": "character"
+  },
+  {
+    "id": "character: Sixth of the Dusk (character)",
+    "name": "Sixth of the Dusk (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Sja-anat",
+    "name": "Sja-anat",
+    "type": "character"
+  },
+  {
+    "id": "character: Skai",
+    "name": "Skai",
+    "type": "character"
+  },
+  {
+    "id": "character: Skar",
+    "name": "Skar",
+    "type": "character"
+  },
+  {
+    "id": "character: Skathan",
+    "name": "Skathan",
+    "type": "character"
+  },
+  {
+    "id": "character: Skiff",
+    "name": "Skiff",
+    "type": "character"
+  },
+  {
+    "id": "character: Slink",
+    "name": "Slink",
+    "type": "character"
+  },
+  {
+    "id": "character: Slowswift",
+    "name": "Slowswift",
+    "type": "character"
+  },
+  {
+    "id": "character: Smocke",
+    "name": "Smocke",
+    "type": "character"
+  },
+  {
+    "id": "character: Smolderbrand",
+    "name": "Smolderbrand",
+    "type": "character"
+  },
+  {
+    "id": "character: Smta",
+    "name": "Smta",
+    "type": "character"
+  },
+  {
+    "id": "character: Snagu",
+    "name": "Snagu",
+    "type": "character"
+  },
+  {
+    "id": "character: Snoxil",
+    "name": "Snoxil",
+    "type": "character"
+  },
+  {
+    "id": "character: Solemnity Divine",
+    "name": "Solemnity Divine",
+    "type": "character"
+  },
+  {
+    "id": "character: Sophi Tarcsel",
+    "name": "Sophi Tarcsel",
+    "type": "character"
+  },
+  {
+    "id": "character: Sor",
+    "name": "Sor",
+    "type": "character"
+  },
+  {
+    "id": "character: Sot",
+    "name": "Sot",
+    "type": "character"
+  },
+  {
+    "id": "character: Spanky",
+    "name": "Spanky",
+    "type": "character"
+  },
+  {
+    "id": "character: Spark",
+    "name": "Spark",
+    "type": "character"
+  },
+  {
+    "id": "character: Spook",
+    "name": "Spook",
+    "type": "character"
+  },
+  {
+    "id": "character: Stagin",
+    "name": "Stagin",
+    "type": "character"
+  },
+  {
+    "id": "character: Stanoux",
+    "name": "Stanoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Stansi",
+    "name": "Stansi",
+    "type": "character"
+  },
+  {
+    "id": "character: Stanton",
+    "name": "Stanton",
+    "type": "character"
+  },
+  {
+    "id": "character: Star",
+    "name": "Star",
+    "type": "character"
+  },
+  {
+    "id": "character: Starfalls Stoneward",
+    "name": "Starfalls Stoneward",
+    "type": "character"
+  },
+  {
+    "id": "character: Starfalls Windrunner",
+    "name": "Starfalls Windrunner",
+    "type": "character"
+  },
+  {
+    "id": "character: Stargyle",
+    "name": "Stargyle",
+    "type": "character"
+  },
+  {
+    "id": "character: Stase Blanches",
+    "name": "Stase Blanches",
+    "type": "character"
+  },
+  {
+    "id": "character: Staxles",
+    "name": "Staxles",
+    "type": "character"
+  },
+  {
+    "id": "character: Stefan Sauvage",
+    "name": "Stefan Sauvage",
+    "type": "character"
+  },
+  {
+    "id": "character: Lightsong",
+    "name": "Lightsong",
+    "type": "character"
+  },
+  {
+    "id": "character: Steris Harms",
+    "name": "Steris Harms",
+    "type": "character"
+  },
+  {
+    "id": "character: Stillmark",
+    "name": "Stillmark",
+    "type": "character"
+  },
+  {
+    "id": "character: Stine",
+    "name": "Stine",
+    "type": "character"
+  },
+  {
+    "id": "character: Stivient",
+    "name": "Stivient",
+    "type": "character"
+  },
+  {
+    "id": "character: Stone",
+    "name": "Stone",
+    "type": "character"
+  },
+  {
+    "id": "character: Stormfather",
+    "name": "Stormfather",
+    "type": "character"
+  },
+  {
+    "id": "character: Straff Venture",
+    "name": "Straff Venture",
+    "type": "character"
+  },
+  {
+    "id": "character: Stumpy",
+    "name": "Stumpy",
+    "type": "character"
+  },
+  {
+    "id": "character: Sudi Valam",
+    "name": "Sudi Valam",
+    "type": "character"
+  },
+  {
+    "id": "character: Sukishi",
+    "name": "Sukishi",
+    "type": "character"
+  },
+  {
+    "id": "character: Sullik",
+    "name": "Sullik",
+    "type": "character"
+  },
+  {
+    "id": "character: Suna",
+    "name": "Suna",
+    "type": "character"
+  },
+  {
+    "id": "character: Suna (Roshar)",
+    "name": "Suna (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Sunjun",
+    "name": "Sunjun",
+    "type": "character"
+  },
+  {
+    "id": "character: Sur Kamar",
+    "name": "Sur Kamar",
+    "type": "character"
+  },
+  {
+    "id": "character: Sureblood",
+    "name": "Sureblood",
+    "type": "character"
+  },
+  {
+    "id": "character: Susebron",
+    "name": "Susebron",
+    "type": "character"
+  },
+  {
+    "id": "character: Susebron the Fourth",
+    "name": "Susebron the Fourth",
+    "type": "character"
+  },
+  {
+    "id": "character: Susebron's mother",
+    "name": "Susebron's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Svel",
+    "name": "Svel",
+    "type": "character"
+  },
+  {
+    "id": "character: Syasikk",
+    "name": "Syasikk",
+    "type": "character"
+  },
+  {
+    "id": "character: Sylphrena",
+    "name": "Sylphrena",
+    "type": "character"
+  },
+  {
+    "id": "character: Szeth",
+    "name": "Szeth",
+    "type": "character"
+  },
+  {
+    "id": "character: Szrand",
+    "name": "Szrand",
+    "type": "character"
+  },
+  {
+    "id": "character: Taan",
+    "name": "Taan",
+    "type": "character"
+  },
+  {
+    "id": "character: Tabaar",
+    "name": "Tabaar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tadet",
+    "name": "Tadet",
+    "type": "character"
+  },
+  {
+    "id": "character: Taff",
+    "name": "Taff",
+    "type": "character"
+  },
+  {
+    "id": "character: Taffa",
+    "name": "Taffa",
+    "type": "character"
+  },
+  {
+    "id": "character: Tag",
+    "name": "Tag",
+    "type": "character"
+  },
+  {
+    "id": "character: Tai",
+    "name": "Tai",
+    "type": "character"
+  },
+  {
+    "id": "character: Taid",
+    "name": "Taid",
+    "type": "character"
+  },
+  {
+    "id": "character: Tain",
+    "name": "Tain",
+    "type": "character"
+  },
+  {
+    "id": "character: Taka",
+    "name": "Taka",
+    "type": "character"
+  },
+  {
+    "id": "character: Takanda",
+    "name": "Takanda",
+    "type": "character"
+  },
+  {
+    "id": "character: Talak",
+    "name": "Talak",
+    "type": "character"
+  },
+  {
+    "id": "character: Talanah",
+    "name": "Talanah",
+    "type": "character"
+  },
+  {
+    "id": "character: Talanan",
+    "name": "Talanan",
+    "type": "character"
+  },
+  {
+    "id": "character: Talanor",
+    "name": "Talanor",
+    "type": "character"
+  },
+  {
+    "id": "character: Talata",
+    "name": "Talata",
+    "type": "character"
+  },
+  {
+    "id": "character: Talatin",
+    "name": "Talatin",
+    "type": "character"
+  },
+  {
+    "id": "character: Taleb",
+    "name": "Taleb",
+    "type": "character"
+  },
+  {
+    "id": "character: Talenel",
+    "name": "Talenel",
+    "type": "character"
+  },
+  {
+    "id": "character: Talik",
+    "name": "Talik",
+    "type": "character"
+  },
+  {
+    "id": "character: Talla",
+    "name": "Talla",
+    "type": "character"
+  },
+  {
+    "id": "character: Tallan",
+    "name": "Tallan",
+    "type": "character"
+  },
+  {
+    "id": "character: Talnah",
+    "name": "Talnah",
+    "type": "character"
+  },
+  {
+    "id": "character: Tanalan",
+    "name": "Tanalan",
+    "type": "character"
+  },
+  {
+    "id": "character: Tanalan's father",
+    "name": "Tanalan's father",
+    "type": "character"
+  },
+  {
+    "id": "character: Tanalan's mother",
+    "name": "Tanalan's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Tanavast",
+    "name": "Tanavast",
+    "type": "character"
+  },
+  {
+    "id": "character: Tao",
+    "name": "Tao",
+    "type": "character"
+  },
+  {
+    "id": "character: Taraco",
+    "name": "Taraco",
+    "type": "character"
+  },
+  {
+    "id": "character: Tarah",
+    "name": "Tarah",
+    "type": "character"
+  },
+  {
+    "id": "character: Taran",
+    "name": "Taran",
+    "type": "character"
+  },
+  {
+    "id": "character: Taravangian",
+    "name": "Taravangian",
+    "type": "character"
+  },
+  {
+    "id": "character: Taravangian's granddaughter",
+    "name": "Taravangian's granddaughter",
+    "type": "character"
+  },
+  {
+    "id": "character: Tarilar",
+    "name": "Tarilar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tark Vestingdow",
+    "name": "Tark Vestingdow",
+    "type": "character"
+  },
+  {
+    "id": "character: TarKavv",
+    "name": "TarKavv",
+    "type": "character"
+  },
+  {
+    "id": "character: Tarn (Roshar)",
+    "name": "Tarn (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Tarn (Taldain)",
+    "name": "Tarn (Taldain)",
+    "type": "character"
+  },
+  {
+    "id": "character: Tarson",
+    "name": "Tarson",
+    "type": "character"
+  },
+  {
+    "id": "character: Tase",
+    "name": "Tase",
+    "type": "character"
+  },
+  {
+    "id": "character: Taselin",
+    "name": "Taselin",
+    "type": "character"
+  },
+  {
+    "id": "character: Tashlin",
+    "name": "Tashlin",
+    "type": "character"
+  },
+  {
+    "id": "character: Tasinar",
+    "name": "Tasinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tatara",
+    "name": "Tatara",
+    "type": "character"
+  },
+  {
+    "id": "character: Tathed",
+    "name": "Tathed",
+    "type": "character"
+  },
+  {
+    "id": "character: Taudr",
+    "name": "Taudr",
+    "type": "character"
+  },
+  {
+    "id": "character: Tavinar",
+    "name": "Tavinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tawnson",
+    "name": "Tawnson",
+    "type": "character"
+  },
+  {
+    "id": "character: Tearim",
+    "name": "Tearim",
+    "type": "character"
+  },
+  {
+    "id": "character: Teft",
+    "name": "Teft",
+    "type": "character"
+  },
+  {
+    "id": "character: Tegas",
+    "name": "Tegas",
+    "type": "character"
+  },
+  {
+    "id": "character: Telden Hasting",
+    "name": "Telden Hasting",
+    "type": "character"
+  },
+  {
+    "id": "character: Teleb",
+    "name": "Teleb",
+    "type": "character"
+  },
+  {
+    "id": "character: Telesh",
+    "name": "Telesh",
+    "type": "character"
+  },
+  {
+    "id": "character: Tellingdwar",
+    "name": "Tellingdwar",
+    "type": "character"
+  },
+  {
+    "id": "character: Telrii",
+    "name": "Telrii",
+    "type": "character"
+  },
+  {
+    "id": "character: Telsin Ladrian",
+    "name": "Telsin Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Temadre",
+    "name": "Temadre",
+    "type": "character"
+  },
+  {
+    "id": "character: Templeton Fig",
+    "name": "Templeton Fig",
+    "type": "character"
+  },
+  {
+    "id": "character: Ten",
+    "name": "Ten",
+    "type": "character"
+  },
+  {
+    "id": "character: Tenathar",
+    "name": "Tenathar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tendel",
+    "name": "Tendel",
+    "type": "character"
+  },
+  {
+    "id": "character: Tenrao",
+    "name": "Tenrao",
+    "type": "character"
+  },
+  {
+    "id": "character: TenSoon",
+    "name": "TenSoon",
+    "type": "character"
+  },
+  {
+    "id": "character: Teofil",
+    "name": "Teofil",
+    "type": "character"
+  },
+  {
+    "id": "character: Teor",
+    "name": "Teor",
+    "type": "character"
+  },
+  {
+    "id": "character: Teorn",
+    "name": "Teorn",
+    "type": "character"
+  },
+  {
+    "id": "character: Tepper",
+    "name": "Tepper",
+    "type": "character"
+  },
+  {
+    "id": "character: Terion",
+    "name": "Terion",
+    "type": "character"
+  },
+  {
+    "id": "character: Terith",
+    "name": "Terith",
+    "type": "character"
+  },
+  {
+    "id": "character: Terri",
+    "name": "Terri",
+    "type": "character"
+  },
+  {
+    "id": "character: Terushal",
+    "name": "Terushal",
+    "type": "character"
+  },
+  {
+    "id": "character: Terxim",
+    "name": "Terxim",
+    "type": "character"
+  },
+  {
+    "id": "character: Teshav Khal",
+    "name": "Teshav Khal",
+    "type": "character"
+  },
+  {
+    "id": "character: Teshav's ward",
+    "name": "Teshav's ward",
+    "type": "character"
+  },
+  {
+    "id": "character: Testament",
+    "name": "Testament",
+    "type": "character"
+  },
+  {
+    "id": "character: Tesuaka Tatomi",
+    "name": "Tesuaka Tatomi",
+    "type": "character"
+  },
+  {
+    "id": "character: Teur",
+    "name": "Teur",
+    "type": "character"
+  },
+  {
+    "id": "character: Teven Renoux",
+    "name": "Teven Renoux",
+    "type": "character"
+  },
+  {
+    "id": "character: Tevidian Tekiel",
+    "name": "Tevidian Tekiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Thakka",
+    "name": "Thakka",
+    "type": "character"
+  },
+  {
+    "id": "character: Thame",
+    "name": "Thame",
+    "type": "character"
+  },
+  {
+    "id": "character: Thanadal",
+    "name": "Thanadal",
+    "type": "character"
+  },
+  {
+    "id": "character: Thaspic",
+    "name": "Thaspic",
+    "type": "character"
+  },
+  {
+    "id": "character: Themos Tresting",
+    "name": "Themos Tresting",
+    "type": "character"
+  },
+  {
+    "id": "character: Theopolis",
+    "name": "Theopolis",
+    "type": "character"
+  },
+  {
+    "id": "character: Thered",
+    "name": "Thered",
+    "type": "character"
+  },
+  {
+    "id": "character: Theron",
+    "name": "Theron",
+    "type": "character"
+  },
+  {
+    "id": "character: Thomton Delacour",
+    "name": "Thomton Delacour",
+    "type": "character"
+  },
+  {
+    "id": "character: Three-Tooth Dag",
+    "name": "Three-Tooth Dag",
+    "type": "character"
+  },
+  {
+    "id": "character: Thresh-son-Esan",
+    "name": "Thresh-son-Esan",
+    "type": "character"
+  },
+  {
+    "id": "character: Thude",
+    "name": "Thude",
+    "type": "character"
+  },
+  {
+    "id": "character: Thurts",
+    "name": "Thurts",
+    "type": "character"
+  },
+  {
+    "id": "character: Tibon",
+    "name": "Tibon",
+    "type": "character"
+  },
+  {
+    "id": "character: Tien",
+    "name": "Tien",
+    "type": "character"
+  },
+  {
+    "id": "character: Tifandor",
+    "name": "Tifandor",
+    "type": "character"
+  },
+  {
+    "id": "character: Tifi",
+    "name": "Tifi",
+    "type": "character"
+  },
+  {
+    "id": "character: Tift",
+    "name": "Tift",
+    "type": "character"
+  },
+  {
+    "id": "character: Tigzikk",
+    "name": "Tigzikk",
+    "type": "character"
+  },
+  {
+    "id": "character: Tiil",
+    "name": "Tiil",
+    "type": "character"
+  },
+  {
+    "id": "character: Tillaume",
+    "name": "Tillaume",
+    "type": "character"
+  },
+  {
+    "id": "character: Tim Vashin",
+    "name": "Tim Vashin",
+    "type": "character"
+  },
+  {
+    "id": "character: Timbre",
+    "name": "Timbre",
+    "type": "character"
+  },
+  {
+    "id": "character: Tinalar",
+    "name": "Tinalar",
+    "type": "character"
+  },
+  {
+    "id": "character: Tindwyl",
+    "name": "Tindwyl",
+    "type": "character"
+  },
+  {
+    "id": "character: Tindwyl Ladrian",
+    "name": "Tindwyl Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Tiqqa",
+    "name": "Tiqqa",
+    "type": "character"
+  },
+  {
+    "id": "character: Tivbet",
+    "name": "Tivbet",
+    "type": "character"
+  },
+  {
+    "id": "character: Tlik",
+    "name": "Tlik",
+    "type": "character"
+  },
+  {
+    "id": "character: Tobal Copper",
+    "name": "Tobal Copper",
+    "type": "character"
+  },
+  {
+    "id": "character: Tobias (Threnody)",
+    "name": "Tobias (Threnody)",
+    "type": "character"
+  },
+  {
+    "id": "character: Toh",
+    "name": "Toh",
+    "type": "character"
+  },
+  {
+    "id": "character: Tojin",
+    "name": "Tojin",
+    "type": "character"
+  },
+  {
+    "id": "character: Tomor",
+    "name": "Tomor",
+    "type": "character"
+  },
+  {
+    "id": "character: Ton (singer)",
+    "name": "Ton (singer)",
+    "type": "character"
+  },
+  {
+    "id": "character: Ton (Veden)",
+    "name": "Ton (Veden)",
+    "type": "character"
+  },
+  {
+    "id": "character: Tonk Fah",
+    "name": "Tonk Fah",
+    "type": "character"
+  },
+  {
+    "id": "character: Took",
+    "name": "Took",
+    "type": "character"
+  },
+  {
+    "id": "character: Toorim",
+    "name": "Toorim",
+    "type": "character"
+  },
+  {
+    "id": "character: Toral",
+    "name": "Toral",
+    "type": "character"
+  },
+  {
+    "id": "character: Toralin Roshone",
+    "name": "Toralin Roshone",
+    "type": "character"
+  },
+  {
+    "id": "character: Toravi",
+    "name": "Toravi",
+    "type": "character"
+  },
+  {
+    "id": "character: Torena",
+    "name": "Torena",
+    "type": "character"
+  },
+  {
+    "id": "character: Torfin",
+    "name": "Torfin",
+    "type": "character"
+  },
+  {
+    "id": "character: Torkel",
+    "name": "Torkel",
+    "type": "character"
+  },
+  {
+    "id": "character: Tormas",
+    "name": "Tormas",
+    "type": "character"
+  },
+  {
+    "id": "character: Torol Sadeas",
+    "name": "Torol Sadeas",
+    "type": "character"
+  },
+  {
+    "id": "character: Torth",
+    "name": "Torth",
+    "type": "character"
+  },
+  {
+    "id": "character: Tozbek",
+    "name": "Tozbek",
+    "type": "character"
+  },
+  {
+    "id": "character: Traiben",
+    "name": "Traiben",
+    "type": "character"
+  },
+  {
+    "id": "character: Trap",
+    "name": "Trap",
+    "type": "character"
+  },
+  {
+    "id": "character: Traxil",
+    "name": "Traxil",
+    "type": "character"
+  },
+  {
+    "id": "character: Treff",
+    "name": "Treff",
+    "type": "character"
+  },
+  {
+    "id": "character: Treledees",
+    "name": "Treledees",
+    "type": "character"
+  },
+  {
+    "id": "character: Trell (Trellism)",
+    "name": "Trell (Trellism)",
+    "type": "character"
+  },
+  {
+    "id": "character: Trell (Taldain)",
+    "name": "Trell (Taldain)",
+    "type": "character"
+  },
+  {
+    "id": "character: Tren-Pedri Delouse",
+    "name": "Tren-Pedri Delouse",
+    "type": "character"
+  },
+  {
+    "id": "character: Trendalan",
+    "name": "Trendalan",
+    "type": "character"
+  },
+  {
+    "id": "character: Trentison",
+    "name": "Trentison",
+    "type": "character"
+  },
+  {
+    "id": "character: Tress",
+    "name": "Tress",
+    "type": "character"
+  },
+  {
+    "id": "character: Trevva Cett-Venture",
+    "name": "Trevva Cett-Venture",
+    "type": "character"
+  },
+  {
+    "id": "character: Triss",
+    "name": "Triss",
+    "type": "character"
+  },
+  {
+    "id": "character: Troalin",
+    "name": "Troalin",
+    "type": "character"
+  },
+  {
+    "id": "character: Troubeld",
+    "name": "Troubeld",
+    "type": "character"
+  },
+  {
+    "id": "character: Truth-Is-Waiting",
+    "name": "Truth-Is-Waiting",
+    "type": "character"
+  },
+  {
+    "id": "character: Truthcall",
+    "name": "Truthcall",
+    "type": "character"
+  },
+  {
+    "id": "character: Tsa",
+    "name": "Tsa",
+    "type": "character"
+  },
+  {
+    "id": "character: Tshadr",
+    "name": "Tshadr",
+    "type": "character"
+  },
+  {
+    "id": "character: Tslamfn",
+    "name": "Tslamfn",
+    "type": "character"
+  },
+  {
+    "id": "character: Tuaka",
+    "name": "Tuaka",
+    "type": "character"
+  },
+  {
+    "id": "character: Tuft",
+    "name": "Tuft",
+    "type": "character"
+  },
+  {
+    "id": "character: Tukari leader",
+    "name": "Tukari leader",
+    "type": "character"
+  },
+  {
+    "id": "character: Tukks",
+    "name": "Tukks",
+    "type": "character"
+  },
+  {
+    "id": "character: Tumi",
+    "name": "Tumi",
+    "type": "character"
+  },
+  {
+    "id": "character: Tumul",
+    "name": "Tumul",
+    "type": "character"
+  },
+  {
+    "id": "character: Turash",
+    "name": "Turash",
+    "type": "character"
+  },
+  {
+    "id": "character: Turinad Sebarial",
+    "name": "Turinad Sebarial",
+    "type": "character"
+  },
+  {
+    "id": "character: Turlm",
+    "name": "Turlm",
+    "type": "character"
+  },
+  {
+    "id": "character: Tusa",
+    "name": "Tusa",
+    "type": "character"
+  },
+  {
+    "id": "character: Tvlakv",
+    "name": "Tvlakv",
+    "type": "character"
+  },
+  {
+    "id": "character: Ty",
+    "name": "Ty",
+    "type": "character"
+  },
+  {
+    "id": "character: Tyden",
+    "name": "Tyden",
+    "type": "character"
+  },
+  {
+    "id": "character: Tyn",
+    "name": "Tyn",
+    "type": "character"
+  },
+  {
+    "id": "character: Ua'pam",
+    "name": "Ua'pam",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulaam",
+    "name": "Ulaam",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulba",
+    "name": "Ulba",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulef",
+    "name": "Ulef",
+    "type": "character"
+  },
+  {
+    "id": "character: Uli Da",
+    "name": "Uli Da",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulim",
+    "name": "Ulim",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulina",
+    "name": "Ulina",
+    "type": "character"
+  },
+  {
+    "id": "character: Ulvlk",
+    "name": "Ulvlk",
+    "type": "character"
+  },
+  {
+    "id": "character: Uma",
+    "name": "Uma",
+    "type": "character"
+  },
+  {
+    "id": "character: Unativi",
+    "name": "Unativi",
+    "type": "character"
+  },
+  {
+    "id": "character: Unoqua",
+    "name": "Unoqua",
+    "type": "character"
+  },
+  {
+    "id": "character: Ur (character)",
+    "name": "Ur (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Urad",
+    "name": "Urad",
+    "type": "character"
+  },
+  {
+    "id": "character: Urdree",
+    "name": "Urdree",
+    "type": "character"
+  },
+  {
+    "id": "character: Urialin",
+    "name": "Urialin",
+    "type": "character"
+  },
+  {
+    "id": "character: Uriam",
+    "name": "Uriam",
+    "type": "character"
+  },
+  {
+    "id": "character: Urian",
+    "name": "Urian",
+    "type": "character"
+  },
+  {
+    "id": "character: Urimil",
+    "name": "Urimil",
+    "type": "character"
+  },
+  {
+    "id": "character: Urv",
+    "name": "Urv",
+    "type": "character"
+  },
+  {
+    "id": "character: Usasha",
+    "name": "Usasha",
+    "type": "character"
+  },
+  {
+    "id": "character: Uscri",
+    "name": "Uscri",
+    "type": "character"
+  },
+  {
+    "id": "character: Ushnaka",
+    "name": "Ushnaka",
+    "type": "character"
+  },
+  {
+    "id": "character: Vaceslv",
+    "name": "Vaceslv",
+    "type": "character"
+  },
+  {
+    "id": "character: <i>An Accountability of Virtue</i>",
+    "name": "<i>An Accountability of Virtue</i>",
+    "type": "character"
+  },
+  {
+    "id": "character: Vahr",
+    "name": "Vahr",
+    "type": "character"
+  },
+  {
+    "id": "character: Vai",
+    "name": "Vai",
+    "type": "character"
+  },
+  {
+    "id": "character: Vaiu",
+    "name": "Vaiu",
+    "type": "character"
+  },
+  {
+    "id": "character: Valam",
+    "name": "Valam",
+    "type": "character"
+  },
+  {
+    "id": "character: Valama",
+    "name": "Valama",
+    "type": "character"
+  },
+  {
+    "id": "character: Valette Entrone",
+    "name": "Valette Entrone",
+    "type": "character"
+  },
+  {
+    "id": "character: Vandonas",
+    "name": "Vandonas",
+    "type": "character"
+  },
+  {
+    "id": "character: Varala",
+    "name": "Varala",
+    "type": "character"
+  },
+  {
+    "id": "character: Varanis",
+    "name": "Varanis",
+    "type": "character"
+  },
+  {
+    "id": "character: Varas",
+    "name": "Varas",
+    "type": "character"
+  },
+  {
+    "id": "character: Denth",
+    "name": "Denth",
+    "type": "character"
+  },
+  {
+    "id": "character: Vardinar",
+    "name": "Vardinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Varlance",
+    "name": "Varlance",
+    "type": "character"
+  },
+  {
+    "id": "character: Varnali",
+    "name": "Varnali",
+    "type": "character"
+  },
+  {
+    "id": "character: VarSell",
+    "name": "VarSell",
+    "type": "character"
+  },
+  {
+    "id": "character: Varth",
+    "name": "Varth",
+    "type": "character"
+  },
+  {
+    "id": "character: Vartian",
+    "name": "Vartian",
+    "type": "character"
+  },
+  {
+    "id": "character: Vasher",
+    "name": "Vasher",
+    "type": "character"
+  },
+  {
+    "id": "character: Vathah",
+    "name": "Vathah",
+    "type": "character"
+  },
+  {
+    "id": "character: Vathe",
+    "name": "Vathe",
+    "type": "character"
+  },
+  {
+    "id": "character: Vathi",
+    "name": "Vathi",
+    "type": "character"
+  },
+  {
+    "id": "character: Vatwha",
+    "name": "Vatwha",
+    "type": "character"
+  },
+  {
+    "id": "character: Vazrmeb",
+    "name": "Vazrmeb",
+    "type": "character"
+  },
+  {
+    "id": "character: Ved (Stormlight)",
+    "name": "Ved (Stormlight)",
+    "type": "character"
+  },
+  {
+    "id": "character: Vedekar Perel",
+    "name": "Vedekar Perel",
+    "type": "character"
+  },
+  {
+    "id": "character: Vedel",
+    "name": "Vedel",
+    "type": "character"
+  },
+  {
+    "id": "character: Vedlew",
+    "name": "Vedlew",
+    "type": "character"
+  },
+  {
+    "id": "character: Vedzan",
+    "name": "Vedzan",
+    "type": "character"
+  },
+  {
+    "id": "character: Velalant",
+    "name": "Velalant",
+    "type": "character"
+  },
+  {
+    "id": "character: Velat",
+    "name": "Velat",
+    "type": "character"
+  },
+  {
+    "id": "character: Velinar",
+    "name": "Velinar",
+    "type": "character"
+  },
+  {
+    "id": "character: Vema",
+    "name": "Vema",
+    "type": "character"
+  },
+  {
+    "id": "character: Ven",
+    "name": "Ven",
+    "type": "character"
+  },
+  {
+    "id": "character: Venan",
+    "name": "Venan",
+    "type": "character"
+  },
+  {
+    "id": "character: VenDell",
+    "name": "VenDell",
+    "type": "character"
+  },
+  {
+    "id": "character: Venli",
+    "name": "Venli",
+    "type": "character"
+  },
+  {
+    "id": "character: Vennin",
+    "name": "Vennin",
+    "type": "character"
+  },
+  {
+    "id": "character: Vennis Hasting",
+    "name": "Vennis Hasting",
+    "type": "character"
+  },
+  {
+    "id": "character: Vent (Scadrial)",
+    "name": "Vent (Scadrial)",
+    "type": "character"
+  },
+  {
+    "id": "character: Veratorim",
+    "name": "Veratorim",
+    "type": "character"
+  },
+  {
+    "id": "character: Verdant King",
+    "name": "Verdant King",
+    "type": "character"
+  },
+  {
+    "id": "character: Human",
+    "name": "Human",
+    "type": "character"
+  },
+  {
+    "id": "character: Human",
+    "name": "Human",
+    "type": "character"
+  },
+  {
+    "id": "character: Vespan",
+    "name": "Vespan",
+    "type": "character"
+  },
+  {
+    "id": "character: Vet (Roshar)",
+    "name": "Vet (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Vet (Scadrial)",
+    "name": "Vet (Scadrial)",
+    "type": "character"
+  },
+  {
+    "id": "character: Vevanara",
+    "name": "Vevanara",
+    "type": "character"
+  },
+  {
+    "id": "character: Vevidar",
+    "name": "Vevidar",
+    "type": "character"
+  },
+  {
+    "id": "character: Vexil",
+    "name": "Vexil",
+    "type": "character"
+  },
+  {
+    "id": "character: Vey",
+    "name": "Vey",
+    "type": "character"
+  },
+  {
+    "id": "character: Vienta",
+    "name": "Vienta",
+    "type": "character"
+  },
+  {
+    "id": "character: Vila Mecant",
+    "name": "Vila Mecant",
+    "type": "character"
+  },
+  {
+    "id": "character: Vin",
+    "name": "Vin",
+    "type": "character"
+  },
+  {
+    "id": "character: Vin's mother",
+    "name": "Vin's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Vin's sister",
+    "name": "Vin's sister",
+    "type": "character"
+  },
+  {
+    "id": "character: Vishwadhar",
+    "name": "Vishwadhar",
+    "type": "character"
+  },
+  {
+    "id": "character: Vivenna",
+    "name": "Vivenna",
+    "type": "character"
+  },
+  {
+    "id": "character: Vivenna's Blade",
+    "name": "Vivenna's Blade",
+    "type": "character"
+  },
+  {
+    "id": "character: Vivenna's mother",
+    "name": "Vivenna's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Vldgen",
+    "name": "Vldgen",
+    "type": "character"
+  },
+  {
+    "id": "character: Vlxim",
+    "name": "Vlxim",
+    "type": "character"
+  },
+  {
+    "id": "character: Vo",
+    "name": "Vo",
+    "type": "character"
+  },
+  {
+    "id": "character: Vod",
+    "name": "Vod",
+    "type": "character"
+  },
+  {
+    "id": "character: Vono",
+    "name": "Vono",
+    "type": "character"
+  },
+  {
+    "id": "character: Vrandl",
+    "name": "Vrandl",
+    "type": "character"
+  },
+  {
+    "id": "character: Vratim",
+    "name": "Vratim",
+    "type": "character"
+  },
+  {
+    "id": "character: Vstim",
+    "name": "Vstim",
+    "type": "character"
+  },
+  {
+    "id": "character: Vwafendal",
+    "name": "Vwafendal",
+    "type": "character"
+  },
+  {
+    "id": "character: Waber",
+    "name": "Waber",
+    "type": "character"
+  },
+  {
+    "id": "character: Walin",
+    "name": "Walin",
+    "type": "character"
+  },
+  {
+    "id": "character: Wan ShaiLu",
+    "name": "Wan ShaiLu",
+    "type": "character"
+  },
+  {
+    "id": "character: Waren",
+    "name": "Waren",
+    "type": "character"
+  },
+  {
+    "id": "character: Warren",
+    "name": "Warren",
+    "type": "character"
+  },
+  {
+    "id": "character: Waxillium Ladrian",
+    "name": "Waxillium Ladrian",
+    "type": "character"
+  },
+  {
+    "id": "character: Wayne",
+    "name": "Wayne",
+    "type": "character"
+  },
+  {
+    "id": "character: Wayne's mother",
+    "name": "Wayne's mother",
+    "type": "character"
+  },
+  {
+    "id": "character: Weatherlove",
+    "name": "Weatherlove",
+    "type": "character"
+  },
+  {
+    "id": "character: Wednegon",
+    "name": "Wednegon",
+    "type": "character"
+  },
+  {
+    "id": "character: Weedfingers",
+    "name": "Weedfingers",
+    "type": "character"
+  },
+  {
+    "id": "character: Weev",
+    "name": "Weev",
+    "type": "character"
+  },
+  {
+    "id": "character: Wellen",
+    "name": "Wellen",
+    "type": "character"
+  },
+  {
+    "id": "character: Wellid",
+    "name": "Wellid",
+    "type": "character"
+  },
+  {
+    "id": "character: Wells",
+    "name": "Wells",
+    "type": "character"
+  },
+  {
+    "id": "character: <i>An Accountability of Virtue</i>",
+    "name": "<i>An Accountability of Virtue</i>",
+    "type": "character"
+  },
+  {
+    "id": "character: Westweather Cett",
+    "name": "Westweather Cett",
+    "type": "character"
+  },
+  {
+    "id": "character: Wikim Davar",
+    "name": "Wikim Davar",
+    "type": "character"
+  },
+  {
+    "id": "character: Wilhelmette",
+    "name": "Wilhelmette",
+    "type": "character"
+  },
+  {
+    "id": "character: Wilheln",
+    "name": "Wilheln",
+    "type": "character"
+  },
+  {
+    "id": "character: William Ann Montane",
+    "name": "William Ann Montane",
+    "type": "character"
+  },
+  {
+    "id": "character: William Montane",
+    "name": "William Montane",
+    "type": "character"
+  },
+  {
+    "id": "character: Wind",
+    "name": "Wind",
+    "type": "character"
+  },
+  {
+    "id": "character: Winds",
+    "name": "Winds",
+    "type": "character"
+  },
+  {
+    "id": "character: Winnow (Roshar)",
+    "name": "Winnow (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Winsting Innate",
+    "name": "Winsting Innate",
+    "type": "character"
+  },
+  {
+    "id": "character: Wistiow",
+    "name": "Wistiow",
+    "type": "character"
+  },
+  {
+    "id": "character: Wmlak",
+    "name": "Wmlak",
+    "type": "character"
+  },
+  {
+    "id": "character: Word of Deeds",
+    "name": "Word of Deeds",
+    "type": "character"
+  },
+  {
+    "id": "character: Wulfden the First",
+    "name": "Wulfden the First",
+    "type": "character"
+  },
+  {
+    "id": "character: Wulfden the Fourth",
+    "name": "Wulfden the Fourth",
+    "type": "character"
+  },
+  {
+    "id": "character: Wvlan",
+    "name": "Wvlan",
+    "type": "character"
+  },
+  {
+    "id": "character: Wyndle",
+    "name": "Wyndle",
+    "type": "character"
+  },
+  {
+    "id": "character: Wyrn (character)",
+    "name": "Wyrn (character)",
+    "type": "character"
+  },
+  {
+    "id": "character: Wzmal",
+    "name": "Wzmal",
+    "type": "character"
+  },
+  {
+    "id": "character: Xisisrefliel",
+    "name": "Xisisrefliel",
+    "type": "character"
+  },
+  {
+    "id": "character: Yaalani",
+    "name": "Yaalani",
+    "type": "character"
+  },
+  {
+    "id": "character: Yake",
+    "name": "Yake",
+    "type": "character"
+  },
+  {
+    "id": "character: Yalb",
+    "name": "Yalb",
+    "type": "character"
+  },
+  {
+    "id": "character: Yanagawn",
+    "name": "Yanagawn",
+    "type": "character"
+  },
+  {
+    "id": "character: Yancey Yaceczko",
+    "name": "Yancey Yaceczko",
+    "type": "character"
+  },
+  {
+    "id": "character: Yara",
+    "name": "Yara",
+    "type": "character"
+  },
+  {
+    "id": "character: Yarda",
+    "name": "Yarda",
+    "type": "character"
+  },
+  {
+    "id": "character: Yazad (Sel)",
+    "name": "Yazad (Sel)",
+    "type": "character"
+  },
+  {
+    "id": "character: Yeden",
+    "name": "Yeden",
+    "type": "character"
+  },
+  {
+    "id": "character: Yeeden",
+    "name": "Yeeden",
+    "type": "character"
+  },
+  {
+    "id": "character: Yelamaiszin",
+    "name": "Yelamaiszin",
+    "type": "character"
+  },
+  {
+    "id": "character: Yelig-nar",
+    "name": "Yelig-nar",
+    "type": "character"
+  },
+  {
+    "id": "character: Yenev",
+    "name": "Yenev",
+    "type": "character"
+  },
+  {
+    "id": "character: Yestal",
+    "name": "Yestal",
+    "type": "character"
+  },
+  {
+    "id": "character: Yesteel",
+    "name": "Yesteel",
+    "type": "character"
+  },
+  {
+    "id": "character: Yezriar",
+    "name": "Yezriar",
+    "type": "character"
+  },
+  {
+    "id": "character: Yil",
+    "name": "Yil",
+    "type": "character"
+  },
+  {
+    "id": "character: Yis",
+    "name": "Yis",
+    "type": "character"
+  },
+  {
+    "id": "character: Yix",
+    "name": "Yix",
+    "type": "character"
+  },
+  {
+    "id": "character: Yixli",
+    "name": "Yixli",
+    "type": "character"
+  },
+  {
+    "id": "character: Ym",
+    "name": "Ym",
+    "type": "character"
+  },
+  {
+    "id": "character: Yokska",
+    "name": "Yokska",
+    "type": "character"
+  },
+  {
+    "id": "character: Yonatan",
+    "name": "Yonatan",
+    "type": "character"
+  },
+  {
+    "id": "character: Ytves",
+    "name": "Ytves",
+    "type": "character"
+  },
+  {
+    "id": "character: Yuinshi",
+    "name": "Yuinshi",
+    "type": "character"
+  },
+  {
+    "id": "character: Yulip",
+    "name": "Yulip",
+    "type": "character"
+  },
+  {
+    "id": "character: Yumi",
+    "name": "Yumi",
+    "type": "character"
+  },
+  {
+    "id": "character: Yunfah",
+    "name": "Yunfah",
+    "type": "character"
+  },
+  {
+    "id": "character: Yushah",
+    "name": "Yushah",
+    "type": "character"
+  },
+  {
+    "id": "character: Yustara",
+    "name": "Yustara",
+    "type": "character"
+  },
+  {
+    "id": "character: Zabra",
+    "name": "Zabra",
+    "type": "character"
+  },
+  {
+    "id": "character: Vasher",
+    "name": "Vasher",
+    "type": "character"
+  },
+  {
+    "id": "character: Zandiel",
+    "name": "Zandiel",
+    "type": "character"
+  },
+  {
+    "id": "character: Zane Venture",
+    "name": "Zane Venture",
+    "type": "character"
+  },
+  {
+    "id": "character: Zarb Kushkam",
+    "name": "Zarb Kushkam",
+    "type": "character"
+  },
+  {
+    "id": "character: Zedzil",
+    "name": "Zedzil",
+    "type": "character"
+  },
+  {
+    "id": "character: Zeenid-daughter-Beth",
+    "name": "Zeenid-daughter-Beth",
+    "type": "character"
+  },
+  {
+    "id": "character: Zeheb",
+    "name": "Zeheb",
+    "type": "character"
+  },
+  {
+    "id": "character: Zellion (Threnody)",
+    "name": "Zellion (Threnody)",
+    "type": "character"
+  },
+  {
+    "id": "character: Zen-daughter-Vath",
+    "name": "Zen-daughter-Vath",
+    "type": "character"
+  },
+  {
+    "id": "character: Zenaz",
+    "name": "Zenaz",
+    "type": "character"
+  },
+  {
+    "id": "character: Zendid",
+    "name": "Zendid",
+    "type": "character"
+  },
+  {
+    "id": "character: Zetah",
+    "name": "Zetah",
+    "type": "character"
+  },
+  {
+    "id": "character: Zora",
+    "name": "Zora",
+    "type": "character"
+  },
+  {
+    "id": "character: Zu (Roshar)",
+    "name": "Zu (Roshar)",
+    "type": "character"
+  },
+  {
+    "id": "character: Zu (Sel)",
+    "name": "Zu (Sel)",
+    "type": "character"
+  },
+  {
+    "id": "character: Zuln",
+    "name": "Zuln",
+    "type": "character"
+  },
+  {
+    "id": "character: Zyardil",
+    "name": "Zyardil",
     "type": "character"
   }
 ]
