@@ -1,5 +1,575 @@
 [
   {
+    "id": "book: The Way of Kings",
+    "name": "The Way of Kings",
+    "type": "book"
+  },
+  {
+    "id": "book: Words of Radiance",
+    "name": "Words of Radiance",
+    "type": "book"
+  },
+  {
+    "id": "book: Oathbringer",
+    "name": "Oathbringer",
+    "type": "book"
+  },
+  {
+    "id": "book: Rhythm of War",
+    "name": "Rhythm of War",
+    "type": "book"
+  },
+  {
+    "id": "book: Wind and Truth",
+    "name": "Wind and Truth",
+    "type": "book"
+  },
+  {
+    "id": "book: Edgedancer",
+    "name": "Edgedancer",
+    "type": "book"
+  },
+  {
+    "id": "book: Dawnshard",
+    "name": "Dawnshard",
+    "type": "book"
+  },
+  {
+    "id": "book: Mistborn: The Final Empire",
+    "name": "Mistborn: The Final Empire",
+    "type": "book"
+  },
+  {
+    "id": "book: The Well of Ascension",
+    "name": "The Well of Ascension",
+    "type": "book"
+  },
+  {
+    "id": "book: The Hero of Ages",
+    "name": "The Hero of Ages",
+    "type": "book"
+  },
+  {
+    "id": "book: The Alloy of Law",
+    "name": "The Alloy of Law",
+    "type": "book"
+  },
+  {
+    "id": "book: Shadows of Self",
+    "name": "Shadows of Self",
+    "type": "book"
+  },
+  {
+    "id": "book: The Bands of Mourning",
+    "name": "The Bands of Mourning",
+    "type": "book"
+  },
+  {
+    "id": "book: The Lost Metal",
+    "name": "The Lost Metal",
+    "type": "book"
+  },
+  {
+    "id": "book: Mistborn: Secret History",
+    "name": "Mistborn: Secret History",
+    "type": "book"
+  },
+  {
+    "id": "book: The Eleventh Metal",
+    "name": "The Eleventh Metal",
+    "type": "book"
+  },
+  {
+    "id": "book: Allomancer Jak and the Pits of Eltania",
+    "name": "Allomancer Jak and the Pits of Eltania",
+    "type": "book"
+  },
+  {
+    "id": "book: Elantris",
+    "name": "Elantris",
+    "type": "book"
+  },
+  {
+    "id": "book: The Sunlit Man",
+    "name": "The Sunlit Man",
+    "type": "book"
+  },
+  {
+    "id": "book: Tress of the Emerald Sea",
+    "name": "Tress of the Emerald Sea",
+    "type": "book"
+  },
+  {
+    "id": "book: Warbreaker",
+    "name": "Warbreaker",
+    "type": "book"
+  },
+  {
+    "id": "book: White Sand",
+    "name": "White Sand",
+    "type": "book"
+  },
+  {
+    "id": "book: Yumi and the Nightmare Painter",
+    "name": "Yumi and the Nightmare Painter",
+    "type": "book"
+  },
+  {
+    "id": "book: The Hope of Elantris",
+    "name": "The Hope of Elantris",
+    "type": "book"
+  },
+  {
+    "id": "book: The Emperor's Soul",
+    "name": "The Emperor's Soul",
+    "type": "book"
+  },
+  {
+    "id": "book: Shadows for Silence in the Forests of Hell",
+    "name": "Shadows for Silence in the Forests of Hell",
+    "type": "book"
+  },
+  {
+    "id": "book: Sixth of the Dusk",
+    "name": "Sixth of the Dusk",
+    "type": "book"
+  },
+  {
+    "id": "chapter: Prelude to the Stormlight Archive",
+    "name": "Prelude to the Stormlight Archive",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Prologue: To Kill",
+    "name": "Prologue: To Kill",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 1: Stormblessed",
+    "name": "Chapter 1: Stormblessed",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 2: Honor is Dead",
+    "name": "Chapter 2: Honor is Dead",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 3: City of Bells",
+    "name": "Chapter 3: City of Bells",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 4: The Shattered Plains",
+    "name": "Chapter 4: The Shattered Plains",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 5: Heretic",
+    "name": "Chapter 5: Heretic",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 6: Bridge Four",
+    "name": "Chapter 6: Bridge Four",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 7: Anything Reasonable",
+    "name": "Chapter 7: Anything Reasonable",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 8: Nearer the Flame",
+    "name": "Chapter 8: Nearer the Flame",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 9: Damnation",
+    "name": "Chapter 9: Damnation",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 10: Stories of Surgeons",
+    "name": "Chapter 10: Stories of Surgeons",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 11: Droplets",
+    "name": "Chapter 11: Droplets",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-1: Ishikk",
+    "name": "Interlude I-1: Ishikk",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-2: Nan Balat",
+    "name": "Interlude I-2: Nan Balat",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-3: The Glory of Ignorance",
+    "name": "Interlude I-3: The Glory of Ignorance",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 12: Unity",
+    "name": "Chapter 12: Unity",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 13: Ten Heartbeats",
+    "name": "Chapter 13: Ten Heartbeats",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 14: Payday",
+    "name": "Chapter 14: Payday",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 15: The Decoy",
+    "name": "Chapter 15: The Decoy",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 16: Cocoons",
+    "name": "Chapter 16: Cocoons",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 17: A Bloody Red Sunset",
+    "name": "Chapter 17: A Bloody Red Sunset",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 18: Highprince of War",
+    "name": "Chapter 18: Highprince of War",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 19: Starfalls",
+    "name": "Chapter 19: Starfalls",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 20: Scarlet",
+    "name": "Chapter 20: Scarlet",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 21: Why Men Lie",
+    "name": "Chapter 21: Why Men Lie",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "name": "Chapter 22: Eyes, Hands, or Spheres",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 23: Many Uses",
+    "name": "Chapter 23: Many Uses",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 24: The Gallery of Maps",
+    "name": "Chapter 24: The Gallery of Maps",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 25: The Butcher",
+    "name": "Chapter 25: The Butcher",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 26: Stillness",
+    "name": "Chapter 26: Stillness",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 27: Chasm Duty",
+    "name": "Chapter 27: Chasm Duty",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 28: Decision",
+    "name": "Chapter 28: Decision",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-4: Rysn",
+    "name": "Interlude I-4: Rysn",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-5: Axies the Collector",
+    "name": "Interlude I-5: Axies the Collector",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-6: A Work of Art",
+    "name": "Interlude I-6: A Work of Art",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 29: Errorgance",
+    "name": "Chapter 29: Errorgance",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 30: Darkness Unseen",
+    "name": "Chapter 30: Darkness Unseen",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 31: Beneath the Skin",
+    "name": "Chapter 31: Beneath the Skin",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 32: Side Carry",
+    "name": "Chapter 32: Side Carry",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 33: Cymatics",
+    "name": "Chapter 33: Cymatics",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 34: Stormwall",
+    "name": "Chapter 34: Stormwall",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 35: A Light By Which to See",
+    "name": "Chapter 35: A Light By Which to See",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 36: The Lesson",
+    "name": "Chapter 36: The Lesson",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 37: Sides",
+    "name": "Chapter 37: Sides",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 38: Envisager",
+    "name": "Chapter 38: Envisager",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 39: Burned Into Her",
+    "name": "Chapter 39: Burned Into Her",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 40: Eyes of Red and Blue",
+    "name": "Chapter 40: Eyes of Red and Blue",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 41: Of Alds and Milp",
+    "name": "Chapter 41: Of Alds and Milp",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 42: Beggars and Barmaids",
+    "name": "Chapter 42: Beggars and Barmaids",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 43: The Wretch",
+    "name": "Chapter 43: The Wretch",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 44: The Weeping",
+    "name": "Chapter 44: The Weeping",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 45: Shadesmar",
+    "name": "Chapter 45: Shadesmar",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 46: Child of Tanavast",
+    "name": "Chapter 46: Child of Tanavast",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 47: Stormblessings",
+    "name": "Chapter 47: Stormblessings",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 48: Strawberry",
+    "name": "Chapter 48: Strawberry",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 49: To Care",
+    "name": "Chapter 49: To Care",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 50: Backbreaker Powder",
+    "name": "Chapter 50: Backbreaker Powder",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 51: Sas Nahn",
+    "name": "Chapter 51: Sas Nahn",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-7: Baxil",
+    "name": "Interlude I-7: Baxil",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-8: Geranid",
+    "name": "Interlude I-8: Geranid",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Interlude I-9: Death Wears White",
+    "name": "Interlude I-9: Death Wears White",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 52: A Highway to the Sun",
+    "name": "Chapter 52: A Highway to the Sun",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 53: Dunny",
+    "name": "Chapter 53: Dunny",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 54: Gibletish",
+    "name": "Chapter 54: Gibletish",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 55: An Emerald Broam",
+    "name": "Chapter 55: An Emerald Broam",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 56: That Storming Book",
+    "name": "Chapter 56: That Storming Book",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 57: Wandersail",
+    "name": "Chapter 57: Wandersail",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 58: The Journey",
+    "name": "Chapter 58: The Journey",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 59: An Honor",
+    "name": "Chapter 59: An Honor",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 60: That Which We Cannot Have",
+    "name": "Chapter 60: That Which We Cannot Have",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 61: Right for Wrong",
+    "name": "Chapter 61: Right for Wrong",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 62: Three Glyphs",
+    "name": "Chapter 62: Three Glyphs",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 63: Fear",
+    "name": "Chapter 63: Fear",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 64: A Man of Extremes",
+    "name": "Chapter 64: A Man of Extremes",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 65: The Tower",
+    "name": "Chapter 65: The Tower",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 66: Codes",
+    "name": "Chapter 66: Codes",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 67: Words",
+    "name": "Chapter 67: Words",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 68: Eshonai",
+    "name": "Chapter 68: Eshonai",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 69: Justice",
+    "name": "Chapter 69: Justice",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 70: Sea of Glass",
+    "name": "Chapter 70: Sea of Glass",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 71: Recorded In Blood",
+    "name": "Chapter 71: Recorded In Blood",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 72: Veristitalian",
+    "name": "Chapter 72: Veristitalian",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 73: Trust",
+    "name": "Chapter 73: Trust",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 74: Ghostblood",
+    "name": "Chapter 74: Ghostblood",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Chapter 75: In the Top Room",
+    "name": "Chapter 75: In the Top Room",
+    "type": "chapter"
+  },
+  {
+    "id": "chapter: Epilogue: Of Most Worth",
+    "name": "Epilogue: Of Most Worth",
+    "type": "chapter"
+  },
+  {
     "id": "character: 121",
     "name": "121",
     "type": "character"

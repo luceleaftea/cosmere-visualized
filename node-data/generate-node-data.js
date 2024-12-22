@@ -1,14 +1,14 @@
 import fs from 'fs'
 
-import bookJson from '../coppermind-data/test-data/book.json' with { type: "json" }
-import chapterJson from '../coppermind-data/test-data/chapter.json' with { type: "json" }
+import bookJson from '../coppermind-data/generated-data/book.json' with { type: "json" }
+import chapterJson from '../coppermind-data/generated-data/chapter.json' with { type: "json" }
 import characterJson from '../coppermind-data/generated-data/character.json' with { type: "json" }
 
 export function generateNodeData() {
     let nodeData = []
 
-    // nodeData = nodeData.concat(bookJson.map(convertBookToNode))
-    // nodeData = nodeData.concat(chapterJson.map(convertChapterToNode))
+    nodeData = nodeData.concat(bookJson.map(convertBookToNode))
+    nodeData = nodeData.concat(chapterJson.map(convertChapterToNode))
     nodeData = nodeData.concat(characterJson.map(convertCharacterToNode))
 
     return nodeData

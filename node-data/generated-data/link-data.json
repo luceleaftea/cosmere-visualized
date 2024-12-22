@@ -3026,5 +3026,4553 @@
   {
     "source": "character: Zeenid-daughter-Beth",
     "target": "character: Elid-daughter-Zeenid"
+  },
+  {
+    "source": "chapter: Prelude to the Stormlight Archive",
+    "target": "character: Kalak"
+  },
+  {
+    "source": "chapter: Prelude to the Stormlight Archive",
+    "target": "character: Jezrien"
+  },
+  {
+    "source": "chapter: Prelude to the Stormlight Archive",
+    "target": "character: Talenel"
+  },
+  {
+    "source": "chapter: Prelude to the Stormlight Archive",
+    "target": "character: Ishar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Prelude to the Stormlight Archive"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Jezrien"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Ishar"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Kalak"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Talenel"
+  },
+  {
+    "source": "chapter: Prologue: To Kill",
+    "target": "character: Shalash"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Prologue: To Kill"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Cenn"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Cyn"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Korater"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Gare"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Kusiri"
+  },
+  {
+    "source": "chapter: Chapter 1: Stormblessed",
+    "target": "character: Hallaw"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 1: Stormblessed"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Tvlakv"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Bluth"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Taran"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Cenn"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 2: Honor is Dead",
+    "target": "character: Tien"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 2: Honor is Dead"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Tozbek"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Ashlv"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Yalb"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Chapter 3: City of Bells",
+    "target": "character: Valam"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 3: City of Bells"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Sylphrena"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Tvlakv"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Bluth"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Tag"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 4: The Shattered Plains",
+    "target": "character: Katarotam"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 4: The Shattered Plains"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Taravangian's granddaughter"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Tormas"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Nashan"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Placini"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Gabrathin"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Yustara"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Manaline"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Syasikk"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Shauka-daughter-Hasweth"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Barlesha Lhan"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Fabrisan"
+  },
+  {
+    "source": "chapter: Chapter 5: Heretic",
+    "target": "character: Malise Gevelmar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 5: Heretic"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Tvlakv"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Bluth"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Tag"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Sylphrena"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 6: Bridge Four",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 6: Bridge Four"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Luesh"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Yalb"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Lhanin"
+  },
+  {
+    "source": "chapter: Chapter 7: Anything Reasonable",
+    "target": "character: Dandos Heraldin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 7: Anything Reasonable"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Yalb"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Artmyrn"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Wikim Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Jushu Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Helaran Davar"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Tozbek"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Placini"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Gabrathin"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Yustara"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Manaline"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Shauka-daughter-Hasweth"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Rencalt"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Chapter 8: Nearer the Flame",
+    "target": "character: Barmest"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 8: Nearer the Flame"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Sylphrena"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Laresh"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 9: Damnation",
+    "target": "character: Cenn"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 9: Damnation"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Sani"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Hammie"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 10: Stories of Surgeons",
+    "target": "character: Vathe"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 10: Stories of Surgeons"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Sylphrena"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 11: Droplets",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 11: Droplets"
+  },
+  {
+    "source": "chapter: Interlude I-1: Ishikk",
+    "target": "character: Ishikk"
+  },
+  {
+    "source": "chapter: Interlude I-1: Ishikk",
+    "target": "character: Thaspic"
+  },
+  {
+    "source": "chapter: Interlude I-1: Ishikk",
+    "target": "character: Maib"
+  },
+  {
+    "source": "chapter: Interlude I-1: Ishikk",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-1: Ishikk"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Scrak"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Wikim Davar"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Helaran Davar"
+  },
+  {
+    "source": "chapter: Interlude I-2: Nan Balat",
+    "target": "character: Jushu Davar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-2: Nan Balat"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Took"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Amark"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Avado"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Interlude I-3: The Glory of Ignorance",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-3: The Glory of Ignorance"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Tarilar"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Vartian"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Lomard"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Bashin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Janala Lustow"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Rilla"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Deeli"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 12: Unity",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 12: Unity"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Sureblood"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 13: Ten Heartbeats",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 13: Ten Heartbeats"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Sylphrena"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 14: Payday",
+    "target": "character: Tien"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 14: Payday"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Roion"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Talata"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Bethab"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 15: The Decoy",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 15: The Decoy"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Jost"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Jest"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Mord"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Tift"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Naget"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Khav"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 16: Cocoons",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 16: Cocoons"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Yake"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Malop"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Murk"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Adis"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Corl"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Koorm"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Gadol"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 17: A Bloody Red Sunset",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 17: A Bloody Red Sunset"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Yis"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Avaran"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Tibon"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Falksi"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Teshav Khal"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Kadash"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Ruthar"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Aladar"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Thanadal"
+  },
+  {
+    "source": "chapter: Chapter 18: Highprince of War",
+    "target": "character: Hatham"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 18: Highprince of War"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Taffa"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Seeli"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Rayse"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Heb"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Harkaylain"
+  },
+  {
+    "source": "chapter: Chapter 19: Starfalls",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 19: Starfalls"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Miasal"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Harl"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Valama"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "chapter: Chapter 20: Scarlet",
+    "target": "character: Alim"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 20: Scarlet"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Koolf"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Bussik"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Hav"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 21: Why Men Lie",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 21: Why Men Lie"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Marakal"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Cadilar"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Taselin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Habatab"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Tumul"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Yonatan"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Meirav"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Roion"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Aona"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Skai"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Rayse"
+  },
+  {
+    "source": "chapter: Chapter 22: Eyes, Hands, or Spheres",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 22: Eyes, Hands, or Spheres"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Natam"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Rayse"
+  },
+  {
+    "source": "chapter: Chapter 23: Many Uses",
+    "target": "character: Bavadin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 23: Many Uses"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Roion"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 24: The Gallery of Maps",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 24: The Gallery of Maps"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Terith"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Relina"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Miliv"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 25: The Butcher",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 25: The Butcher"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Kalami"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Perethom"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Havarah"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Ilamar"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Moratel"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Sureblood"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Litima"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Isasik Shulin"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Aladar"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Roion"
+  },
+  {
+    "source": "chapter: Chapter 26: Stillness",
+    "target": "character: Ashelem"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 26: Stillness"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Yake"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Maps"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Torfin"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Jezrien"
+  },
+  {
+    "source": "chapter: Chapter 27: Chasm Duty",
+    "target": "character: Nale"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 27: Chasm Duty"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Ladent"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Havrom"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Tadet"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Niter"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Danlan Morakotha"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Kalana"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Thanadal"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Hatham"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Bethab"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Brightlord Morakotha"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Lalai"
+  },
+  {
+    "source": "chapter: Chapter 28: Decision",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 28: Decision"
+  },
+  {
+    "source": "chapter: Interlude I-4: Rysn",
+    "target": "character: Rysn Ftori"
+  },
+  {
+    "source": "chapter: Interlude I-4: Rysn",
+    "target": "character: Vstim"
+  },
+  {
+    "source": "chapter: Interlude I-4: Rysn",
+    "target": "character: Kylrm"
+  },
+  {
+    "source": "chapter: Interlude I-4: Rysn",
+    "target": "character: Thresh-son-Esan"
+  },
+  {
+    "source": "chapter: Interlude I-4: Rysn",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-4: Rysn"
+  },
+  {
+    "source": "chapter: Interlude I-5: Axies the Collector",
+    "target": "character: Axies"
+  },
+  {
+    "source": "chapter: Interlude I-5: Axies the Collector",
+    "target": "character: Cusicesh"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-5: Axies the Collector"
+  },
+  {
+    "source": "chapter: Interlude I-6: A Work of Art",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Interlude I-6: A Work of Art",
+    "target": "character: Makkek"
+  },
+  {
+    "source": "chapter: Interlude I-6: A Work of Art",
+    "target": "character: Gavashaw"
+  },
+  {
+    "source": "chapter: Interlude I-6: A Work of Art",
+    "target": "character: Took"
+  },
+  {
+    "source": "chapter: Interlude I-6: A Work of Art",
+    "target": "character: Hanavanar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-6: A Work of Art"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Eylita Tavinar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Jushu Davar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Wikim Davar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Masly"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Coldwin"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Hasavah"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Luesh"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Hanavanar"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Mederia"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Sadees"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Gavarah"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Gregorh"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Varas"
+  },
+  {
+    "source": "chapter: Chapter 29: Errorgance",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 29: Errorgance"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Bisig"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Amark"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Koolf"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 30: Darkness Unseen",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 30: Darkness Unseen"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Luten"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Balsas"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 31: Beneath the Skin",
+    "target": "character: Ral"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 31: Beneath the Skin"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Natam"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 32: Side Carry",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 32: Side Carry"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Talatin"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Guvlow"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Myalmr"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Wikim Davar"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Jushu Davar"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 33: Cymatics",
+    "target": "character: Habsant"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 33: Cymatics"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 34: Stormwall",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 34: Stormwall"
+  },
+  {
+    "source": "chapter: Chapter 35: A Light By Which to See",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 35: A Light By Which to See",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 35: A Light By Which to See",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 35: A Light By Which to See",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 35: A Light By Which to See"
+  },
+  {
+    "source": "chapter: Chapter 36: The Lesson",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 36: The Lesson",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 36: The Lesson",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 36: The Lesson",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 36: The Lesson"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Natir"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Barm"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Rillir Roshone"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Mabrow Pigherder"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Miliv"
+  },
+  {
+    "source": "chapter: Chapter 37: Sides",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 37: Sides"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Gashash-son-Navammis"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Goshel"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 38: Envisager",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 38: Envisager"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Eylita Tavinar"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Alezarv"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Calinam"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Sur Kamar"
+  },
+  {
+    "source": "chapter: Chapter 39: Burned Into Her",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 39: Burned Into Her"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Torfin"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Natam"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Maps"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Bisig"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Idolir"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Treff"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 40: Eyes of Red and Blue",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 40: Eyes of Red and Blue"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Rillir Roshone"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Wistiow"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Alds"
+  },
+  {
+    "source": "chapter: Chapter 41: Of Alds and Milp",
+    "target": "character: Milp"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 41: Of Alds and Milp"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Masly"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Coldwin"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Hasavah"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Cormshen"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Innia"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Talatin"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Guvlow"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Tozbek"
+  },
+  {
+    "source": "chapter: Chapter 42: Beggars and Barmaids",
+    "target": "character: Ashlv"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 42: Beggars and Barmaids"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Durk"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Tvlakv"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Goshel"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 43: The Wretch",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 43: The Wretch"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Jost"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Naget"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Waber"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Laral Roshone"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Natir"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Alaxia"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Callins"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Abry"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Harl"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Rillir Roshone"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Ral"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Agil"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Marf"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Caull"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Taleb"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Habrin"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Arafik"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Jorna"
+  },
+  {
+    "source": "chapter: Chapter 44: The Weeping",
+    "target": "character: Loats"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 44: The Weeping"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Yelig-nar"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Traxil"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Matain"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Klade"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Tifandor"
+  },
+  {
+    "source": "chapter: Chapter 45: Shadesmar",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 45: Shadesmar"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Bisig"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Tivbet"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Terxim"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Yake"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Delp"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Durk"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 46: Child of Tanavast",
+    "target": "character: Reral Makoram"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 46: Child of Tanavast"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Gare"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Nalem"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Korabet"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Ven"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Cenn"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Cyn"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Korater"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Toorim"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Lyndel"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Acis"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Hamel"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Raksha"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Navar"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Hab"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Reesh"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Alabet"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Coreb"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Hallaw"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Galan"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 47: Stormblessings",
+    "target": "character: Norby"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 47: Stormblessings"
+  },
+  {
+    "source": "chapter: Chapter 48: Strawberry",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 48: Strawberry",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 48: Strawberry",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 48: Strawberry",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 48: Strawberry",
+    "target": "character: Cormshen"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 48: Strawberry"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Allahn"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Extes"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Durk"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Varth"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 49: To Care",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 49: To Care"
+  },
+  {
+    "source": "chapter: Chapter 50: Backbreaker Powder",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 50: Backbreaker Powder",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 50: Backbreaker Powder",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 50: Backbreaker Powder"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Hab"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Reesh"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Alabet"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Coreb"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Lanacin"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Evod Markmaker"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 51: Sas Nahn",
+    "target": "character: Tien"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 51: Sas Nahn"
+  },
+  {
+    "source": "chapter: Interlude I-7: Baxil",
+    "target": "character: Baxil"
+  },
+  {
+    "source": "chapter: Interlude I-7: Baxil",
+    "target": "character: Av"
+  },
+  {
+    "source": "chapter: Interlude I-7: Baxil",
+    "target": "character: Ashno"
+  },
+  {
+    "source": "chapter: Interlude I-7: Baxil",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-7: Baxil"
+  },
+  {
+    "source": "chapter: Interlude I-8: Geranid",
+    "target": "character: Geranid"
+  },
+  {
+    "source": "chapter: Interlude I-8: Geranid",
+    "target": "character: Ashir"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-8: Geranid"
+  },
+  {
+    "source": "chapter: Interlude I-9: Death Wears White",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Interlude I-9: Death Wears White",
+    "target": "character: Hanavanar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Interlude I-9: Death Wears White"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Leef"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 52: A Highway to the Sun",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 52: A Highway to the Sun"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 53: Dunny",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 53: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Hatham"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Au-nak"
+  },
+  {
+    "source": "chapter: Chapter 54: Gibletish",
+    "target": "character: Fin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 54: Gibletish"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Maps"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Malop"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Alazansi"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Jezrien"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Nalma"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "chapter: Chapter 55: An Emerald Broam",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 55: An Emerald Broam"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Gallant"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 56: That Storming Book",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 56: That Storming Book"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Maps"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Yake"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Arik"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Miasal"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Amark"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Goshel"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Nalma"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Hav"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Derethil"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Nafti"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 57: Wandersail",
+    "target": "character: Peet"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 57: Wandersail"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Jakamav"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Inkima"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Toral"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Eshava"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Resi"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Istow"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Re-Shephir"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Roion"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Aladar"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 58: The Journey",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 58: The Journey"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Gaz"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 59: An Honor",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 59: An Honor"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Elthebar"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Longshadow"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Karm"
+  },
+  {
+    "source": "chapter: Chapter 60: That Which We Cannot Have",
+    "target": "character: Alakavish"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 60: That Which We Cannot Have"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Hanavanar"
+  },
+  {
+    "source": "chapter: Chapter 61: Right for Wrong",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 61: Right for Wrong"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Jezrien"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Hesina"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Tarah"
+  },
+  {
+    "source": "chapter: Chapter 62: Three Glyphs",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 62: Three Glyphs"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Hobber"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Tarah"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Yake"
+  },
+  {
+    "source": "chapter: Chapter 63: Fear",
+    "target": "character: Hoid"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 63: Fear"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Ilamar"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Hashal"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 64: A Man of Extremes",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 64: A Man of Extremes"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 65: The Tower",
+    "target": "character: Nightwatcher"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 65: The Tower"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Leyten"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 66: Codes",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 66: Codes"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Dabbid"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Dalar"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Mesh"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Varth"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Tien"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Stormfather"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Toralin Roshone"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Dallet"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Lirin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Dunny"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Maps"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Tukks"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Nalma"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Goshel"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Cenn"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Tashlin"
+  },
+  {
+    "source": "chapter: Chapter 67: Words",
+    "target": "character: Sheler"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 67: Words"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Havar"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Nacomb Gaval"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Malan"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Malop"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Narm"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 68: Eshonai",
+    "target": "character: Meridas Amaram"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 68: Eshonai"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Renarin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Makal"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Adolin Kholin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Rust Elthal"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Avarak Matal"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Teleb"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 69: Justice",
+    "target": "character: Lamaril"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 69: Justice"
+  },
+  {
+    "source": "chapter: Chapter 70: Sea of Glass",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 70: Sea of Glass",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 70: Sea of Glass",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 70: Sea of Glass",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 70: Sea of Glass"
+  },
+  {
+    "source": "chapter: Chapter 71: Recorded In Blood",
+    "target": "character: Szeth"
+  },
+  {
+    "source": "chapter: Chapter 71: Recorded In Blood",
+    "target": "character: Taravangian"
+  },
+  {
+    "source": "chapter: Chapter 71: Recorded In Blood",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 71: Recorded In Blood",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 71: Recorded In Blood"
+  },
+  {
+    "source": "chapter: Chapter 72: Veristitalian",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 72: Veristitalian",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 72: Veristitalian"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Kaladin"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Teft"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Moash"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Lopen"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Skar"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Drehy"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Sigzil"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Peet"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Malop"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Jaks"
+  },
+  {
+    "source": "chapter: Chapter 73: Trust",
+    "target": "character: Narm"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 73: Trust"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Shallan Davar"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Jasnah Kholin"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Gavilar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Kabsal"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Balat Davar"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Luesh"
+  },
+  {
+    "source": "chapter: Chapter 74: Ghostblood",
+    "target": "character: Lin Davar"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 74: Ghostblood"
+  },
+  {
+    "source": "chapter: Chapter 75: In the Top Room",
+    "target": "character: Dalinar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 75: In the Top Room",
+    "target": "character: Navani Kholin"
+  },
+  {
+    "source": "chapter: Chapter 75: In the Top Room",
+    "target": "character: Elhokar Kholin"
+  },
+  {
+    "source": "chapter: Chapter 75: In the Top Room",
+    "target": "character: Nohadon"
+  },
+  {
+    "source": "chapter: Chapter 75: In the Top Room",
+    "target": "character: Torol Sadeas"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Chapter 75: In the Top Room"
+  },
+  {
+    "source": "chapter: Epilogue: Of Most Worth",
+    "target": "character: Talenel"
+  },
+  {
+    "source": "book: The Way of Kings",
+    "target": "chapter: Epilogue: Of Most Worth"
   }
 ]
