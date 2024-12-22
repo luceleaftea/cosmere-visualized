@@ -5,15 +5,20 @@
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "start": "parcel src/index.html --open",
+    "start": "parcel src/index.html --open --no-cache",
     "build": "rm -rf docs && parcel build src/index.html --dist-dir docs --public-url https://luceleaftea.github.io/cosmere-visualized/"
   },
   "dependencies": {
+    "3d-force-graph": "1.70.13",
     "force-graph": "^1.47.1",
-    "fs": "0.0.1-security"
+    "three": "0.144.0",
+    "three-forcegraph": "1.39.5",
+    "three-render-objects": "1.27.3",
+    "three-spritetext": "^1.6.5"
   },
   "devDependencies": {
     "parcel": "^2.13.3",
+    "process": "^0.11.10",
     "typescript": "^5.5.3"
   },
   "private": true
