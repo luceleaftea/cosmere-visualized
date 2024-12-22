@@ -1,23 +1,9 @@
-import puppeteer from "puppeteer";
-
-const userAgent = "https://github.com/luceleaftea/cosmere-visualized - Trying to scrape data minimally and in a way that won't overload servers, but if it's too much please drop me an issue to tell me to knock it off and I'll find a different way!"
+import {createPuppeteerBrowser, createPuppeteerPage} from "../puppeteer-helpers.js";
 
 export const getCharacters = async (limit = undefined) => {
-    const browser = await puppeteer.launch({
-        headless: false,
-        defaultViewport: null,
-    });
+    const browser = await createPuppeteerBrowser()
 
-    const page = await browser.newPage();
-    await page.setUserAgent(userAgent)
-
-    await page.goto("https://coppermind.net/wiki/Category:Characters", {
-        waitUntil: "domcontentloaded",
-    });
-
-    if (await page.$('text=Proceed') !== null) {
-        await page.click('text=Proceed')
-    }
+    const page = await createPuppeteerPage(browser, "https://coppermind.net/wiki/Category:Characters")
 
     let pageLinks = await page.evaluate(() => {
         let links = []
@@ -33,12 +19,8 @@ export const getCharacters = async (limit = undefined) => {
 
     for (const link of pageLinks) {
         let absoluteLink = `https://coppermind.net${link}`
-        let newCharacterPage = await browser.newPage()
-        await newCharacterPage.setUserAgent(userAgent)
+        let newCharacterPage = await createPuppeteerPage(browser, absoluteLink)
 
-        await newCharacterPage.goto(absoluteLink, {
-            waitUntil: "domcontentloaded",
-        });
         let characterDetails = await newCharacterPage.evaluate(getCharacterDetailsFromPage)
 
         if (!!characterDetails) {
