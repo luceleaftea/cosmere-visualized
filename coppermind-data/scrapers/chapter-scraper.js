@@ -1,39 +1,5 @@
 import {createPuppeteerBrowser, createPuppeteerPage} from "../puppeteer-helpers.js";
-
-const summaryLinks = [
-    {
-        name: "The Way of Kings",
-        link: "https://coppermind.net/wiki/Summary:The_Way_of_Kings"
-    },
-    {
-        name: "Words of Radiance",
-        link: "https://coppermind.net/wiki/Summary:Words_of_Radiance"
-    },
-    {
-        name: "Oathbringer",
-        link: "https://coppermind.net/wiki/Summary:Oathbringer"
-    },
-    {
-        name: "Rhythm of War",
-        link: "https://coppermind.net/wiki/Summary:Rhythm_of_War"
-    },
-    {
-        name: "Wind and Truth",
-        link: "https://coppermind.net/wiki/Summary:Wind_and_Truth"
-    },
-    {
-        name: "Mistborn: The Final Empire",
-        link: "https://coppermind.net/wiki/Summary:Mistborn:_The_Final_Empire"
-    },
-    {
-        name: "The Well of Ascension",
-        link: "https://coppermind.net/wiki/Summary:The_Well_of_Ascension"
-    },
-    {
-        name: "The Hero of Ages",
-        link: "https://coppermind.net/wiki/Summary:The_Hero_of_Ages"
-    }
-]
+import {summaryLinks} from "../chapter-links.js";
 
 export const getChapters = async (limit = undefined) => {
     const browser = await createPuppeteerBrowser()
@@ -51,6 +17,9 @@ export const getChapters = async (limit = undefined) => {
         await newBookPage.close()
     }
 
+    // Add in hardcoded stories that don't have chapters to scan
+    chapters = chapters.concat(getHardcodedChapters())
+
     await browser.close();
 
     return chapters
@@ -66,25 +35,77 @@ const getChapterDetailsFromPage = async () => {
             elementToTest = elementToTest.previousElementSibling
         }
 
+        if (elementToTest.querySelector("span")) {
+            elementToTest = elementToTest.querySelector("span")
+        }
+
         let name = elementToTest?.innerText.replace("[edit]", "")
 
         // Get characters
         let characterListElements = Array.from(el.querySelectorAll("li"))
         let characters = characterListElements.map(el => {
-            let name = el.querySelector("a").innerText
+            let name = el.querySelector("a")?.innerText
             let pointOfView = el.innerText.includes("point of view")
             let mentionedOnly = el.innerText.includes("mentioned only")
 
             return {
-                name: name,
+                name: name ?? "INVALID",
                 pointOfView: pointOfView,
                 mentionedOnly: mentionedOnly
             }
         })
+            .filter(character => character.name !== "INVALID")
 
         return {
             name: name,
             characters: characters
         }
     })
+}
+
+const getHardcodedChapters = () => {
+    return [
+        {
+            name: "Standalone Chapter",
+            characters: [
+                {
+                    name: "Jak",
+                    pointOfView: true,
+                    mentionedOnly: false
+                },
+                {
+                    name: "Handerwym",
+                    pointOfView: false,
+                    mentionedOnly: false
+                },
+                {
+                    name: "Elizandra Dramali",
+                    pointOfView: false,
+                    mentionedOnly: false
+                }
+            ],
+            book: "Allomancer Jak and the Pits of Eltania"
+        },
+        {
+            name: "Standalone Chapter",
+            characters: [
+                {
+                    name: "Kelsier",
+                    pointOfView: true,
+                    mentionedOnly: false
+                },
+                {
+                    name: "Gemmel",
+                    pointOfView: false,
+                    mentionedOnly: false
+                },
+                {
+                    name: "Antillius Shezler",
+                    pointOfView: false,
+                    mentionedOnly: false
+                }
+            ],
+            book: "The Eleventh Metal"
+        }
+    ]
 }

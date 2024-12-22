@@ -26,9 +26,10 @@ function convertBookToNode(book) {
 
 function convertChapterToNode(chapter) {
     return {
-        id: `chapter: ${chapter.name}`,
+        id: `chapter: ${chapter.book} - ${chapter.name}`,
         name: chapter.name,
-        type: 'chapter'
+        type: 'chapter',
+        book: chapter.book
     }
 }
 

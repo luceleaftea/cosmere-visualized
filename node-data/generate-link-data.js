@@ -19,7 +19,7 @@ function generateChapterLinks(nodeData) {
     let linkData = []
 
     nodeData.filter(node => node.type === 'chapter').forEach(chapterNode => {
-        let chapter = chapterJson.find(x => x.name === chapterNode.name)
+        let chapter = chapterJson.find(x => x.name === chapterNode.name && x.book === chapterNode.book)
 
         if (!chapter) {
             return
