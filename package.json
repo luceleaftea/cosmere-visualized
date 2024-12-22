@@ -6,7 +6,7 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel src/index.html --open",
-    "build": "rm -rf docs && parcel build src/index.html --dist-dir docs"
+    "build": "rm -rf docs && parcel build src/index.html --dist-dir docs --public-url https://luceleaftea.github.io/cosmere-visualized/"
   },
   "dependencies": {
     "force-graph": "^1.47.1",
