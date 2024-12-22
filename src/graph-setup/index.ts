@@ -1,7 +1,7 @@
 import ForceGraph from "force-graph";
 
-import linkData from '../../node-data/generated-data/link-data.json'
-import nodeData from '../../node-data/generated-data/node-data.json'
+const linkData = require('../../node-data/generated-data/link-data.json')
+const nodeData = require('../../node-data/generated-data/node-data.json')
 
 export function initializeForceGraph() {
     console.log()
