@@ -1,0 +1,6419 @@
+[
+  {
+    "name": "Prelude to the Stormlight Archive",
+    "characters": [
+      {
+        "name": "Kalak",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jezrien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Talenel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ishar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Prologue: To Kill",
+    "characters": [
+      {
+        "name": "Szeth",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jezrien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ishar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Kalak",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Talenel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shalash",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Thaidakar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Restares",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 1: Stormblessed",
+    "characters": [
+      {
+        "name": "Cenn",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kaladin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cyn",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Korater",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Veden Shardbearer",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gare",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Kusiri",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hallaw",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 2: Honor is Dead",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tvlakv",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bluth",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taran",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Cenn",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 3: City of Bells",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tozbek",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ashlv",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yalb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Valam",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 4: The Shattered Plains",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sylphrena",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tvlakv",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bluth",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tag",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Katarotam",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 5: Heretic",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taravangian's granddaughter",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tormas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nashan",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Niali the Just",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Placini",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gabrathin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Yustara",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Manaline",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Syasikk",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shauka-daughter-Hasweth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Barlesha Lhan",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Fabrisan",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Malise Gevelmar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 6: Bridge Four",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tvlakv",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bluth",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tag",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sylphrena",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Laral",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 7: Anything Reasonable",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Luesh",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Yalb",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Almighty",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lhanin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dandos Heraldin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 8: Nearer the Flame",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yalb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Artmyrn",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wikim Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jushu Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Helaran Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tozbek",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Placini",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gabrathin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Yustara",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Manaline",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shauka-daughter-Hasweth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Rencalt",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Barmest",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 9: Damnation",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sylphrena",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Laresh",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Cenn",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 10: Stories of Surgeons",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sani",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hammie",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jam",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Vathe",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 11: Droplets",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sylphrena",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-1: Ishikk",
+    "characters": [
+      {
+        "name": "Ishikk",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thaspic",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Maib",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Blunt",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Grump",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thinker",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-2: Nan Balat",
+    "characters": [
+      {
+        "name": "Balat Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Scrak",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wikim Davar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Eylita",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shallan Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Helaran Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jushu Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-3: The Glory of Ignorance",
+    "characters": [
+      {
+        "name": "Szeth",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Took",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ton",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Amark",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avado",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 12: Unity",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vamah",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vengeance",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thrill",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tarilar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vartian",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lomard",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wit",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bashin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Janala Lustow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Honor",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Rilla",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Deeli",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 13: Ten Heartbeats",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sureblood",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vengeance",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 14: Payday",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sylphrena",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 15: The Decoy",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wit",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vamah",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar’s wife",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "The Almighty",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Roion",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Talata",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Bethab",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 16: Cocoons",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Laral",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jost",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jest",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Mord",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tift",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Naget",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Khav",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 17: A Bloody Red Sunset",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yake",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Malop",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Murk",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adis",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Corl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Koorm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gadol",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 18: Highprince of War",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yis",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avaran",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Janala",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tibon",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Marks",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Falksi",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teshav Khal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kadash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ruthar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar's wife",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Aladar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Thanadal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hatham",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Vamah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 19: Starfalls",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taffa",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Seeli",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thrill",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Midnight Essence",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Honor",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rayse",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Heb",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Harkaylain",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 20: Scarlet",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Miasal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Harl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Valama",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Laral Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Alim",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 21: Why Men Lie",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Koolf",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bussik",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hav",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 22: Eyes, Hands, or Spheres",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wit",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Marakal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cadilar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taselin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Habatab",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tumul",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yonatan",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meirav",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Roion",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Aona",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Skai",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Rayse",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 23: Many Uses",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Natam",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Rayse",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Bavadin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 24: The Gallery of Maps",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Roion",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Sunmaker",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Janala",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Seveks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Malasha",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Renarin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 25: The Butcher",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Terith",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Relina",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Laral",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Miliv",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 26: Stillness",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teleb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kalami",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thrill",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Perethom",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Havarah",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Malasha",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ilamar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moratel",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sureblood",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Litima",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Isasik Shulin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Aladar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Roion",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ashelem",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 27: Chasm Duty",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yake",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Maps",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torfin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jezrien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nale",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 28: Decision",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teleb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ladent",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Havrom",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tadet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Niter",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Danlan Morakotha",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kalana",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Thrill",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Thanadal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hatham",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Bethab",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Brightlord Morakotha",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lalai",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shallan Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-4: Rysn",
+    "characters": [
+      {
+        "name": "Rysn Ftori",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vstim",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kylrm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thresh-son-Esan",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-5: Axies the Collector",
+    "characters": [
+      {
+        "name": "Axies",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cusicesh",
+        "pointOfView": false,
+        "mentionedOnly": false
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-6: A Work of Art",
+    "characters": [
+      {
+        "name": "Szeth",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Makkek",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavashaw",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Took",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Neturo",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hanavanar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 29: Errorgance",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Eylita Tavinar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jushu Davar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wikim Davar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Masly",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Coldwin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hasavah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Luesh",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hanavanar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Mederia",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Sadees",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavarah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gregorh",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Varas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Almighty",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 30: Darkness Unseen",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bisig",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Amark",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Koolf",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 31: Beneath the Skin",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Luten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Horl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Balsas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Laral Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ral",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 32: Side Carry",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Natam",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 33: Cymatics",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Talatin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Guvlow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Myalmr",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wikim Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jushu Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Habsant",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 34: Stormwall",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 35: A Light By Which to See",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 36: The Lesson",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 37: Sides",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Natir",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Barm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rillir Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Laral Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Mabrow Pigherder",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Miliv",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 38: Envisager",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gashash-son-Navammis",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Goshel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 39: Burned Into Her",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Eylita Tavinar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Alezarv",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Calinam",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Sur Kamar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 40: Eyes of Red and Blue",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torfin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Natam",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Maps",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bisig",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Idolir",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Treff",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 41: Of Alds and Milp",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Laral Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rillir Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Wistiow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Alds",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Milp",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 42: Beggars and Barmaids",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Masly",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Coldwin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hasavah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Cormshen",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Innia",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Talatin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Guvlow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tozbek",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ashlv",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 43: The Wretch",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Durk",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tvlakv",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Goshel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 44: The Weeping",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jost",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Naget",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Waber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Laral Roshone",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Natir",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Alaxia",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Callins",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Abry",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Harl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rillir Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ral",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Agil",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Marf",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Caull",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Taleb",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Habrin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Arafik",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jorna",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Loats",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 45: Shadesmar",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yelig-nar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Traxil",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Matain",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Klade",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tifandor",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Almighty",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 46: Child of Tanavast",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Bisig",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tivbet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Terxim",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Honor",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Odium",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Yake",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Delp",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Durk",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Reral Makoram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 47: Stormblessings",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gare",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Nalem",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Korabet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ven",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cenn",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Larn",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cyn",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Korater",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Toorim",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Veden Shardbearer",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lyndel",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Acis",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hamel",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Raksha",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hab",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Reesh",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Alabet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Coreb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hallaw",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Galan",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Norby",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 48: Strawberry",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Cormshen",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 49: To Care",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Allahn",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Extes",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Durk",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Varth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 50: Backbreaker Powder",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 51: Sas Nahn",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hab",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Reesh",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Alabet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Coreb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lanacin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Evod Markmaker",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Thaidakar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Veden Shardbearer",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Restares",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-7: Baxil",
+    "characters": [
+      {
+        "name": "Baxil",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Av",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "mistress",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Prime Kadasix",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Ashno",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-8: Geranid",
+    "characters": [
+      {
+        "name": "Geranid",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ashir",
+        "pointOfView": false,
+        "mentionedOnly": false
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Interlude I-9: Death Wears White",
+    "characters": [
+      {
+        "name": "Szeth",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hanavanar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 52: A Highway to the Sun",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leef",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Almighty",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 53: Dunny",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 54: Gibletish",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hatham",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Au-nak",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Fin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tezim",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 55: An Emerald Broam",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Maps",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Malop",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Alazansi",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jezrien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nalma",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 56: That Storming Book",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Thrill",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teleb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gallant",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 57: Wandersail",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Maps",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Yake",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Arik",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Miasal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Amark",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Goshel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nalma",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hav",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Derethil",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nafti",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 58: The Journey",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jakamav",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Inkima",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Danlan",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Toral",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Eshava",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Resi",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Vamah",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Istow",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Re-Shephir",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Roion",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Aladar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Wit",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 59: An Honor",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gaz",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 60: That Which We Cannot Have",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elthebar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Longshadow",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Karm",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Alakavish",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 61: Right for Wrong",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Parasaphi",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nadris",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hanavanar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Szeth",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 62: Three Glyphs",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jezrien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hesina",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tarah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 63: Fear",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Hobber",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tarah",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Yake",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hoid",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 64: A Man of Extremes",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teleb",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Ilamar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar's Wife",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Hashal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 65: The Tower",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nightwatcher",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 66: Codes",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Leyten",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 67: Words",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dabbid",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Mesh",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Varth",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Tien",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Stormfather",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Toralin Roshone",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dallet",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lirin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dunny",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Maps",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tukks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nalma",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Goshel",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Cenn",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Tashlin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Sheler",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 68: Eshonai",
+    "characters": [
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Parshendi Shardbearer",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Havar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Nacomb Gaval",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Malan",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Malop",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Meridas Amaram",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 69: Justice",
+    "characters": [
+      {
+        "name": "Navani Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Renarin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Makal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Adolin Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rust Elthal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Avarak Matal",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teleb",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lamaril",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 70: Sea of Glass",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "the Spren",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 71: Recorded In Blood",
+    "characters": [
+      {
+        "name": "Szeth",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Taravangian",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 72: Veristitalian",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "the Spren",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 73: Trust",
+    "characters": [
+      {
+        "name": "Kaladin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Syl",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Rock",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Teft",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Shen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Moash",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Lopen",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Skar",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Drehy",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Sigzil",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Peet",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Parshendi Shardbearer",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Malop",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Jaks",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Narm",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 74: Ghostblood",
+    "characters": [
+      {
+        "name": "Shallan Davar",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Jasnah Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Gavilar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Kabsal",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Balat Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Luesh",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Lin Davar",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Chapter 75: In the Top Room",
+    "characters": [
+      {
+        "name": "Dalinar Kholin",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Navani Kholin",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "The Almighty",
+        "pointOfView": false,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Elhokar Kholin",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Nohadon",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Odium",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Cultivation",
+        "pointOfView": false,
+        "mentionedOnly": true
+      },
+      {
+        "name": "Torol Sadeas",
+        "pointOfView": false,
+        "mentionedOnly": true
+      }
+    ],
+    "book": "The Way of Kings"
+  },
+  {
+    "name": "Epilogue: Of Most Worth",
+    "characters": [
+      {
+        "name": "Wit",
+        "pointOfView": true,
+        "mentionedOnly": false
+      },
+      {
+        "name": "Talenel",
+        "pointOfView": false,
+        "mentionedOnly": false
+      }
+    ],
+    "book": "The Way of Kings"
+  }
+]

@@ -25,8 +25,6 @@ export const getBooks = async (limit = undefined) => {
             .map(anchor => anchor.getAttribute("href"))
     })
 
-    console.log(pageLinks)
-
     let books = []
 
     for (const link of pageLinks) {
